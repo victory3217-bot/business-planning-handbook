@@ -1,0 +1,13 @@
+title: Business Planning Handbook
+description: A bilingual (Korean/English) handbook covering the 8 core areas of business planning.
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-relative-links
+  - jekyll-readme-index
+relative_links:
+  enabled: true
+  collections: true
+readme_index:
+  with_frontmatter: true
+include:
+  - README.md
