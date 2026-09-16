@@ -1,7 +1,7 @@
 # Business Planning Handbook / 사업기획 핵심 영역 교재 — v0.1
 
-> **Status: Private Release Candidate, human-reviewed.** Not yet in a Public Repository, not yet deployed to GitHub Pages. Per CLAUDE.md §18, this advances to Public Repository / GitHub Pages only after Human Review and explicit user approval.
-> **상태: 사람이 검토한 Private Release Candidate.** 아직 Public Repository로 이동하지 않았고 GitHub Pages에 배포되지 않았다. CLAUDE.md §18에 따라 Human Review와 사용자 승인 후에만 다음 단계로 넘어간다.
+> **Status: v0.1 — first public release, human-reviewed.** This is a continuously improved educational resource; content may be revised in future versions.
+> **상태: v0.1 — 사람이 검토한 첫 공개 릴리스.** 지속적으로 개선되는 교육 자료이며, 이후 버전에서 내용이 수정될 수 있다.
 
 A textbook that reorganizes the 8 core areas of business planning — from setting your own criteria to executing and pivoting — into one connected Learning Path, built entirely from an existing internal Knowledge Base.
 사업기획의 8개 핵심 영역을 기준 설정부터 실행·피보팅까지 하나로 연결한 교재이며, 기존 내부 Knowledge Base만을 근거로 재구성했다.
@@ -39,19 +39,19 @@ Each chapter includes one practical worksheet under `ko/manual/` and `en/manual/
 
 ## Source Policy / 출처 정책
 
-- Source of Truth: Master Notes MN01–MN08 (Google Drive `01_Current`) and public-eligible Knowledge Modules (`knowledge/` in this repository).
+- Source of Truth: an internal Knowledge Base (Master Notes and Knowledge Modules) maintained outside this repository. Only content classified as public-eligible was reorganized into this handbook.
 - No external research, web search, or general-knowledge supplementation was used in either language edition.
 - Chapter-to-source mapping: [`source-map.md`](source-map.md)
 - Terminology used across both editions: [`glossary.md`](glossary.md)
-- Two Knowledge Modules classified as non-public were excluded from both editions; related judgment criteria are described only within the range already expressible through other, publishable Knowledge Modules.
+- A small number of internal source items classified as non-public were excluded from both editions; related judgment criteria are described only within the range already expressible through other, publishable material.
 
-- Source of Truth: Master Note MN01~MN08 (Google Drive `01_Current`)와 public-eligible Knowledge Module(이 저장소의 `knowledge/`)이다.
+- Source of Truth: 이 저장소 밖에서 관리되는 내부 Knowledge Base(Master Note, Knowledge Module)다. 그중 공개 가능(public-eligible)한 내용만 이 교재로 재구성했다.
 - 두 언어판 모두 외부 리서치·웹검색·일반지식 보충을 사용하지 않았다.
 - Chapter-출처 대응표: [`source-map.md`](source-map.md)
 - 두 언어판에서 사용한 용어 정리: [`glossary.md`](glossary.md)
-- 비공개로 분류된 Knowledge Module 2건은 두 언어판 모두에서 제외했으며, 관련 판단기준은 공개 가능한 다른 Knowledge Module의 표현 범위 안에서만 서술했다.
+- 비공개로 분류된 소수의 내부 원자료는 두 언어판 모두에서 제외했으며, 관련 판단기준은 공개 가능한 다른 자료의 표현 범위 안에서만 서술했다.
 
 ## Version / 버전
 
-**v0.1** — Human-reviewed Private Release Candidate. Not yet published to a Public Repository or GitHub Pages.
-**v0.1** — 사람이 검토한 Private Release Candidate. 아직 Public Repository나 GitHub Pages에 게시되지 않았다.
+**v0.1** — First public release, human-reviewed. A continuously improved educational resource.
+**v0.1** — 사람이 검토한 첫 공개 릴리스. 지속적으로 개선되는 교육 자료다.
