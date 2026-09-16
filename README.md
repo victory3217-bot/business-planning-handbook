@@ -3,6 +3,15 @@
 > **Status: v0.1 — first public release, human-reviewed.** This is a continuously improved educational resource; content may be revised in future versions.
 > **상태: v0.1 — 사람이 검토한 첫 공개 릴리스.** 지속적으로 개선되는 교육 자료이며, 이후 버전에서 내용이 수정될 수 있다.
 
+## 📖 Read the Handbook
+
+- [한국어로 읽기](https://victory3217-bot.github.io/business-planning-handbook/ko/)
+- [Read in English](https://victory3217-bot.github.io/business-planning-handbook/en/)
+- [Handbook Home](https://victory3217-bot.github.io/business-planning-handbook/)
+
+> GitHub는 원본 저장소이며, 위 링크에서 순차형 Handbook Reader로 학습할 수 있습니다.
+> This GitHub repository holds the source files; use the links above to read the handbook as a sequential Reader.
+
 A textbook that reorganizes the 8 core areas of business planning — from setting your own criteria to executing and pivoting — into one connected Learning Path, built entirely from an existing internal Knowledge Base.
 사업기획의 8개 핵심 영역을 기준 설정부터 실행·피보팅까지 하나로 연결한 교재이며, 기존 내부 Knowledge Base만을 근거로 재구성했다.
 
