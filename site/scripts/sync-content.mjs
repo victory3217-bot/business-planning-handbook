@@ -74,18 +74,36 @@ if (existsSync(OUT_ROOT)) {
 }
 mkdirSync(OUT_ROOT, { recursive: true });
 
+// Collect chapter titles per locale (reused for the generated landing pages).
+const chapterTitlesByLocale = {};
+
+// Extract the first paragraph (or two) of prose following the H1 in a README,
+// stopping at the next heading. Used to seed the locale landing page intro
+// without hand-copying prose into this script.
+function extractIntro(md, maxParagraphs = 1) {
+  const { body } = extractTitle(md, "");
+  const paragraphs = body
+    .split(/\n\s*\n/)
+    .map((p) => p.trim())
+    .filter((p) => p && !p.startsWith("#") && !p.startsWith(">"));
+  return paragraphs.slice(0, maxParagraphs).join("\n\n");
+}
+
 for (const locale of LOCALES) {
   // Chapters
   let order = 1;
+  const titles = [];
   for (const ch of CHAPTERS) {
     const file = `${ch}.md`;
     const raw = readSource(locale, "chapters", file);
     const { title, body } = extractTitle(raw, ch);
+    titles.push(title);
     const fm = { title, sidebar: { order: order++ } };
     if (ch === CHAPTERS[0]) fm.prev = false;
     if (ch === CHAPTERS[CHAPTERS.length - 1]) fm.next = false;
     writeGenerated(join(OUT_ROOT, locale, "chapters", `${ch}.md`), fm, body);
   }
+  chapterTitlesByLocale[locale] = titles;
 
   // Worksheets
   let wOrder = 1;
@@ -116,24 +134,47 @@ for (const locale of LOCALES) {
   }
 }
 
-// Locale landing pages (index) — short, generated, no operational/internal info.
-const LANDING = {
+// Locale landing pages (index) — intro paragraph pulled from the canonical
+// ko/en README.md (source of truth), chapter link list generated from the
+// same titles already extracted from each chapter's H1 above. No prose is
+// hand-copied here.
+const BASE = "/business-planning-handbook/";
+
+const LANDING_STRINGS = {
   ko: {
     title: "Business Planning Handbook",
-    body: `사업계획 수립을 위한 8개 장 핸드북입니다.\n\n- 8개 챕터 (Chapters)\n- 8개 워크시트 (Worksheets)\n- 9개 사례 (Examples)\n\n왼쪽 사이드바에서 CH01부터 시작하세요.\n`,
+    pathLabel: "ko",
+    heading: "8개 챕터 학습 경로",
+    startLabel: "CH01부터 시작하기",
+    worksheetsNote:
+      "각 챕터별 실습 워크시트와 대표 사례는 왼쪽 사이드바의 **워크시트 & 사례** 그룹에서 확인할 수 있습니다.",
   },
   en: {
     title: "Business Planning Handbook",
-    body: `An 8-chapter handbook for business planning.\n\n- 8 Chapters\n- 8 Worksheets\n- 9 Examples\n\nStart with CH01 in the sidebar on the left.\n`,
+    pathLabel: "en",
+    heading: "8-Chapter Learning Path",
+    startLabel: "Start with CH01",
+    worksheetsNote:
+      "Practical worksheets and representative examples for each chapter are available under the **Worksheets & Examples** group in the sidebar on the left.",
   },
 };
 
 for (const locale of LOCALES) {
-  writeGenerated(
-    join(OUT_ROOT, locale, "index.md"),
-    { title: LANDING[locale].title, template: "splash" },
-    LANDING[locale].body
-  );
+  const strings = LANDING_STRINGS[locale];
+  const readmeRaw = readFileSync(join(REPO_ROOT, locale, "README.md"), "utf8");
+  const intro = extractIntro(readmeRaw, 1);
+
+  const chapterLinks = CHAPTERS.map((ch, i) => {
+    const title = chapterTitlesByLocale[locale][i];
+    const href = `${BASE}${strings.pathLabel}/chapters/${ch.toLowerCase()}/`;
+    return `- [${title}](${href})`;
+  }).join("\n");
+
+  const startHref = `${BASE}${strings.pathLabel}/chapters/${CHAPTERS[0].toLowerCase()}/`;
+
+  const body = `${intro}\n\n## ${strings.heading}\n\n${chapterLinks}\n\n${strings.worksheetsNote}\n\n[${strings.startLabel} →](${startHref})\n`;
+
+  writeGenerated(join(OUT_ROOT, locale, "index.md"), { title: strings.title }, body);
 }
 
 // Root landing page: bilingual choice, no internal/operational info.
