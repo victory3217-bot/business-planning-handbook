@@ -1,16 +1,37 @@
-# Business Planning Handbook / 사업기획 핵심 영역 교재 — v0.1
+# Business Planning Handbook
+## 사업기획 핵심 영역 교재 — v0.1
 
 > **Status: v0.1 — first public release, human-reviewed.** This is a continuously improved educational resource; content may be revised in future versions.
 > **상태: v0.1 — 사람이 검토한 첫 공개 릴리스.** 지속적으로 개선되는 교육 자료이며, 이후 버전에서 내용이 수정될 수 있다.
 
+A bilingual practical handbook covering the eight core areas of business planning: business criteria, opportunity selection, customer problems, value proposition, business model, pricing and revenue model, feasibility, and execution/validation.
+사업기획의 8개 핵심 영역 — 사업의 기준, 사업기회 선택, 고객 문제, 가치제안, 비즈니스모델, 가격·수익모델, 사업타당성, 실행·검증 — 을 다루는 이중언어 실무 교재다.
+
 ## 📖 Read the Handbook
 
-- [한국어로 읽기](https://victory3217-bot.github.io/business-planning-handbook/ko/)
 - [Read in English](https://victory3217-bot.github.io/business-planning-handbook/en/)
+- [한국어로 읽기](https://victory3217-bot.github.io/business-planning-handbook/ko/)
 - [Handbook Home](https://victory3217-bot.github.io/business-planning-handbook/)
 
-> GitHub는 원본 저장소이며, 위 링크에서 순차형 Handbook Reader로 학습할 수 있습니다.
-> This GitHub repository holds the source files; use the links above to read the handbook as a sequential Reader.
+> This GitHub repository contains the source files. Use the links above to read the handbook in the interactive Reader.
+> 이 GitHub 저장소는 교재 원본 파일을 보관합니다. 실제 학습은 위 Reader 링크에서 진행할 수 있습니다.
+
+## About This Handbook
+
+This handbook is written for founders, consultants, business planners, and educators who need a structured, practice-oriented framework for developing a business — not a collection of generic startup tips.
+
+It organizes business planning into an 8-Chapter Learning Path, moving in judgment order rather than by topic checklist:
+
+1. **Setting your business criteria** — define what success means before choosing an item or market.
+2. **Finding and choosing a business opportunity** — screen opportunities against your own criteria.
+3. **Defining the customer, buyer, and problem** — separate who has the problem from who pays.
+4. **Building value proposition, competitive advantage, and positioning** — translate the problem into a defensible offer.
+5. **Designing the business model** — connect customer, value, and delivery into one structure.
+6. **Designing cost, pricing, and the revenue model** — turn the model into numbers.
+7. **Validating business feasibility and the effective market** — test whether the numbers are realistic before scaling effort.
+8. **Executing, validating, and pivoting** — run, measure, and revise the plan with real data.
+
+Each chapter pairs its core content with a fillable worksheet and, where available, a worked example drawn from real cases — see [Worksheets](#worksheets--워크시트) and [Examples](#examples--사례) below.
 
 A textbook that reorganizes the 8 core areas of business planning — from setting your own criteria to executing and pivoting — into one connected Learning Path, built entirely from an existing internal Knowledge Base.
 사업기획의 8개 핵심 영역을 기준 설정부터 실행·피보팅까지 하나로 연결한 교재이며, 기존 내부 Knowledge Base만을 근거로 재구성했다.
