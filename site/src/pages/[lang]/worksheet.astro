@@ -82,5 +82,15 @@ const L = ko
   #ws-form .ws-blank { width: 10rem; min-width: 0; }
   #ws-form .ws-check-row { display: flex; flex-wrap: wrap; gap: 0.4rem 1.2rem; margin: 0.5rem 0 1rem; align-items: center; }
   #ws-form .ws-check { display: inline-flex; gap: 0.4rem; align-items: center; }
+  #ws-form .ws-inline { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem 0.5rem; margin: 0.5rem 0; }
+  #ws-form .ws-inline .ws-answer { margin: 0; flex: 1 1 14rem; }
+  #ws-form .ws-inline .ws-answer-sm { min-height: 3.2rem; }
+  #ws-form .ws-inline .ws-cell { flex: 1 1 12rem; width: auto; }
+  #ws-form .ws-select {
+    font: inherit; max-width: 100%; padding: 0.3rem 0.4rem;
+    border: 1px solid var(--sl-color-gray-4); border-radius: 0.3rem;
+    background: var(--sl-color-bg); color: var(--sl-color-text);
+  }
+  #ws-form pre { overflow-x: auto; max-width: 100%; }
   #ws-form .ws-q { font-weight: 600; margin-top: 1rem; }
 </style>
