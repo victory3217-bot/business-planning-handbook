@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 704" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">가격에서 수익모델까지</title>
+  <desc id="d">원가는 가격의 현실적인 하한선이고, 고객이 받아들이는 지불범위는 가격의 다른 경계다. 경쟁은 누구와 비교할지 먼저 정해야 하며, 채널의 수수료와 고객관계 유지비용도 가격에 반영된다. 가격은 비즈니스모델의 요소들이 모순 없이 연결됐는지 확인하는 정합성의 기준이다. 수익모델은 가격보다 넓은 개념이며 손익·자산·현금흐름 세 재무 렌즈로 볼 수 있다.</desc>
+  <defs>
+    <marker id="arrow-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#14253D"/>
+    </marker>
+    <marker id="arrow-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#C49A5A"/>
+    </marker>
+  </defs>
+  <g id="background">
+    <rect width="480" height="704" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="cost">
+    <rect x="40" y="24" width="192" height="112" rx="10" fill="#315B62"/>
+    <text x="136" y="64" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">원가</text>
+    <text x="136" y="88" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">가격의 현실적인</text>
+    <text x="136" y="111" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">하한선</text>
+  </g>
+  <g id="customer-value">
+    <rect x="248" y="24" width="192" height="112" rx="10" fill="#315B62"/>
+    <text x="344" y="64" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">고객가치</text>
+    <text x="344" y="88" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">고객이 받아들이는</text>
+    <text x="344" y="111" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">지불범위</text>
+  </g>
+  <g id="competition">
+    <rect x="40" y="148" width="192" height="112" rx="10" fill="#315B62"/>
+    <text x="136" y="188" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">경쟁</text>
+    <text x="136" y="212" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">누구와 비교할지</text>
+    <text x="136" y="235" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">먼저 정한다</text>
+  </g>
+  <g id="channel-relationship">
+    <rect x="248" y="148" width="192" height="112" rx="10" fill="#315B62"/>
+    <text x="344" y="188" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">채널·고객관계</text>
+    <text x="344" y="212" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">수수료·관계유지</text>
+    <text x="344" y="235" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">비용이 반영됨</text>
+  </g>
+  <g id="price">
+    <rect x="40" y="298" width="400" height="100" rx="10" fill="#C49A5A"/>
+    <text x="240" y="332" text-anchor="middle" font-size="20" font-weight="700" fill="#252A30">가격</text>
+    <text x="240" y="356" text-anchor="middle" font-size="17" font-weight="400" fill="#252A30">비즈니스모델 요소들이 모순 없이</text>
+    <text x="240" y="379" text-anchor="middle" font-size="17" font-weight="400" fill="#252A30">연결됐는지 확인하는 정합성의 기준</text>
+  </g>
+  <g id="revenue-model">
+    <rect x="40" y="436" width="400" height="110" rx="10" fill="#14253D"/>
+    <text x="240" y="464" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">수익모델</text>
+    <text x="240" y="487" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">가격보다 넓은 개념</text>
+    <text x="240" y="510" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">누가·무엇에·얼마를·언제</text>
+    <text x="240" y="533" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">한 번인가 반복인가</text>
+  </g>
+  <g id="flow">
+    <line x1="240" y1="262" x2="240" y2="295" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)"/>
+    <line x1="240" y1="400" x2="240" y2="433" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)"/>
+  </g>
+  <g id="financial-lenses">
+    <text x="24" y="590" font-size="17" font-weight="700" fill="#252A30">수익모델을 보는 세 개의 재무 렌즈</text>
+  <g id="lens0">
+    <rect x="24" y="606" width="136" height="72" rx="10" fill="#315B62"/>
+    <text x="92" y="639" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">손익</text>
+    <text x="92" y="661" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">마진</text>
+  </g>
+  <g id="lens1">
+    <rect x="172" y="606" width="136" height="72" rx="10" fill="#315B62"/>
+    <text x="240" y="639" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">자산</text>
+    <text x="240" y="661" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">자산가치</text>
+  </g>
+  <g id="lens2">
+    <rect x="320" y="606" width="136" height="72" rx="10" fill="#315B62"/>
+    <text x="388" y="639" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">현금흐름</text>
+    <text x="388" y="661" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">돈의 흐름</text>
+  </g>
+  </g>
+</svg>

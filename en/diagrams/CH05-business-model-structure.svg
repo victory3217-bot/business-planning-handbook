@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 740" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">The three structures of the business model around the Value Proposition</title>
+  <desc id="d">Around the Value Proposition, the business model divides into three structures — value delivery (Customer, Channel, Customer Relationships), value creation (Key Resources, Key Activities, Key Partnerships), and value capture (Cost Structure, Revenue Streams) — and these cannot be designed independently of one another. A choice in one box changes the others, and a broken connecting sentence signals a decision that is still unresolved.</desc>
+  <defs>
+    <marker id="arrow-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#14253D"/>
+    </marker>
+    <marker id="arrow-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#C49A5A"/>
+    </marker>
+  </defs>
+  <g id="background">
+    <rect width="480" height="740" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="axis">
+    <line x1="114" y1="184" x2="190" y2="199" stroke="#14253D" stroke-width="2.5"/>
+    <line x1="366" y1="184" x2="290" y2="199" stroke="#14253D" stroke-width="2.5"/>
+    <line x1="240" y1="309" x2="240" y2="376" stroke="#14253D" stroke-width="2.5"/>
+  </g>
+  <g id="value-delivery">
+    <rect x="24" y="30" width="180" height="150" rx="10" fill="#14253D"/>
+    <text x="114" y="91" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Value delivery</text>
+    <text x="114" y="114" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">Customer · Channel</text>
+    <text x="114" y="135" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">Customer Relationships</text>
+  </g>
+  <g id="value-creation">
+    <rect x="276" y="30" width="180" height="150" rx="10" fill="#14253D"/>
+    <text x="366" y="81" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Value creation</text>
+    <text x="366" y="103" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">Key Resources,</text>
+    <text x="366" y="124" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">Key Activities,</text>
+    <text x="366" y="145" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">Key Partnerships</text>
+  </g>
+  <g id="value-capture">
+    <rect x="150" y="380" width="180" height="150" rx="10" fill="#14253D"/>
+    <text x="240" y="441" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Value capture</text>
+    <text x="240" y="464" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">Cost Structure ·</text>
+    <text x="240" y="485" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">Revenue Streams</text>
+  </g>
+  <g id="value-proposition">
+    <rect x="155" y="195" width="170" height="114" rx="10" fill="#C49A5A"/>
+    <text x="240" y="225" text-anchor="middle" font-size="20" font-weight="700" fill="#252A30">Value</text>
+    <text x="240" y="252" text-anchor="middle" font-size="20" font-weight="700" fill="#252A30">Proposition</text>
+    <text x="240" y="274" text-anchor="middle" font-size="16" font-weight="400" fill="#252A30">The axis joining</text>
+    <text x="240" y="295" text-anchor="middle" font-size="16" font-weight="400" fill="#252A30">the three</text>
+  </g>
+  <g id="note">
+    <rect x="40" y="560" width="400" height="92" rx="10" fill="#315B62"/>
+    <text x="240" y="589" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">A choice in one box changes the others.</text>
+    <text x="240" y="612" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">If the connecting sentence breaks,</text>
+    <text x="240" y="635" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">a decision is still unresolved</text>
+  </g>
+  <g id="legend">
+    <line x1="40" y1="688" x2="84" y2="688" stroke="#14253D" stroke-width="2.5"/>
+    <text x="96" y="694" text-anchor="start" font-size="16" font-weight="400" fill="#252A30">Line: connected around the Value</text>
+    <text x="96" y="716" text-anchor="start" font-size="16" font-weight="400" fill="#252A30">Proposition (not designed independently)</text>
+  </g>
+</svg>

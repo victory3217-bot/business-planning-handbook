@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 740" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">가치제안을 중심으로 한 비즈니스모델의 세 구조</title>
+  <desc id="d">비즈니스모델은 가치제안을 축으로 가치전달(고객·채널·고객관계), 가치창출(핵심자원·핵심활동·핵심파트너십), 가치회수(비용구조·수익원) 세 구조로 나뉘며, 이 셋은 서로 분리된 채 독립적으로 설계될 수 없다. 한 칸의 선택은 다른 칸을 바꾸고, 연결문장이 끊기면 아직 정리되지 않은 의사결정이 있다는 신호다.</desc>
+  <defs>
+    <marker id="arrow-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#14253D"/>
+    </marker>
+    <marker id="arrow-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#C49A5A"/>
+    </marker>
+  </defs>
+  <g id="background">
+    <rect width="480" height="740" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="axis">
+    <line x1="114" y1="184" x2="190" y2="199" stroke="#14253D" stroke-width="2.5"/>
+    <line x1="366" y1="184" x2="290" y2="199" stroke="#14253D" stroke-width="2.5"/>
+    <line x1="240" y1="309" x2="240" y2="376" stroke="#14253D" stroke-width="2.5"/>
+  </g>
+  <g id="value-delivery">
+    <rect x="24" y="30" width="180" height="150" rx="10" fill="#14253D"/>
+    <text x="114" y="91" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">가치전달</text>
+    <text x="114" y="114" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">고객 · 채널</text>
+    <text x="114" y="135" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">고객관계</text>
+  </g>
+  <g id="value-creation">
+    <rect x="276" y="30" width="180" height="150" rx="10" fill="#14253D"/>
+    <text x="366" y="91" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">가치창출</text>
+    <text x="366" y="114" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">핵심자원 · 핵심활동</text>
+    <text x="366" y="135" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">핵심파트너십</text>
+  </g>
+  <g id="value-capture">
+    <rect x="150" y="380" width="180" height="150" rx="10" fill="#14253D"/>
+    <text x="240" y="452" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">가치회수</text>
+    <text x="240" y="474" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">비용구조 · 수익원</text>
+  </g>
+  <g id="value-proposition">
+    <rect x="155" y="195" width="170" height="114" rx="10" fill="#C49A5A"/>
+    <text x="240" y="249" text-anchor="middle" font-size="20" font-weight="700" fill="#252A30">가치제안</text>
+    <text x="240" y="271" text-anchor="middle" font-size="16" font-weight="400" fill="#252A30">세 구조를 잇는 축</text>
+  </g>
+  <g id="note">
+    <rect x="40" y="560" width="400" height="92" rx="10" fill="#315B62"/>
+    <text x="240" y="589" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">한 칸의 선택은 다른 칸을 바꾼다.</text>
+    <text x="240" y="612" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">연결문장이 끊기면 아직 정리되지 않은</text>
+    <text x="240" y="635" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">의사결정이 있다는 신호다</text>
+  </g>
+  <g id="legend">
+    <line x1="40" y1="688" x2="84" y2="688" stroke="#14253D" stroke-width="2.5"/>
+    <text x="96" y="694" text-anchor="start" font-size="16" font-weight="400" fill="#252A30">선: 가치제안을 축으로 연결된다</text>
+    <text x="96" y="716" text-anchor="start" font-size="16" font-weight="400" fill="#252A30">(서로 독립적으로 설계할 수 없다)</text>
+  </g>
+</svg>

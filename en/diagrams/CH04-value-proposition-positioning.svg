@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 748" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">From customer problem to value proposition and positioning</title>
+  <desc id="d">The customer problem is organized as problem, attribute, solution, product/service. Competing products and substitutes are identified based on the customer problem, compared through comparison metrics, and checked against the seven competitive-advantage criteria. The Value Proposition is the state in which the customer problem, the solution, and the reason to choose are linked in one logic. Positioning decides how the customer should perceive the difference and checks that the 4P point in the same direction.</desc>
+  <defs>
+    <marker id="arrow-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#14253D"/>
+    </marker>
+    <marker id="arrow-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#C49A5A"/>
+    </marker>
+  </defs>
+  <g id="background">
+    <rect width="480" height="748" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="problem-to-product">
+    <rect x="40" y="24" width="400" height="112" rx="10" fill="#315B62"/>
+    <text x="240" y="51" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Problem → Attribute →</text>
+    <text x="240" y="78" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Solution → Product/Service</text>
+    <text x="240" y="101" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">Select and combine the functions and</text>
+    <text x="240" y="124" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">performance this customer needs</text>
+  </g>
+  <g id="competing-alternatives">
+    <rect x="40" y="168" width="400" height="96" rx="10" fill="#315B62"/>
+    <text x="240" y="198" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Competing products</text>
+    <text x="240" y="225" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">and substitutes</text>
+    <text x="240" y="249" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">Boundary set by the customer problem</text>
+  </g>
+  <g id="metrics-and-advantage">
+    <rect x="40" y="296" width="400" height="136" rx="10" fill="#315B62"/>
+    <text x="240" y="323" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Comparison metrics →</text>
+    <text x="240" y="350" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">competitive advantage</text>
+    <text x="240" y="374" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">Seven criteria: importance, efficiency,</text>
+    <text x="240" y="397" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">superiority, visibility, preemptiveness,</text>
+    <text x="240" y="420" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">decisiveness, profitability</text>
+  </g>
+  <g id="value-proposition">
+    <rect x="40" y="464" width="400" height="96" rx="10" fill="#C49A5A"/>
+    <text x="240" y="496" text-anchor="middle" font-size="20" font-weight="700" fill="#252A30">Value Proposition</text>
+    <text x="240" y="520" text-anchor="middle" font-size="17" font-weight="400" fill="#252A30">Customer problem, solution, and reason</text>
+    <text x="240" y="543" text-anchor="middle" font-size="17" font-weight="400" fill="#252A30">to choose, linked in one logic</text>
+  </g>
+  <g id="positioning">
+    <rect x="40" y="592" width="400" height="132" rx="10" fill="#14253D"/>
+    <text x="240" y="619" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Positioning</text>
+    <text x="240" y="643" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">How the customer should perceive</text>
+    <text x="240" y="666" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">the difference</text>
+    <text x="240" y="689" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">Check that Product/Service, Price,</text>
+    <text x="240" y="712" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">Place, Promotion point the same way</text>
+  </g>
+  <g id="flow">
+    <line x1="240" y1="138" x2="240" y2="165" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)"/>
+    <line x1="240" y1="266" x2="240" y2="293" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)"/>
+    <line x1="240" y1="434" x2="240" y2="461" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)"/>
+    <line x1="240" y1="562" x2="240" y2="589" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)"/>
+  </g>
+</svg>

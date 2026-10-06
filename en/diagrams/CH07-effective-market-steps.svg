@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 708" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">The four segments of the 9-step Effective Market estimation</title>
+  <desc id="d">The 9 steps of Effective Market estimation fall into four segments. Steps 1–3 build the hypothesis, steps 4–5 confirm reality with QCD, steps 6–8 narrow to an executable model, and step 9 expresses the Effective Market as price times sales quantity. If even one QCD element is not satisfied, return to the hypotheses; if the result does not fit the goal or resources, go back to earlier steps and readjust the hypotheses and the model.</desc>
+  <defs>
+    <marker id="arrow-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#14253D"/>
+    </marker>
+    <marker id="arrow-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#C49A5A"/>
+    </marker>
+  </defs>
+  <g id="background">
+    <rect width="480" height="708" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="hypothesis">
+    <rect x="40" y="24" width="380" height="104" rx="10" fill="#315B62"/>
+    <text x="230" y="60" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Steps 1–3: Build hypotheses</text>
+    <text x="230" y="84" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">Segment and target → positioning</text>
+    <text x="230" y="107" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">→ distribution and price hypotheses</text>
+  </g>
+  <g id="qcd">
+    <rect x="40" y="160" width="380" height="132" rx="10" fill="#C49A5A"/>
+    <text x="230" y="187" text-anchor="middle" font-size="20" font-weight="700" fill="#252A30">Steps 4–5: QCD reality check</text>
+    <text x="230" y="211" text-anchor="middle" font-size="17" font-weight="400" fill="#252A30">Review Quality, Cost, and Delivery</text>
+    <text x="230" y="234" text-anchor="middle" font-size="17" font-weight="400" fill="#252A30">together. If any one is not</text>
+    <text x="230" y="257" text-anchor="middle" font-size="17" font-weight="400" fill="#252A30">satisfied, return to the</text>
+    <text x="230" y="280" text-anchor="middle" font-size="17" font-weight="400" fill="#252A30">hypotheses</text>
+  </g>
+  <g id="executable-model">
+    <rect x="40" y="324" width="380" height="104" rx="10" fill="#315B62"/>
+    <text x="230" y="360" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Steps 6–8: Executable model</text>
+    <text x="230" y="384" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">Final targeting → final positioning</text>
+    <text x="230" y="407" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">and 4P → final business model (BMC)</text>
+  </g>
+  <g id="effective-market">
+    <rect x="40" y="460" width="380" height="112" rx="10" fill="#14253D"/>
+    <text x="230" y="489" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Step 9: Effective Market figure</text>
+    <text x="230" y="512" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">Price (P) × sales quantity (Qty)</text>
+    <text x="230" y="535" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">Reflects the conditions validated</text>
+    <text x="230" y="558" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">in steps 1–8</text>
+  </g>
+  <g id="flow">
+    <line x1="230" y1="130" x2="230" y2="157" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)"/>
+    <line x1="230" y1="294" x2="230" y2="321" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)"/>
+    <line x1="230" y1="430" x2="230" y2="457" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)"/>
+  </g>
+  <g id="return-loop">
+    <path d="M420 516 H452 V76 H422" fill="none" stroke="#C49A5A" stroke-width="3" stroke-dasharray="7 5" marker-end="url(#arrow-gold)"/>
+  </g>
+  <g id="legend">
+    <line x1="40" y1="612" x2="84" y2="612" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)"/>
+    <text x="96" y="618" text-anchor="start" font-size="16" font-weight="400" fill="#252A30">Solid arrow: progression of the steps</text>
+    <line x1="40" y1="652" x2="84" y2="652" stroke="#C49A5A" stroke-width="3" stroke-dasharray="7 5" marker-end="url(#arrow-gold)"/>
+    <text x="96" y="658" text-anchor="start" font-size="16" font-weight="400" fill="#252A30">Dashed arrow: go back to earlier steps</text>
+    <text x="96" y="680" text-anchor="start" font-size="16" font-weight="400" fill="#252A30">and readjust hypotheses and model</text>
+  </g>
+</svg>

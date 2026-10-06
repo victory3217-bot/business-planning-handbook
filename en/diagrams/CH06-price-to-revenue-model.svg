@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 704" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">From price to the revenue model</title>
+  <desc id="d">Cost is the realistic floor for price, and the range customers are willing to pay creates the other boundary. For competition you first decide who to compare against, and channel fees and the cost of maintaining customer relationships also enter the price. Price is a consistency check that the business model elements connect without contradiction. The revenue model is broader than price and can be viewed through three financial lenses: P&amp;L, asset value, and cash flow.</desc>
+  <defs>
+    <marker id="arrow-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#14253D"/>
+    </marker>
+    <marker id="arrow-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#C49A5A"/>
+    </marker>
+  </defs>
+  <g id="background">
+    <rect width="480" height="704" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="cost">
+    <rect x="40" y="24" width="192" height="112" rx="10" fill="#315B62"/>
+    <text x="136" y="64" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Cost</text>
+    <text x="136" y="88" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">The realistic floor</text>
+    <text x="136" y="111" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">for price</text>
+  </g>
+  <g id="customer-value">
+    <rect x="248" y="24" width="192" height="112" rx="10" fill="#315B62"/>
+    <text x="344" y="64" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Customer value</text>
+    <text x="344" y="88" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">The range customers</text>
+    <text x="344" y="111" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">are willing to pay</text>
+  </g>
+  <g id="competition">
+    <rect x="40" y="148" width="192" height="112" rx="10" fill="#315B62"/>
+    <text x="136" y="188" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Competition</text>
+    <text x="136" y="212" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">Decide who to</text>
+    <text x="136" y="235" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">compare against first</text>
+  </g>
+  <g id="channel-relationship">
+    <rect x="248" y="148" width="192" height="112" rx="10" fill="#315B62"/>
+    <text x="344" y="175" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Channel and</text>
+    <text x="344" y="202" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">relationships</text>
+    <text x="344" y="225" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">Fees and relationship</text>
+    <text x="344" y="248" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">costs enter the price</text>
+  </g>
+  <g id="price">
+    <rect x="40" y="298" width="400" height="100" rx="10" fill="#C49A5A"/>
+    <text x="240" y="332" text-anchor="middle" font-size="20" font-weight="700" fill="#252A30">Price</text>
+    <text x="240" y="356" text-anchor="middle" font-size="17" font-weight="400" fill="#252A30">A consistency check that the</text>
+    <text x="240" y="379" text-anchor="middle" font-size="17" font-weight="400" fill="#252A30">business model elements fit together</text>
+  </g>
+  <g id="revenue-model">
+    <rect x="40" y="436" width="400" height="110" rx="10" fill="#14253D"/>
+    <text x="240" y="464" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Revenue model</text>
+    <text x="240" y="487" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">Broader than price</text>
+    <text x="240" y="510" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">Who, what for, how much, when,</text>
+    <text x="240" y="533" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">one-time or repeating?</text>
+  </g>
+  <g id="flow">
+    <line x1="240" y1="262" x2="240" y2="295" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)"/>
+    <line x1="240" y1="400" x2="240" y2="433" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)"/>
+  </g>
+  <g id="financial-lenses">
+    <text x="24" y="590" font-size="17" font-weight="700" fill="#252A30">Three financial lenses on a revenue model</text>
+  <g id="lens0">
+    <rect x="24" y="606" width="136" height="72" rx="10" fill="#315B62"/>
+    <text x="92" y="639" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">P&amp;L</text>
+    <text x="92" y="661" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">Margin</text>
+  </g>
+  <g id="lens1">
+    <rect x="172" y="606" width="136" height="72" rx="10" fill="#315B62"/>
+    <text x="240" y="639" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Asset</text>
+    <text x="240" y="661" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">Asset value</text>
+  </g>
+  <g id="lens2">
+    <rect x="320" y="606" width="136" height="72" rx="10" fill="#315B62"/>
+    <text x="388" y="639" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Cash flow</text>
+    <text x="388" y="661" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">Flow of money</text>
+  </g>
+  </g>
+</svg>
