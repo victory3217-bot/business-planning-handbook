@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 712" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">사업의 기준과 후속 의사결정의 관계</title>
+  <desc id="d">사업의 기준은 라이프스타일, 목표수익, 성장규모, Not-to-do 네 가지 기준으로 이루어지며 하나의 우선순위 체계로 묶인다. 이 체계는 아이템 선택과 시장·가격·타당성 검토에서 필터이자 입력값으로 작동한다. 점선 화살표는 가족상황·자금상황·역할·시장환경이 바뀌어 원하는 결과가 달라졌을 때 기준을 다시 검토한다는 뜻이다.</desc>
+  <defs>
+    <marker id="arrow-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#14253D"/>
+    </marker>
+    <marker id="arrow-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#C49A5A"/>
+    </marker>
+  </defs>
+  <g id="background">
+    <rect width="480" height="712" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="criteria">
+    <rect x="40" y="24" width="400" height="72" rx="10" fill="#14253D"/>
+    <text x="240" y="56" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">사업의 기준</text>
+    <text x="240" y="79" text-anchor="middle" font-size="17" font-weight="400" fill="#F6F2EA">사업가 자신의 판단기준</text>
+  </g>
+  <g id="criteria-items">
+    <line x1="240" y1="96" x2="240" y2="120" stroke="#14253D" stroke-width="2.5"/>
+    <rect x="40" y="120" width="192" height="52" rx="10" fill="#315B62"/>
+    <text x="136" y="153" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">라이프스타일</text>
+    <rect x="248" y="120" width="192" height="52" rx="10" fill="#315B62"/>
+    <text x="344" y="153" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">목표수익</text>
+    <rect x="40" y="184" width="192" height="52" rx="10" fill="#315B62"/>
+    <text x="136" y="217" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">성장규모</text>
+    <rect x="248" y="184" width="192" height="52" rx="10" fill="#315B62"/>
+    <text x="344" y="217" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Not-to-do</text>
+  </g>
+  <g id="priority-system">
+    <line x1="240" y1="240" x2="240" y2="278" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)"/>
+    <rect x="40" y="280" width="400" height="104" rx="10" fill="#C49A5A"/>
+    <text x="240" y="316" text-anchor="middle" font-size="20" font-weight="700" fill="#252A30">우선순위 체계</text>
+    <text x="240" y="340" text-anchor="middle" font-size="17" font-weight="400" fill="#252A30">무엇을 우선하고 포기할지는</text>
+    <text x="240" y="363" text-anchor="middle" font-size="17" font-weight="400" fill="#252A30">사업가가 정한다</text>
+  </g>
+  <g id="downstream">
+    <line x1="240" y1="384" x2="240" y2="420" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)"/>
+    <text x="254" y="408" text-anchor="start" font-size="16" font-weight="400" fill="#252A30">필터·입력값으로 작동</text>
+    <rect x="40" y="424" width="192" height="140" rx="10" fill="#315B62"/>
+    <text x="136" y="480" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">아이템 선택</text>
+    <text x="136" y="503" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">Not-to-do를</text>
+    <text x="136" y="524" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">직접 사용</text>
+    <rect x="248" y="424" width="192" height="140" rx="10" fill="#315B62"/>
+    <text x="344" y="467" text-anchor="middle" font-size="18" font-weight="700" fill="#FFFFFF">시장·가격·</text>
+    <text x="344" y="492" text-anchor="middle" font-size="18" font-weight="700" fill="#FFFFFF">타당성 검토</text>
+    <text x="344" y="514" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">사업목적·목표수익이</text>
+    <text x="344" y="535" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">전제조건</text>
+  </g>
+  <g id="reopen-loop">
+    <path d="M440 494 H466 V60 H446" fill="none" stroke="#C49A5A" stroke-width="3" stroke-dasharray="7 5" marker-end="url(#arrow-gold)"/>
+  </g>
+  <g id="legend">
+    <line x1="40" y1="616" x2="84" y2="616" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)"/>
+    <text x="96" y="622" text-anchor="start" font-size="16" font-weight="400" fill="#252A30">실선 화살표: 판단의 입력·필터로 작동</text>
+    <line x1="40" y1="656" x2="84" y2="656" stroke="#C49A5A" stroke-width="3" stroke-dasharray="7 5" marker-end="url(#arrow-gold)"/>
+    <text x="96" y="662" text-anchor="start" font-size="16" font-weight="400" fill="#252A30">점선 화살표: 상황·원하는 결과가 달라지면</text>
+    <text x="96" y="684" text-anchor="start" font-size="16" font-weight="400" fill="#252A30">기준을 다시 검토</text>
+  </g>
+</svg>

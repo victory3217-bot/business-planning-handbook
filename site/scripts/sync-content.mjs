@@ -4,7 +4,7 @@
 // Do NOT hand-edit files under src/content/docs — edit the source in ../ko or ../en instead.
 // This script only adds/normalizes Starlight frontmatter; it never touches prose.
 
-import { readFileSync, writeFileSync, mkdirSync, rmSync, readdirSync, existsSync } from "node:fs";
+import { readFileSync, writeFileSync, mkdirSync, rmSync, readdirSync, existsSync, copyFileSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -20,6 +20,12 @@ const CHAPTERS = ["CH01", "CH02", "CH03", "CH04", "CH05", "CH06", "CH07", "CH08"
 
 function readSource(locale, sub, file) {
   return readFileSync(join(REPO_ROOT, locale, sub, file), "utf8");
+}
+
+function listDirExt(locale, sub, ext) {
+  const dir = join(REPO_ROOT, locale, sub);
+  if (!existsSync(dir)) return [];
+  return readdirSync(dir).filter((f) => f.endsWith(ext)).sort();
 }
 
 function listDir(locale, sub) {
@@ -129,6 +135,12 @@ for (const locale of LOCALES) {
     );
     mkdirSync(join(SITE_ROOT, "public", "worksheets", locale), { recursive: true });
     writeFileSync(join(SITE_ROOT, "public", "worksheets", locale, file), raw, "utf8");
+  }
+
+  // Diagrams (canonical SVGs live in ko/diagrams and en/diagrams)
+  for (const file of listDirExt(locale, "diagrams", ".svg")) {
+    mkdirSync(join(OUT_ROOT, locale, "diagrams"), { recursive: true });
+    copyFileSync(join(REPO_ROOT, locale, "diagrams", file), join(OUT_ROOT, locale, "diagrams", file));
   }
 
   // Examples

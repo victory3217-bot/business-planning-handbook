@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 740" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">TPM 정합성</title>
+  <desc id="d">T(실행 가능한 역량, 무엇을 할 수 있는가), P(상품가설, 무엇을 팔 것인가), M(산업과 시장, 어디에서 사업기회를 찾을 것인가) 세 요소가 서로를 제약하고 수정하는 관계로 연결되어 있고, 세 요소가 하나의 논리로 맞물릴 때 정합성이 만들어진다. 정합성 확인은 사업 검증 완료가 아니라 다음 단계로 넘어갈 만큼 가설이 선명해졌다는 신호다.</desc>
+  <defs>
+    <marker id="arrow-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#14253D"/>
+    </marker>
+    <marker id="arrow-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#C49A5A"/>
+    </marker>
+  </defs>
+  <g id="background">
+    <rect width="480" height="740" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="relations">
+    <line x1="208" y1="105" x2="272" y2="105" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)" marker-start="url(#arrow-navy)"/>
+    <line x1="104" y1="184" x2="170" y2="376" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)" marker-start="url(#arrow-navy)"/>
+    <line x1="376" y1="184" x2="310" y2="376" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)" marker-start="url(#arrow-navy)"/>
+  </g>
+  <g id="T">
+    <rect x="24" y="30" width="180" height="150" rx="10" fill="#14253D"/>
+    <text x="114" y="92" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">T</text>
+    <text x="114" y="120" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">실행 가능한 역량</text>
+    <text x="114" y="142" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">무엇을 할 수 있는가</text>
+  </g>
+  <g id="M">
+    <rect x="276" y="30" width="180" height="150" rx="10" fill="#14253D"/>
+    <text x="366" y="81" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">M</text>
+    <text x="366" y="109" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">산업과 시장</text>
+    <text x="366" y="132" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">어디에서 사업기회를</text>
+    <text x="366" y="153" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">찾을 것인가</text>
+  </g>
+  <g id="P">
+    <rect x="150" y="380" width="180" height="150" rx="10" fill="#14253D"/>
+    <text x="240" y="442" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">P</text>
+    <text x="240" y="470" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">상품가설</text>
+    <text x="240" y="492" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">무엇을 팔 것인가</text>
+  </g>
+  <g id="alignment">
+    <rect x="165" y="205" width="150" height="100" rx="10" fill="#C49A5A"/>
+    <text x="240" y="241" text-anchor="middle" font-size="20" font-weight="700" fill="#252A30">정합성</text>
+    <text x="240" y="264" text-anchor="middle" font-size="16" font-weight="400" fill="#252A30">T·P·M이 하나의</text>
+    <text x="240" y="285" text-anchor="middle" font-size="16" font-weight="400" fill="#252A30">논리로 맞물림</text>
+  </g>
+  <g id="note">
+    <rect x="40" y="560" width="400" height="92" rx="10" fill="#315B62"/>
+    <text x="240" y="589" text-anchor="middle" font-size="17" font-weight="400" fill="#FFFFFF">정합성 확인은 사업 검증이 아니라</text>
+    <text x="240" y="612" text-anchor="middle" font-size="17" font-weight="400" fill="#FFFFFF">다음 단계로 넘어갈 만큼 가설이</text>
+    <text x="240" y="635" text-anchor="middle" font-size="17" font-weight="400" fill="#FFFFFF">선명해졌다는 신호다</text>
+  </g>
+  <g id="legend">
+    <line x1="40" y1="688" x2="84" y2="688" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)" marker-start="url(#arrow-navy)"/>
+    <text x="96" y="694" text-anchor="start" font-size="16" font-weight="400" fill="#252A30">양방향 화살표: 서로를 제약하고</text>
+    <text x="96" y="716" text-anchor="start" font-size="16" font-weight="400" fill="#252A30">수정하는 관계</text>
+  </g>
+</svg>

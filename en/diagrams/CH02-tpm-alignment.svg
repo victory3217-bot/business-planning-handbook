@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 740" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">TPM alignment</title>
+  <desc id="d">T (executable capability: what can you do), P (product hypothesis: what will you sell), and M (industry and market: where will you look for the business opportunity) are connected as elements that constrain and revise each other. Alignment is created when the three lock together into one logic. Confirming alignment is not business validation; it is a signal that the hypothesis is clear enough to move to the next stage.</desc>
+  <defs>
+    <marker id="arrow-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#14253D"/>
+    </marker>
+    <marker id="arrow-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#C49A5A"/>
+    </marker>
+  </defs>
+  <g id="background">
+    <rect width="480" height="740" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="relations">
+    <line x1="208" y1="105" x2="272" y2="105" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)" marker-start="url(#arrow-navy)"/>
+    <line x1="104" y1="184" x2="170" y2="376" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)" marker-start="url(#arrow-navy)"/>
+    <line x1="376" y1="184" x2="310" y2="376" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)" marker-start="url(#arrow-navy)"/>
+  </g>
+  <g id="T">
+    <rect x="24" y="30" width="180" height="150" rx="10" fill="#14253D"/>
+    <text x="114" y="78" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">T</text>
+    <text x="114" y="106" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Executable</text>
+    <text x="114" y="133" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">capability</text>
+    <text x="114" y="156" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">What can you do</text>
+  </g>
+  <g id="M">
+    <rect x="276" y="30" width="180" height="150" rx="10" fill="#14253D"/>
+    <text x="366" y="68" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">M</text>
+    <text x="366" y="96" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Industry</text>
+    <text x="366" y="123" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">and market</text>
+    <text x="366" y="145" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">Where will you look</text>
+    <text x="366" y="166" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">for the opportunity</text>
+  </g>
+  <g id="P">
+    <rect x="150" y="380" width="180" height="150" rx="10" fill="#14253D"/>
+    <text x="240" y="428" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">P</text>
+    <text x="240" y="456" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Product</text>
+    <text x="240" y="483" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">hypothesis</text>
+    <text x="240" y="506" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">What will you sell</text>
+  </g>
+  <g id="alignment">
+    <rect x="165" y="205" width="150" height="100" rx="10" fill="#C49A5A"/>
+    <text x="240" y="241" text-anchor="middle" font-size="20" font-weight="700" fill="#252A30">Alignment</text>
+    <text x="240" y="264" text-anchor="middle" font-size="16" font-weight="400" fill="#252A30">T, P, and M lock</text>
+    <text x="240" y="285" text-anchor="middle" font-size="16" font-weight="400" fill="#252A30">into one logic</text>
+  </g>
+  <g id="note">
+    <rect x="40" y="560" width="400" height="92" rx="10" fill="#315B62"/>
+    <text x="240" y="589" text-anchor="middle" font-size="17" font-weight="400" fill="#FFFFFF">Confirming alignment is not</text>
+    <text x="240" y="612" text-anchor="middle" font-size="17" font-weight="400" fill="#FFFFFF">business validation; it signals the</text>
+    <text x="240" y="635" text-anchor="middle" font-size="17" font-weight="400" fill="#FFFFFF">hypothesis is clear enough to move on</text>
+  </g>
+  <g id="legend">
+    <line x1="40" y1="688" x2="84" y2="688" stroke="#14253D" stroke-width="2.5" marker-end="url(#arrow-navy)" marker-start="url(#arrow-navy)"/>
+    <text x="96" y="694" text-anchor="start" font-size="16" font-weight="400" fill="#252A30">Two-way arrow: the elements</text>
+    <text x="96" y="716" text-anchor="start" font-size="16" font-weight="400" fill="#252A30">constrain and revise each other</text>
+  </g>
+</svg>

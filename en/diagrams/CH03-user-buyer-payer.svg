@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 430" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">User, Buyer, and Payer roles</title>
+  <desc id="d">The User is the person who actually experiences the problem, the Buyer decides the purchase, and the Payer bears the cost. In B2C these three roles can converge into one person; in B2B and B2G they are frequently split into the field user, the purchasing manager, and the budget approver.</desc>
+  <defs>
+    <marker id="arrow-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#14253D"/>
+    </marker>
+    <marker id="arrow-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#C49A5A"/>
+    </marker>
+  </defs>
+  <g id="background">
+    <rect width="480" height="430" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="roles">
+    <rect x="24" y="24" width="136" height="106" rx="10" fill="#14253D"/>
+    <text x="92" y="63" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">User</text>
+    <text x="92" y="86" text-anchor="middle" font-size="16" font-weight="400" fill="#FFFFFF">Who experiences</text>
+    <text x="92" y="107" text-anchor="middle" font-size="16" font-weight="400" fill="#FFFFFF">the problem</text>
+    <rect x="172" y="24" width="136" height="106" rx="10" fill="#14253D"/>
+    <text x="240" y="63" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Buyer</text>
+    <text x="240" y="86" text-anchor="middle" font-size="16" font-weight="400" fill="#FFFFFF">Who decides</text>
+    <text x="240" y="107" text-anchor="middle" font-size="16" font-weight="400" fill="#FFFFFF">the purchase</text>
+    <rect x="320" y="24" width="136" height="106" rx="10" fill="#14253D"/>
+    <text x="388" y="63" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Payer</text>
+    <text x="388" y="86" text-anchor="middle" font-size="16" font-weight="400" fill="#FFFFFF">Who bears</text>
+    <text x="388" y="107" text-anchor="middle" font-size="16" font-weight="400" fill="#FFFFFF">the cost</text>
+  </g>
+  <g id="b2c-converged">
+    <text x="24" y="172" font-size="17" font-weight="700" fill="#252A30">B2C — can converge into one person</text>
+    <rect x="24" y="186" width="432" height="64" rx="10" fill="#FFFFFF" stroke="#C49A5A" stroke-width="4"/>
+    <text x="240" y="225" text-anchor="middle" font-size="20" font-weight="700" fill="#14253D">User · Buyer · Payer</text>
+  </g>
+  <g id="b2b-b2g-split">
+    <text x="24" y="292" font-size="17" font-weight="700" fill="#252A30">B2B · B2G — frequently split apart</text>
+    <rect x="24" y="306" width="136" height="96" rx="10" fill="#315B62"/>
+    <text x="92" y="346" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">User</text>
+    <text x="92" y="372" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Field user</text>
+    <rect x="172" y="306" width="136" height="96" rx="10" fill="#315B62"/>
+    <text x="240" y="333" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">Buyer</text>
+    <text x="240" y="358" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Purchasing</text>
+    <text x="240" y="385" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">manager</text>
+    <rect x="320" y="306" width="136" height="96" rx="10" fill="#315B62"/>
+    <text x="388" y="333" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">Payer</text>
+    <text x="388" y="358" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Budget</text>
+    <text x="388" y="385" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">approver</text>
+  </g>
+</svg>
