@@ -13,9 +13,9 @@
     <rect width="480" height="740" rx="14" fill="#F6F2EA"/>
   </g>
   <g id="axis">
-    <line x1="114" y1="184" x2="190" y2="199" stroke="#14253D" stroke-width="2.5"/>
-    <line x1="366" y1="184" x2="290" y2="199" stroke="#14253D" stroke-width="2.5"/>
-    <line x1="240" y1="309" x2="240" y2="376" stroke="#14253D" stroke-width="2.5"/>
+    <line x1="180" y1="181" x2="180" y2="211" stroke="#14253D" stroke-width="2.5"/>
+    <line x1="300" y1="181" x2="300" y2="211" stroke="#14253D" stroke-width="2.5"/>
+    <line x1="240" y1="327" x2="240" y2="379" stroke="#14253D" stroke-width="2.5"/>
   </g>
   <g id="value-delivery">
     <rect x="24" y="30" width="180" height="150" rx="10" fill="#14253D"/>
@@ -37,11 +37,11 @@
     <text x="240" y="485" text-anchor="middle" font-size="16" font-weight="400" fill="#F6F2EA">Revenue Streams</text>
   </g>
   <g id="value-proposition">
-    <rect x="155" y="195" width="170" height="114" rx="10" fill="#C49A5A"/>
-    <text x="240" y="225" text-anchor="middle" font-size="20" font-weight="700" fill="#252A30">Value</text>
-    <text x="240" y="252" text-anchor="middle" font-size="20" font-weight="700" fill="#252A30">Proposition</text>
-    <text x="240" y="274" text-anchor="middle" font-size="16" font-weight="400" fill="#252A30">The axis joining</text>
-    <text x="240" y="295" text-anchor="middle" font-size="16" font-weight="400" fill="#252A30">the three</text>
+    <rect x="155" y="212" width="170" height="114" rx="10" fill="#C49A5A"/>
+    <text x="240" y="242" text-anchor="middle" font-size="20" font-weight="700" fill="#252A30">Value</text>
+    <text x="240" y="269" text-anchor="middle" font-size="20" font-weight="700" fill="#252A30">Proposition</text>
+    <text x="240" y="291" text-anchor="middle" font-size="16" font-weight="400" fill="#252A30">The axis joining</text>
+    <text x="240" y="312" text-anchor="middle" font-size="16" font-weight="400" fill="#252A30">the three</text>
   </g>
   <g id="note">
     <rect x="40" y="560" width="400" height="92" rx="10" fill="#315B62"/>
