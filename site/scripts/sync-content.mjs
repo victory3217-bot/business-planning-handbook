@@ -13,6 +13,7 @@ const REPO_ROOT = join(__dirname, "..", "..");
 const SITE_ROOT = join(__dirname, "..");
 const OUT_ROOT = join(SITE_ROOT, "src", "content", "docs");
 
+const BASE = "/business-planning-handbook/";
 const LOCALES = ["ko", "en"];
 
 const CHAPTERS = ["CH01", "CH02", "CH03", "CH04", "CH05", "CH06", "CH07", "CH08"];
@@ -69,6 +70,7 @@ function writeGenerated(outPath, frontmatter, body) {
 
 // Clean previous generated output (keep the directory itself, which may hold
 // non-generated files like index pages for the locale roots we author here).
+rmSync(join(SITE_ROOT, "public", "worksheets"), { recursive: true, force: true });
 if (existsSync(OUT_ROOT)) {
   rmSync(OUT_ROOT, { recursive: true, force: true });
 }
@@ -112,11 +114,21 @@ for (const locale of LOCALES) {
     const ch = (file.match(/CH\d\d/) || [file])[0];
     const fallback = `${ch} Worksheet`;
     const { title, body } = extractTitle(raw, fallback);
+    const writerLink =
+      locale === "ko"
+        ? `> [워크시트 작성기에서 답변하고 Markdown으로 저장하기](${BASE}ko/worksheet/#${ch})
+
+`
+        : `> [Answer in the Worksheet Writer and save as Markdown](${BASE}en/worksheet/#${ch})
+
+`;
     writeGenerated(
       join(OUT_ROOT, locale, "manual", file),
       { title, sidebar: { order: wOrder++ } },
-      body
+      writerLink + body
     );
+    mkdirSync(join(SITE_ROOT, "public", "worksheets", locale), { recursive: true });
+    writeFileSync(join(SITE_ROOT, "public", "worksheets", locale, file), raw, "utf8");
   }
 
   // Examples
@@ -138,7 +150,6 @@ for (const locale of LOCALES) {
 // ko/en README.md (source of truth), chapter link list generated from the
 // same titles already extracted from each chapter's H1 above. No prose is
 // hand-copied here.
-const BASE = "/business-planning-handbook/";
 
 const LANDING_STRINGS = {
   ko: {
@@ -147,7 +158,7 @@ const LANDING_STRINGS = {
     heading: "8개 챕터 학습 경로",
     startLabel: "CH01부터 시작하기",
     worksheetsNote:
-      "각 챕터별 실습 워크시트와 대표 사례는 왼쪽 사이드바의 **워크시트 & 사례** 그룹에서 확인할 수 있습니다.",
+      "각 챕터별 실습 워크시트와 대표 사례는 왼쪽 사이드바의 **워크시트 & 사례** 그룹에서 확인할 수 있습니다. 질문에 직접 답하고 Markdown 파일로 저장하려면 [워크시트 작성기](" + BASE + "ko/worksheet/)를 이용하세요.",
   },
   en: {
     title: "Business Planning Handbook",
@@ -155,7 +166,7 @@ const LANDING_STRINGS = {
     heading: "8-Chapter Learning Path",
     startLabel: "Start with CH01",
     worksheetsNote:
-      "Practical worksheets and representative examples for each chapter are available under the **Worksheets & Examples** group in the sidebar on the left.",
+      "Practical worksheets and representative examples for each chapter are available under the **Worksheets & Examples** group in the sidebar on the left. To answer the questions and save them as a Markdown file, use the [Worksheet Writer](" + BASE + "en/worksheet/).",
   },
 };
 
