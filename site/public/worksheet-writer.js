@@ -117,7 +117,14 @@
       }
 
       if (/^\s*-\s+.+[:：]\s*$/.test(line)) {
-        tokens.push({ t: "colon", id: nextId(), text: line });
+        var ck = i + 1;
+        while (ck < lines.length && lines[ck].trim() === "") ck++;
+        if (ck < lines.length && isAnswerLike(lines[ck])) {
+          // the answer block below is the only field for this prompt
+          tokens.push({ t: "line", text: line });
+        } else {
+          tokens.push({ t: "colon", id: nextId(), text: line });
+        }
         i++;
         continue;
       }
