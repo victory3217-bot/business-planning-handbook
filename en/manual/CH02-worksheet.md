@@ -34,11 +34,7 @@ T is not limited to advanced engineering technology. Cooking skill, sales experi
 ```
 (write here)
 ```
-2. Which product (P) can that capability be converted into?
-```
-(write here)
-```
-3. What capabilities are missing, and will you acquire them directly or use a partner?
+2. What capabilities are missing, and will you acquire them directly or use a partner?
 ```
 (write here)
 ```
@@ -53,14 +49,10 @@ P at this stage is not a finished product — it is a pre-validation hypothesis.
 ```
 (write here)
 ```
-2. What is your basis for believing this Product Hypothesis has a plausible connection to a market opportunity (M)?
+2. What is your basis for believing this product solves a serious problem for customers (the market) or satisfies a major need? And what is your basis for believing the customer problem (need) truly exists?
 ```
 (write here)
 ```
-3. (Check) Are you trying to finalize any of the following items at this stage? — If so, they should be passed to the next Chapter (defining the customer, buyer, and problem).
-   - [ ] Severity of the customer problem
-   - [ ] The buyer's decision-making process
-   - [ ] The concrete solution and Value Proposition
 
 ---
 
