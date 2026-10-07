@@ -9,9 +9,12 @@
 
 First, write one sentence each for the basic skeleton of the business model: creating customer value, delivering customer value, and the structure for making money.
 
-- Creating customer value: ________________________________________________
-- Delivering customer value: ________________________________________________
-- Structure for making money: ________________________________________________
+- Creating customer value: (Example sentence: We solve [which problem] for [which customer]. Or we satisfy [which need] of [which customer].)
+  - Write: ______________________________________________________
+- Delivering customer value: (Example sentence: We make our value known through [which channel] with [which strategy].)
+  - Write: ______________________________________________________
+- Structure for making money: (Example sentence: We make money in [which way]. Or we make money by selling [what].)
+  - Write: ______________________________________________________
 
 ---
 
@@ -96,9 +99,9 @@ Rewrite the canvas content as a single-direction story following the customer's 
 - Final customer value: ________________________________________________
 
 Check questions:
-- Is there a logical jump between the customer problem and the value?
+- Do the customer problem and the solution make logical sense together?
   - Write: ______________________________________________________
-- Does the Competitive Advantage connect to the comparison criteria the customer actually cares about?
+- Does the Competitive Advantage correspond to a buying point the customer considers important?
   - Write: ______________________________________________________
 - Is the path to the actual point of purchase clear?
   - Write: ______________________________________________________
