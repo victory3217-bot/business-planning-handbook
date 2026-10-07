@@ -46,18 +46,6 @@ Itemize the criteria the customer actually uses when comparing us against the co
 
 ## 4. Competitive Advantage Check (KM030)
 
-Check the differences that appear favorably in the comparison metrics against the seven criteria below.
-
-| Check Criterion | Does This Difference Meet This Criterion? (Explanation) |
-|---|---|
-| Importance | |
-| Efficiency | |
-| Superiority | |
-| Visibility | |
-| Preemptiveness | |
-| Decisiveness | |
-| Profitability | |
-
 - Check question: Is this advantage strong enough to make the customer choose us?
 - Check question: Does the customer have to bear additional cost or change their behavior to adopt this solution?
 - Check question: Is this a difference we can deliver repeatedly, or a one-off?
@@ -66,7 +54,7 @@ Check the differences that appear favorably in the comparison metrics against th
 
 | Item | Your Entry |
 |---|---|
-| The specific customer's problem | |
+| Which customer's problem (need) | |
 | The solution provided | |
 | Reason for choice over existing alternatives | |
 | Type of transaction relationship (B2C / B2B / B2G) | |
@@ -77,23 +65,14 @@ Check the differences that appear favorably in the comparison metrics against th
 
 ## 6. Positioning Check (KM032)
 
-Fill in each element below, one paragraph at a time, using the Business Model Story structure.
-
-| Element | Your Entry |
-|---|---|
-| The serious customer problem | |
-| The existing product | |
-| The competitor's advantage | |
-| Our product | |
-| Customer value | |
-
-- Check question: Does this story briefly explain "why this customer should choose us"?
-- Check question: Even if we are technically superior, is that difference visible and meaningful to the customer in the purchase situation?
-- Check question: Do customer choice, the problem, comparative advantage, product configuration, price, and channel all build the same perception in the same direction?
+- If you list the peer companies in the market (or similar products or services), who are they?
+- Which companies or products/services could be my competitors, with the same positioning as mine?
+- What value factors can you point to as the basis for saying they share the same positioning as mine?
+- Compared with my competitors, what am I superior at?
 
 ## 7. Positioning-4P Alignment (KM033)
 
-| 4P Element | Current Direction | Is It Consistent with the Positioning? (Yes/No, reason) |
+| 4P Element | My Item | Is It Consistent with the Positioning? (Yes/No, reason) |
 |---|---|---|
 | Product/Service | | |
 | Price | | |
