@@ -43,14 +43,6 @@ Answer each of the three questions below. If it's the same person, write "same";
 | Who decides the purchase (Buyer) | |
 | Who pays the cost (Payer) | |
 
-- If the three roles differ, how will you translate and communicate the effect that matters to the User into the language of cost, performance, and risk that the Buyer can understand?
-
-```
-
-
-
-```
-
 ---
 
 ## 3. Checking the B2C / B2B / B2G Purchasing Structure (KM020)
@@ -108,15 +100,7 @@ Check the current candidate segment against the criteria below.
 
 ## 5. Redefining the Market by Problem (KM022)
 
-- Strip away external criteria like gender, age, region, or industry — viewed through the criterion of "do they share the same problem," how is our customer group re-drawn?
-
-```
-
-
-
-```
-
-- If you place the job the customer is trying to get done at the center instead of the product category, how do the competition and the market scope change?
+- Rather than external criteria like gender, age, region, or industry, how can we re-organize our customer group based on whether they share the same problem?
 
 ```
 
@@ -128,7 +112,7 @@ Check the current candidate segment against the criteria below.
 
 ## 6. Existence and Severity of the Problem (KM023)
 
-- What is the ideal state the customer wants?
+- Describe the ideal state the customer wants — that is, the state in which the problem is solved or the desire is fulfilled.
 
 ```
 
