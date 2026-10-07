@@ -226,8 +226,165 @@
     return out.join("\n").replace(/\n{4,}/g, "\n\n\n") + "\n";
   }
 
+  // Plain-text Q&A summary: only what was answered, as "Q." / "A." pairs under the section headings.
+  function summarize(tokens, v, emptyMsg) {
+    var out = [];
+    var title = "";
+    var section = "";
+    var sectionShown = true;
+    var q = "";
+    var lastQ = null;
+    var ANSWER_LABEL = /^\s*-?\s*(작성|근거|Write|Basis)\s*[:：]\s*$/i;
+
+    function val(x) { return x && x.trim() ? x.replace(/\s+$/, "") : ""; }
+    function cleanQ(t) {
+      return t
+        .replace(/^\s*-\s+/, "")
+        .replace(/\*\*/g, "")
+        .replace(/^(점검 질문|Check question)\s*[:：]\s*/i, "")
+        .replace(/\s+/g, " ")
+        .trim();
+    }
+    function begin(question) {
+      if (!sectionShown) {
+        if (out.length) out.push("");
+        out.push(section);
+        sectionShown = true;
+        lastQ = null;
+      }
+      if (question !== lastQ) {
+        out.push("");
+        if (question) out.push("Q. " + question);
+        lastQ = question;
+      }
+    }
+    function answer(question, text, label) {
+      begin(question);
+      var lines = text.split("\n");
+      lines[0] = "A. " + (label ? label + ": " : "") + lines[0];
+      for (var i = 1; i < lines.length; i++) lines[i] = "   " + lines[i];
+      out = out.concat(lines);
+    }
+    function filledOf(segs) {
+      return segs
+        .filter(function (g) { return g.k !== "text"; })
+        .map(function (g) { return val(v[g.fid]); })
+        .filter(Boolean);
+    }
+
+    tokens.forEach(function (tk) {
+      if (tk.t === "line") {
+        var t = tk.text;
+        var m;
+        if (!t.trim() || /^---+\s*$/.test(t)) return;
+        if ((m = t.match(/^#\s+(.*)$/))) { if (!title) title = m[1]; return; }
+        if ((m = t.match(/^#{2,3}\s+(.*)$/))) { section = "## " + m[1]; sectionShown = false; q = ""; return; }
+        if (/^>/.test(t)) return;
+        q = cleanQ(t);
+      } else if (tk.t === "answer" || tk.t === "under" || tk.t === "autoq") {
+        var a = val(v[tk.id]);
+        if (a) answer(q, a);
+      } else if (tk.t === "colon") {
+        var c = val(v[tk.id]);
+        var cq = cleanQ(tk.text).replace(/[:：]\s*$/, "");
+        q = cq;
+        if (c) answer(cq, c);
+      } else if (tk.t === "inline") {
+        var blanks = tk.segs.filter(function (g) { return g.k !== "text"; });
+        var filled = filledOf(tk.segs);
+        if (!filled.length) return;
+        var first = tk.segs[0];
+        var label = first && first.k === "text" ? first.text : "";
+        if (blanks.length === 1 && ANSWER_LABEL.test(label)) {
+          var lm = label.match(/(근거|Basis)/i);
+          answer(q, filled[0], lm ? lm[1] : "");
+        } else if (blanks.length === 1 && first && first.k === "text" && /[:：]\s*$/.test(label)) {
+          var lq = cleanQ(label).replace(/[:：]\s*$/, "");
+          q = lq;
+          answer(lq, filled[0]);
+        } else {
+          begin(q);
+          out.push(segText(tk.segs, v, false).trim());
+        }
+      } else if (tk.t === "check") {
+        var checked = false;
+        var textBits = [];
+        tk.parts.forEach(function (p) {
+          if (p.k === "check") checked = checked || !!v[p.fid];
+          else if (p.k === "blank") textBits.push(val(v[p.fid]) || p.orig);
+          else textBits.push(p.text);
+        });
+        var ctext = cleanQ(textBits.join("").replace(/\[ \]/g, "")).trim();
+        var anyBlank = tk.parts.some(function (p) { return p.k === "blank" && val(v[p.fid]); });
+        if (checked || anyBlank) {
+          if (/[?？]\s*$/.test(ctext)) { q = ctext; answer(q, "[x]"); }
+          else { begin(q); out.push((checked ? "[x] " : "- ") + ctext); }
+        } else if (/[?？]\s*$/.test(ctext)) {
+          q = ctext;
+        }
+      } else if (tk.t === "form") {
+        var any = tk.lines.some(function (fl) {
+          return fl.parts.some(function (p) { return p.k === "box" ? !!v[p.fid] : p.k !== "text" && val(v[p.fid]); });
+        });
+        if (!any) return;
+        var contentLines = tk.lines.filter(function (fl) {
+          return !(fl.parts.length === 1 && fl.parts[0].k === "text" && !fl.parts[0].text.trim());
+        });
+        if (contentLines.length === 1 && contentLines[0].whole) {
+          answer(q, val(v[contentLines[0].parts[0].fid]));
+          return;
+        }
+        begin(q);
+        tk.lines.forEach(function (fl) {
+          var lineFilled = fl.parts.some(function (p) { return p.k === "box" ? !!v[p.fid] : p.k !== "text" && val(v[p.fid]); });
+          if (!lineFilled) return;
+          var text = fl.parts
+            .map(function (p) {
+              if (p.k === "text") return p.text;
+              if (p.k === "box") return v[p.fid] ? "[x] " : "[ ] ";
+              var x = val(v[p.fid]);
+              if (x) return (p.trail ? " " : "") + oneLine(x);
+              return p.k === "ph" ? "" : p.orig;
+            })
+            .join("")
+            .replace(/\s+$/, "");
+          if (text.trim()) out.push(text);
+        });
+      } else if (tk.t === "table") {
+        var headers = null;
+        var rowsOut = [];
+        tk.rows.forEach(function (r) {
+          if (r.sep) return;
+          if (!headers) { headers = r.cells.map(function (c) { return segText(c.segs, v, false).trim(); }); return; }
+          var firstFilled = filledOf(r.cells[0].segs).length > 0;
+          var label = segText(r.cells[0].segs, v, false).trim();
+          var bits = [];
+          r.cells.forEach(function (c, i) {
+            if (i === 0 && !(r.cells[0].segs.length === 1 && r.cells[0].segs[0].k === "blank")) return;
+            var f = filledOf(c.segs);
+            if (f.length) bits.push((headers[i] ? headers[i] + ": " : "") + f.join(" "));
+          });
+          if (!bits.length && !firstFilled) return;
+          var showLabel = label && !(r.cells[0].segs.length === 1 && r.cells[0].segs[0].k === "blank");
+          if (headers.length === 2 && showLabel && filledOf(r.cells[1].segs).length) {
+            rowsOut.push("- " + label + ": " + filledOf(r.cells[1].segs).join(" "));
+          } else {
+            rowsOut.push("- " + (showLabel ? label + (bits.length ? " \u2014 " : "") : "") + bits.join(" / "));
+          }
+        });
+        if (rowsOut.length) {
+          begin(q);
+          out = out.concat(rowsOut);
+        }
+      }
+    });
+    var body = out.join("\n").replace(/^\n+/, "");
+    if (!body && emptyMsg) body = emptyMsg;
+    return (title ? title + "\n\n" : "") + body + (body ? "\n" : "");
+  }
+
   if (typeof document === "undefined") {
-    module.exports = { parse: parse, serialize: serialize };
+    module.exports = { parse: parse, serialize: serialize, summarize: summarize };
     return;
   }
 
@@ -247,6 +404,7 @@
       error: "워크시트를 불러오지 못했습니다.",
       answer: "답변을 입력하세요",
       answerLabel: "답변",
+      noAnswers: "아직 작성한 답변이 없습니다.",
     },
     en: {
       download: "Download Markdown (.md)",
@@ -257,6 +415,7 @@
       error: "Could not load the worksheet.",
       answer: "Type your answer",
       answerLabel: "Answer",
+      noAnswers: "No answers yet.",
     },
   }[locale];
 
@@ -449,6 +608,12 @@
   var form = document.getElementById("ws-form");
   var toolbar = document.getElementById("ws-toolbar");
 
+  function refreshView() {
+    var box = document.getElementById("ws-view");
+    var txt = document.getElementById("ws-view-text");
+    if (box && txt && box.open && toolbar._summary) txt.value = toolbar._summary();
+  }
+
   function open(ch) {
     CHAPTERS.forEach(function (c) {
       nav.querySelector('[data-ch="' + c + '"]').setAttribute("aria-current", c === ch ? "true" : "false");
@@ -463,16 +628,19 @@
       .then(function (md) {
         var tokens = parse(md);
         var values = load(ch);
-        var onChange = function () { save(ch, values); };
+        var onChange = function () { save(ch, values); refreshView(); };
         render(tokens, values, onChange, form);
         toolbar.hidden = false;
         toolbar.dataset.ch = ch;
         toolbar._get = function () { return serialize(tokens, values, T.answerLabel); };
+        toolbar._summary = function () { return summarize(tokens, values, T.noAnswers); };
+        refreshView();
         toolbar._reset = function () {
           if (!confirm(T.confirmReset)) return;
           values = {};
           save(ch, values);
-          render(tokens, values, function () { save(ch, values); }, form);
+          render(tokens, values, function () { save(ch, values); refreshView(); }, form);
+          refreshView();
         };
       })
       .catch(function () { form.textContent = T.error; });
@@ -521,7 +689,7 @@
   var viewText = document.getElementById("ws-view-text");
   if (viewBox && viewText) {
     viewBox.addEventListener("toggle", function () {
-      if (viewBox.open && toolbar._get) viewText.value = toolbar._get();
+      if (viewBox.open && toolbar._summary) viewText.value = toolbar._summary();
     });
     document.getElementById("ws-view-select").addEventListener("click", function () {
       viewText.focus();
