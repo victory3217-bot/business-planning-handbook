@@ -33,6 +33,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "Business Planning Handbook",
+      components: { Banner: "./src/components/HandbookBanner.astro" },
       defaultLocale: "en",
       locales: {
         ko: { label: "한국어", lang: "ko" },
