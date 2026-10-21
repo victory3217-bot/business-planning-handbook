@@ -46,6 +46,11 @@ export default defineConfig({
           autogenerate: { directory: "chapters" },
         },
         {
+          label: "Appendices",
+          translations: { ko: "부록" },
+          autogenerate: { directory: "appendix" },
+        },
+        {
           label: "Worksheets & Examples",
           translations: { ko: "워크시트 & 사례" },
           items: [

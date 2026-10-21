@@ -156,6 +156,19 @@ for (const locale of LOCALES) {
       body
     );
   }
+
+  // Appendices (supplementary material; ko first, en follows)
+  let aOrder = 1;
+  for (const file of listDir(locale, "appendix")) {
+    const raw = readSource(locale, "appendix", file);
+    const fallback = file.replace(/\.md$/, "");
+    const { title, body } = extractTitle(raw, fallback);
+    writeGenerated(
+      join(OUT_ROOT, locale, "appendix", file),
+      { title, sidebar: { order: aOrder++ } },
+      body
+    );
+  }
 }
 
 // Locale landing pages (index) — intro paragraph pulled from the canonical
