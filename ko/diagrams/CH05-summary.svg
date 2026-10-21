@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 658" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">CH05 한 장 요약: 비즈니스모델</title>
+  <desc id="d">CH05 비즈니스모델을 설계한다의 핵심 정리를 6개 항목으로 압축한 한 장 요약. 1. 작동논리: 고객가치 창출·전달·돈 버는 구조 세 축이 연결된 사업의 작동논리다 2. 정합성: 개별 칸의 완성도보다 한 결정이 다른 요소를 어떻게 바꾸는지 설명할 수 있어야 한다 3. BMC 구조: 가치제안 중심에 전달(고객·채널·관계), 창출(자원·활동·파트너), 회수(비용·수익원) 4. 연결문장: BMC는 인과관계를 보여주는 관계도. 연결문장으로 논리적 충돌을 찾는다 5. T-캔버스·Story: T-캔버스는 시장·제품 위험을 잇고, Business Model Story는 구매논리로 다시 확인한다 6. 완성의 뜻: 성공이 아니라 원가·가격·타당성 검증으로 넘어갈 수 있는 상태다</desc>
+  <g id="background">
+    <rect width="480" height="658" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="header">
+    <rect x="12" y="12" width="456" height="72" rx="12" fill="#14253D"/>
+    <text x="28" y="42" font-size="16" font-weight="700" fill="#C49A5A">CH05 · 한 장 요약</text>
+    <text x="28" y="72" font-size="21" font-weight="700" fill="#FFFFFF">비즈니스모델을 설계한다</text>
+  </g>
+  <g id="point-1">
+    <rect x="12" y="96" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="117.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="123" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">1</text>
+    <text x="60" y="123" font-size="17" font-weight="700" fill="#14253D">작동논리</text>
+    <text x="60" y="144" font-size="16" fill="#252A30">고객가치 창출·전달·돈 버는 구조 세 축이 연결된</text>
+    <text x="60" y="165" font-size="16" fill="#252A30">사업의 작동논리다</text>
+  </g>
+  <g id="point-2">
+    <rect x="12" y="189" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="210.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="216" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">2</text>
+    <text x="60" y="216" font-size="17" font-weight="700" fill="#14253D">정합성</text>
+    <text x="60" y="237" font-size="16" fill="#252A30">개별 칸의 완성도보다 한 결정이 다른 요소를</text>
+    <text x="60" y="258" font-size="16" fill="#252A30">어떻게 바꾸는지 설명할 수 있어야 한다</text>
+  </g>
+  <g id="point-3">
+    <rect x="12" y="282" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="303.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="309" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">3</text>
+    <text x="60" y="309" font-size="17" font-weight="700" fill="#14253D">BMC 구조</text>
+    <text x="60" y="330" font-size="16" fill="#252A30">가치제안 중심에 전달(고객·채널·관계),</text>
+    <text x="60" y="351" font-size="16" fill="#252A30">창출(자원·활동·파트너), 회수(비용·수익원)</text>
+  </g>
+  <g id="point-4">
+    <rect x="12" y="375" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="396.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="402" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">4</text>
+    <text x="60" y="402" font-size="17" font-weight="700" fill="#14253D">연결문장</text>
+    <text x="60" y="423" font-size="16" fill="#252A30">BMC는 인과관계를 보여주는 관계도. 연결문장으로</text>
+    <text x="60" y="444" font-size="16" fill="#252A30">논리적 충돌을 찾는다</text>
+  </g>
+  <g id="point-5">
+    <rect x="12" y="468" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="489.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="495" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">5</text>
+    <text x="60" y="495" font-size="17" font-weight="700" fill="#14253D">T-캔버스·Story</text>
+    <text x="60" y="516" font-size="16" fill="#252A30">T-캔버스는 시장·제품 위험을 잇고, Business</text>
+    <text x="60" y="537" font-size="16" fill="#252A30">Model Story는 구매논리로 다시 확인한다</text>
+  </g>
+  <g id="point-6">
+    <rect x="12" y="561" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="582.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="588" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">6</text>
+    <text x="60" y="588" font-size="17" font-weight="700" fill="#14253D">완성의 뜻</text>
+    <text x="60" y="609" font-size="16" fill="#252A30">성공이 아니라 원가·가격·타당성 검증으로 넘어갈</text>
+    <text x="60" y="630" font-size="16" fill="#252A30">수 있는 상태다</text>
+  </g>
+</svg>

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 865" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">CH06 한 장 요약: 원가·가격·수익모델</title>
+  <desc id="d">CH06 원가·가격·수익모델을 설계한다의 핵심 정리를 8개 항목으로 압축한 한 장 요약. 1. 가격: 마지막에 붙이는 숫자가 아니라 비즈니스모델 정합성의 기준이다 2. 원가: 활동을 나열해 추정하며 가격의 현실적 하한선이다 3. 가치와 경쟁: 고객은 가치를 지불한다. 지불의사에서 원가를 역으로 검토하고, 경쟁가격은 같은 세그먼트 기준으로 본다 4. 채널·관계 비용: 수수료·유통마진과 고객관계 비용을 가격구조 안에서 함께 본다 5. 가격구조 점검: 소비자가 = 실판매가 + 가격구간, 실판매가 = 총원가 + 이익. 비용률 합이 100%를 넘는지 보고 채널은 공헌이익으로 비교한다 6. 수익모델: 누가·무엇에·얼마를·언제·반복적으로 지불하는가, 그리고 가격 메커니즘 7. 세 재무 렌즈: 손익·자산·현금흐름으로 같은 사업의 다른 구조를 본다 8. 넘기기: 가격(P), 비용·마진 구조, 수익모델이 정리돼야 타당성 검증으로 간다</desc>
+  <g id="background">
+    <rect width="480" height="865" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="header">
+    <rect x="12" y="12" width="456" height="72" rx="12" fill="#14253D"/>
+    <text x="28" y="42" font-size="16" font-weight="700" fill="#C49A5A">CH06 · 한 장 요약</text>
+    <text x="28" y="72" font-size="21" font-weight="700" fill="#FFFFFF">원가·가격·수익모델을 설계한다</text>
+  </g>
+  <g id="point-1">
+    <rect x="12" y="96" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="117.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="123" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">1</text>
+    <text x="60" y="123" font-size="17" font-weight="700" fill="#14253D">가격</text>
+    <text x="60" y="144" font-size="16" fill="#252A30">마지막에 붙이는 숫자가 아니라 비즈니스모델</text>
+    <text x="60" y="165" font-size="16" fill="#252A30">정합성의 기준이다</text>
+  </g>
+  <g id="point-2">
+    <rect x="12" y="189" width="456" height="64" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="210.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="216" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">2</text>
+    <text x="60" y="216" font-size="17" font-weight="700" fill="#14253D">원가</text>
+    <text x="60" y="237" font-size="16" fill="#252A30">활동을 나열해 추정하며 가격의 현실적 하한선이다</text>
+  </g>
+  <g id="point-3">
+    <rect x="12" y="261" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="282.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="288" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">3</text>
+    <text x="60" y="288" font-size="17" font-weight="700" fill="#14253D">가치와 경쟁</text>
+    <text x="60" y="309" font-size="16" fill="#252A30">고객은 가치를 지불한다. 지불의사에서 원가를</text>
+    <text x="60" y="330" font-size="16" fill="#252A30">역으로 검토하고, 경쟁가격은 같은 세그먼트</text>
+    <text x="60" y="351" font-size="16" fill="#252A30">기준으로 본다</text>
+  </g>
+  <g id="point-4">
+    <rect x="12" y="375" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="396.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="402" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">4</text>
+    <text x="60" y="402" font-size="17" font-weight="700" fill="#14253D">채널·관계 비용</text>
+    <text x="60" y="423" font-size="16" fill="#252A30">수수료·유통마진과 고객관계 비용을 가격구조</text>
+    <text x="60" y="444" font-size="16" fill="#252A30">안에서 함께 본다</text>
+  </g>
+  <g id="point-5">
+    <rect x="12" y="468" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="489.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="495" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">5</text>
+    <text x="60" y="495" font-size="17" font-weight="700" fill="#14253D">가격구조 점검</text>
+    <text x="60" y="516" font-size="16" fill="#252A30">소비자가 = 실판매가 + 가격구간, 실판매가 =</text>
+    <text x="60" y="537" font-size="16" fill="#252A30">총원가 + 이익. 비용률 합이 100%를 넘는지 보고</text>
+    <text x="60" y="558" font-size="16" fill="#252A30">채널은 공헌이익으로 비교한다</text>
+  </g>
+  <g id="point-6">
+    <rect x="12" y="582" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="603.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="609" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">6</text>
+    <text x="60" y="609" font-size="17" font-weight="700" fill="#14253D">수익모델</text>
+    <text x="60" y="630" font-size="16" fill="#252A30">누가·무엇에·얼마를·언제·반복적으로</text>
+    <text x="60" y="651" font-size="16" fill="#252A30">지불하는가, 그리고 가격 메커니즘</text>
+  </g>
+  <g id="point-7">
+    <rect x="12" y="675" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="696.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="702" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">7</text>
+    <text x="60" y="702" font-size="17" font-weight="700" fill="#14253D">세 재무 렌즈</text>
+    <text x="60" y="723" font-size="16" fill="#252A30">손익·자산·현금흐름으로 같은 사업의 다른 구조를</text>
+    <text x="60" y="744" font-size="16" fill="#252A30">본다</text>
+  </g>
+  <g id="point-8">
+    <rect x="12" y="768" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="789.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="795" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">8</text>
+    <text x="60" y="795" font-size="17" font-weight="700" fill="#14253D">넘기기</text>
+    <text x="60" y="816" font-size="16" fill="#252A30">가격(P), 비용·마진 구조, 수익모델이 정리돼야</text>
+    <text x="60" y="837" font-size="16" fill="#252A30">타당성 검증으로 간다</text>
+  </g>
+</svg>

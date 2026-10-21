@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 751" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">CH03 한 장 요약: 고객·구매자·문제</title>
+  <desc id="d">CH03 고객·구매자·문제를 정의한다의 핵심 정리를 7개 항목으로 압축한 한 장 요약. 1. 고객 정의: 명사가 아니라 시장의 이름·크기·경쟁구조·채널을 정하는 의사결정이다 2. 세 역할: 사용자·구매자·지불자는 같을 수도 다를 수도 있어 구분해야 한다 3. 구매논리: B2C는 개인의 불편·욕구, B2B는 조직성과, B2G는 예산·법령·조달방식 4. 세그먼트: 측정·접근·규모·역량 기준으로 반복해 좁히고, 공유된 문제로 다시 정의한다 5. 문제의 심각성: 존재만으로는 부족하다. 이상과 현실의 간극과 손실이 클수록 심각하다 6. 속성·KBF·접점: 현장의 말은 속성으로 번역하고, 구매요인과 접점으로 타깃을 구체화한다 7. 직접 확인: 바꿀 결정에서 거꾸로 질문을 만들어 사용자·구매자·영향자를 섞어 만난다</desc>
+  <g id="background">
+    <rect width="480" height="751" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="header">
+    <rect x="12" y="12" width="456" height="72" rx="12" fill="#14253D"/>
+    <text x="28" y="42" font-size="16" font-weight="700" fill="#C49A5A">CH03 · 한 장 요약</text>
+    <text x="28" y="72" font-size="21" font-weight="700" fill="#FFFFFF">고객·구매자·문제를 정의한다</text>
+  </g>
+  <g id="point-1">
+    <rect x="12" y="96" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="117.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="123" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">1</text>
+    <text x="60" y="123" font-size="17" font-weight="700" fill="#14253D">고객 정의</text>
+    <text x="60" y="144" font-size="16" fill="#252A30">명사가 아니라 시장의 이름·크기·경쟁구조·채널을</text>
+    <text x="60" y="165" font-size="16" fill="#252A30">정하는 의사결정이다</text>
+  </g>
+  <g id="point-2">
+    <rect x="12" y="189" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="210.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="216" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">2</text>
+    <text x="60" y="216" font-size="17" font-weight="700" fill="#14253D">세 역할</text>
+    <text x="60" y="237" font-size="16" fill="#252A30">사용자·구매자·지불자는 같을 수도 다를 수도</text>
+    <text x="60" y="258" font-size="16" fill="#252A30">있어 구분해야 한다</text>
+  </g>
+  <g id="point-3">
+    <rect x="12" y="282" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="303.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="309" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">3</text>
+    <text x="60" y="309" font-size="17" font-weight="700" fill="#14253D">구매논리</text>
+    <text x="60" y="330" font-size="16" fill="#252A30">B2C는 개인의 불편·욕구, B2B는 조직성과, B2G는</text>
+    <text x="60" y="351" font-size="16" fill="#252A30">예산·법령·조달방식</text>
+  </g>
+  <g id="point-4">
+    <rect x="12" y="375" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="396.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="402" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">4</text>
+    <text x="60" y="402" font-size="17" font-weight="700" fill="#14253D">세그먼트</text>
+    <text x="60" y="423" font-size="16" fill="#252A30">측정·접근·규모·역량 기준으로 반복해 좁히고,</text>
+    <text x="60" y="444" font-size="16" fill="#252A30">공유된 문제로 다시 정의한다</text>
+  </g>
+  <g id="point-5">
+    <rect x="12" y="468" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="489.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="495" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">5</text>
+    <text x="60" y="495" font-size="17" font-weight="700" fill="#14253D">문제의 심각성</text>
+    <text x="60" y="516" font-size="16" fill="#252A30">존재만으로는 부족하다. 이상과 현실의 간극과</text>
+    <text x="60" y="537" font-size="16" fill="#252A30">손실이 클수록 심각하다</text>
+  </g>
+  <g id="point-6">
+    <rect x="12" y="561" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="582.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="588" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">6</text>
+    <text x="60" y="588" font-size="17" font-weight="700" fill="#14253D">속성·KBF·접점</text>
+    <text x="60" y="609" font-size="16" fill="#252A30">현장의 말은 속성으로 번역하고, 구매요인과</text>
+    <text x="60" y="630" font-size="16" fill="#252A30">접점으로 타깃을 구체화한다</text>
+  </g>
+  <g id="point-7">
+    <rect x="12" y="654" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="675.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="681" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">7</text>
+    <text x="60" y="681" font-size="17" font-weight="700" fill="#14253D">직접 확인</text>
+    <text x="60" y="702" font-size="16" fill="#252A30">바꿀 결정에서 거꾸로 질문을 만들어</text>
+    <text x="60" y="723" font-size="16" fill="#252A30">사용자·구매자·영향자를 섞어 만난다</text>
+  </g>
+</svg>

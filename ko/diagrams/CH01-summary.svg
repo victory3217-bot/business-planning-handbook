@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 679" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">CH01 한 장 요약: 사업의 기준</title>
+  <desc id="d">CH01 사업의 기준을 정한다의 핵심 정리를 6개 항목으로 압축한 한 장 요약. 1. 출발점: 아이템이나 시장이 아니라 사업가 자신의 판단기준에서 시작한다 2. 성공의 정의: 라이프스타일과 연결되며 자율성·조직규모·가족·사회적 목적 사이의 우선순위가 필요하다 3. 목표수익: 시장규모보다 먼저 정하는 제약조건. 매출과 영업이익을 구분한다 4. 성장규모: 자동 목표가 아니라 감수할 대가를 보고 선택하는 전략조건이다 5. Not-to-do: To-do보다 먼저 정해 제한된 자원을 핵심사업에 모은다 6. 다시 검토: 기준은 하나의 우선순위 체계로 묶고, 상황이 달라지면 다시 검토한다</desc>
+  <g id="background">
+    <rect width="480" height="679" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="header">
+    <rect x="12" y="12" width="456" height="72" rx="12" fill="#14253D"/>
+    <text x="28" y="42" font-size="16" font-weight="700" fill="#C49A5A">CH01 · 한 장 요약</text>
+    <text x="28" y="72" font-size="21" font-weight="700" fill="#FFFFFF">사업의 기준을 정한다</text>
+  </g>
+  <g id="point-1">
+    <rect x="12" y="96" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="117.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="123" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">1</text>
+    <text x="60" y="123" font-size="17" font-weight="700" fill="#14253D">출발점</text>
+    <text x="60" y="144" font-size="16" fill="#252A30">아이템이나 시장이 아니라 사업가 자신의</text>
+    <text x="60" y="165" font-size="16" fill="#252A30">판단기준에서 시작한다</text>
+  </g>
+  <g id="point-2">
+    <rect x="12" y="189" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="210.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="216" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">2</text>
+    <text x="60" y="216" font-size="17" font-weight="700" fill="#14253D">성공의 정의</text>
+    <text x="60" y="237" font-size="16" fill="#252A30">라이프스타일과 연결되며</text>
+    <text x="60" y="258" font-size="16" fill="#252A30">자율성·조직규모·가족·사회적 목적 사이의</text>
+    <text x="60" y="279" font-size="16" fill="#252A30">우선순위가 필요하다</text>
+  </g>
+  <g id="point-3">
+    <rect x="12" y="303" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="324.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="330" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">3</text>
+    <text x="60" y="330" font-size="17" font-weight="700" fill="#14253D">목표수익</text>
+    <text x="60" y="351" font-size="16" fill="#252A30">시장규모보다 먼저 정하는 제약조건. 매출과</text>
+    <text x="60" y="372" font-size="16" fill="#252A30">영업이익을 구분한다</text>
+  </g>
+  <g id="point-4">
+    <rect x="12" y="396" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="417.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="423" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">4</text>
+    <text x="60" y="423" font-size="17" font-weight="700" fill="#14253D">성장규모</text>
+    <text x="60" y="444" font-size="16" fill="#252A30">자동 목표가 아니라 감수할 대가를 보고 선택하는</text>
+    <text x="60" y="465" font-size="16" fill="#252A30">전략조건이다</text>
+  </g>
+  <g id="point-5">
+    <rect x="12" y="489" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="510.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="516" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">5</text>
+    <text x="60" y="516" font-size="17" font-weight="700" fill="#14253D">Not-to-do</text>
+    <text x="60" y="537" font-size="16" fill="#252A30">To-do보다 먼저 정해 제한된 자원을 핵심사업에</text>
+    <text x="60" y="558" font-size="16" fill="#252A30">모은다</text>
+  </g>
+  <g id="point-6">
+    <rect x="12" y="582" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="603.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="609" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">6</text>
+    <text x="60" y="609" font-size="17" font-weight="700" fill="#14253D">다시 검토</text>
+    <text x="60" y="630" font-size="16" fill="#252A30">기준은 하나의 우선순위 체계로 묶고, 상황이</text>
+    <text x="60" y="651" font-size="16" fill="#252A30">달라지면 다시 검토한다</text>
+  </g>
+</svg>

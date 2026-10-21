@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 637" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">CH02 한 장 요약: 사업기회</title>
+  <desc id="d">CH02 사업기회를 찾고 선택한다의 핵심 정리를 6개 항목으로 압축한 한 장 요약. 1. 사업기회: 내부역량과 외부기회의 교집합에서 만들어진다 2. TPM: 무엇을 할 수 있는가·무엇을 팔 것인가·어디에서 기회를 찾을 것인가의 반복적 판단 구조 3. 산업과 시장: 산업(넓은 환경)과 시장(실제 거래집단)은 다르다. 산업의 성장이 곧 내 시장의 성장은 아니다 4. Top-down 도구: 표 완성이 아니라 아이템 우선순위 조정을 위해 쓴다 5. 세 위험 필터: 시장위험·제품위험·경로위험으로 깊게 투자할 아이템을 거른다 6. 정합성: T→P→M, M→P→T 어느 경로든 T·P·M이 하나의 논리로 맞물려야 한다</desc>
+  <g id="background">
+    <rect width="480" height="637" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="header">
+    <rect x="12" y="12" width="456" height="72" rx="12" fill="#14253D"/>
+    <text x="28" y="42" font-size="16" font-weight="700" fill="#C49A5A">CH02 · 한 장 요약</text>
+    <text x="28" y="72" font-size="21" font-weight="700" fill="#FFFFFF">사업기회를 찾고 선택한다</text>
+  </g>
+  <g id="point-1">
+    <rect x="12" y="96" width="456" height="64" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="117.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="123" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">1</text>
+    <text x="60" y="123" font-size="17" font-weight="700" fill="#14253D">사업기회</text>
+    <text x="60" y="144" font-size="16" fill="#252A30">내부역량과 외부기회의 교집합에서 만들어진다</text>
+  </g>
+  <g id="point-2">
+    <rect x="12" y="168" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="189.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="195" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">2</text>
+    <text x="60" y="195" font-size="17" font-weight="700" fill="#14253D">TPM</text>
+    <text x="60" y="216" font-size="16" fill="#252A30">무엇을 할 수 있는가·무엇을 팔 것인가·어디에서</text>
+    <text x="60" y="237" font-size="16" fill="#252A30">기회를 찾을 것인가의 반복적 판단 구조</text>
+  </g>
+  <g id="point-3">
+    <rect x="12" y="261" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="282.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="288" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">3</text>
+    <text x="60" y="288" font-size="17" font-weight="700" fill="#14253D">산업과 시장</text>
+    <text x="60" y="309" font-size="16" fill="#252A30">산업(넓은 환경)과 시장(실제 거래집단)은 다르다.</text>
+    <text x="60" y="330" font-size="16" fill="#252A30">산업의 성장이 곧 내 시장의 성장은 아니다</text>
+  </g>
+  <g id="point-4">
+    <rect x="12" y="354" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="375.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="381" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">4</text>
+    <text x="60" y="381" font-size="17" font-weight="700" fill="#14253D">Top-down 도구</text>
+    <text x="60" y="402" font-size="16" fill="#252A30">표 완성이 아니라 아이템 우선순위 조정을 위해</text>
+    <text x="60" y="423" font-size="16" fill="#252A30">쓴다</text>
+  </g>
+  <g id="point-5">
+    <rect x="12" y="447" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="468.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="474" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">5</text>
+    <text x="60" y="474" font-size="17" font-weight="700" fill="#14253D">세 위험 필터</text>
+    <text x="60" y="495" font-size="16" fill="#252A30">시장위험·제품위험·경로위험으로 깊게 투자할</text>
+    <text x="60" y="516" font-size="16" fill="#252A30">아이템을 거른다</text>
+  </g>
+  <g id="point-6">
+    <rect x="12" y="540" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="561.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="567" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">6</text>
+    <text x="60" y="567" font-size="17" font-weight="700" fill="#14253D">정합성</text>
+    <text x="60" y="588" font-size="16" fill="#252A30">T→P→M, M→P→T 어느 경로든 T·P·M이 하나의</text>
+    <text x="60" y="609" font-size="16" fill="#252A30">논리로 맞물려야 한다</text>
+  </g>
+</svg>

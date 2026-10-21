@@ -5,6 +5,7 @@
 | 스크립트 | 용도 | 실행 |
 |---|---|---|
 | `gen.mjs` | CH01~CH08 다이어그램 SVG를 `ko/diagrams`, `en/diagrams`에 생성합니다. 현재 산출물과 동일하게 재현됩니다. | `node tools/gen.mjs` |
+| `gen-summary.mjs` | CH01~CH08 한 장 요약 SVG(`ko/diagrams/CHxx-summary.svg`)와 spec(`site/diagrams/specs/CHxx-summary.md`)을 생성합니다. 내용은 각 챕터 「핵심 정리」를 압축한 것이며, 챕터의 핵심 정리를 고치면 이 스크립트의 항목도 함께 고칩니다. 영어판은 후속입니다. | `node tools/gen-summary.mjs` |
 | `specs.py` | CH04~CH08 다이어그램 spec을 `site/diagrams/specs`에 생성합니다. | `python tools/specs.py` |
 | `wstest.cjs` | 워크시트 작성기(`site/public/worksheet-writer.js`)의 파싱→직렬화 왕복 테스트입니다. 원본 워크시트 Markdown과 대조합니다. | `node tools/wstest.cjs` |
 | `check-handbook-cta.mjs` | 메인 사이트(`magisglobal.co.kr`) 핸드북 페이지의 CTA 링크 응답, 카드 수치, 챕터 링크 수를 점검합니다. 읽기 전용입니다. | `node tools/check-handbook-cta.mjs` |

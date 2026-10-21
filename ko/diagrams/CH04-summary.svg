@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 616" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">CH04 한 장 요약: 가치제안·포지셔닝</title>
+  <desc id="d">CH04 가치제안·경쟁우위·포지셔닝을 만든다의 핵심 정리를 6개 항목으로 압축한 한 장 요약. 1. 고객이 사는 것: 기술이 아니라 해결 결과다 2. 경쟁범위: 제품 카테고리가 아니라 고객문제로 정하고 경쟁재와 대체재를 함께 본다 3. 비교지표: 경쟁력 주장은 고객의 구매결정 기준으로 검증 가능해야 한다 4. 경쟁우위: 고객의 선택을 움직이고 기업이 반복 제공할 수 있는 차이다 5. 가치제안: 고객문제·해법·선택이유가 하나로 연결된 논리다 6. 포지셔닝: 상품·가격·채널·커뮤니케이션이 같은 방향을 가리키는지 점검한다</desc>
+  <g id="background">
+    <rect width="480" height="616" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="header">
+    <rect x="12" y="12" width="456" height="72" rx="12" fill="#14253D"/>
+    <text x="28" y="42" font-size="16" font-weight="700" fill="#C49A5A">CH04 · 한 장 요약</text>
+    <text x="28" y="72" font-size="21" font-weight="700" fill="#FFFFFF">가치제안·경쟁우위·포지셔닝을 만든다</text>
+  </g>
+  <g id="point-1">
+    <rect x="12" y="96" width="456" height="64" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="117.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="123" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">1</text>
+    <text x="60" y="123" font-size="17" font-weight="700" fill="#14253D">고객이 사는 것</text>
+    <text x="60" y="144" font-size="16" fill="#252A30">기술이 아니라 해결 결과다</text>
+  </g>
+  <g id="point-2">
+    <rect x="12" y="168" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="189.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="195" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">2</text>
+    <text x="60" y="195" font-size="17" font-weight="700" fill="#14253D">경쟁범위</text>
+    <text x="60" y="216" font-size="16" fill="#252A30">제품 카테고리가 아니라 고객문제로 정하고</text>
+    <text x="60" y="237" font-size="16" fill="#252A30">경쟁재와 대체재를 함께 본다</text>
+  </g>
+  <g id="point-3">
+    <rect x="12" y="261" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="282.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="288" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">3</text>
+    <text x="60" y="288" font-size="17" font-weight="700" fill="#14253D">비교지표</text>
+    <text x="60" y="309" font-size="16" fill="#252A30">경쟁력 주장은 고객의 구매결정 기준으로 검증</text>
+    <text x="60" y="330" font-size="16" fill="#252A30">가능해야 한다</text>
+  </g>
+  <g id="point-4">
+    <rect x="12" y="354" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="375.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="381" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">4</text>
+    <text x="60" y="381" font-size="17" font-weight="700" fill="#14253D">경쟁우위</text>
+    <text x="60" y="402" font-size="16" fill="#252A30">고객의 선택을 움직이고 기업이 반복 제공할 수</text>
+    <text x="60" y="423" font-size="16" fill="#252A30">있는 차이다</text>
+  </g>
+  <g id="point-5">
+    <rect x="12" y="447" width="456" height="64" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="468.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="474" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">5</text>
+    <text x="60" y="474" font-size="17" font-weight="700" fill="#14253D">가치제안</text>
+    <text x="60" y="495" font-size="16" fill="#252A30">고객문제·해법·선택이유가 하나로 연결된 논리다</text>
+  </g>
+  <g id="point-6">
+    <rect x="12" y="519" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="540.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="546" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">6</text>
+    <text x="60" y="546" font-size="17" font-weight="700" fill="#14253D">포지셔닝</text>
+    <text x="60" y="567" font-size="16" fill="#252A30">상품·가격·채널·커뮤니케이션이 같은 방향을</text>
+    <text x="60" y="588" font-size="16" fill="#252A30">가리키는지 점검한다</text>
+  </g>
+</svg>

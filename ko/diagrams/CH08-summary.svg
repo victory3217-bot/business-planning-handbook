@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 844" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">CH08 한 장 요약: 실행·검증·피보팅</title>
+  <desc id="d">CH08 실행·검증·피보팅하며 수정한다의 핵심 정리를 8개 항목으로 압축한 한 장 요약. 1. 실행: 계획을 지키는 일이 아니라 계획이 현실과 어긋나는 곳을 찾는 가설검증이다 2. 계획과 계획서: 계획은 연결된 가설의 구조, 계획서는 검증 중 쌓인 백데이터의 부산물이다 3. 검증설계 4요소: 조사검증대상·측정지표·방법 및 계획·피드백데이터를 연결한다 4. 좋은 실험: 작고 반복 가능하며 감당 가능한 위험 안에서 다음 결정을 더 정확하게 만든다 5. 피보팅: 새 아이디어가 아니라 데이터가 기존 가설을 흔들었는가로 판단한다 6. 전략과 숫자: 비즈니스전략은 모델을 시간·활동·자원·비용으로 번역한 실행계획이다 7. AI와 사람: AI는 보조 레이어이고 위험 감수와 최종 결정은 사람의 몫이다 8. 학습 사이클: 실행데이터가 앞 장 중 무엇을 다시 열지 알려주는 지속적 학습 사이클이다</desc>
+  <g id="background">
+    <rect width="480" height="844" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="header">
+    <rect x="12" y="12" width="456" height="72" rx="12" fill="#14253D"/>
+    <text x="28" y="42" font-size="16" font-weight="700" fill="#C49A5A">CH08 · 한 장 요약</text>
+    <text x="28" y="72" font-size="21" font-weight="700" fill="#FFFFFF">실행·검증·피보팅하며 수정한다</text>
+  </g>
+  <g id="point-1">
+    <rect x="12" y="96" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="117.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="123" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">1</text>
+    <text x="60" y="123" font-size="17" font-weight="700" fill="#14253D">실행</text>
+    <text x="60" y="144" font-size="16" fill="#252A30">계획을 지키는 일이 아니라 계획이 현실과 어긋나는</text>
+    <text x="60" y="165" font-size="16" fill="#252A30">곳을 찾는 가설검증이다</text>
+  </g>
+  <g id="point-2">
+    <rect x="12" y="189" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="210.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="216" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">2</text>
+    <text x="60" y="216" font-size="17" font-weight="700" fill="#14253D">계획과 계획서</text>
+    <text x="60" y="237" font-size="16" fill="#252A30">계획은 연결된 가설의 구조, 계획서는 검증 중 쌓인</text>
+    <text x="60" y="258" font-size="16" fill="#252A30">백데이터의 부산물이다</text>
+  </g>
+  <g id="point-3">
+    <rect x="12" y="282" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="303.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="309" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">3</text>
+    <text x="60" y="309" font-size="17" font-weight="700" fill="#14253D">검증설계 4요소</text>
+    <text x="60" y="330" font-size="16" fill="#252A30">조사검증대상·측정지표·방법 및</text>
+    <text x="60" y="351" font-size="16" fill="#252A30">계획·피드백데이터를 연결한다</text>
+  </g>
+  <g id="point-4">
+    <rect x="12" y="375" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="396.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="402" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">4</text>
+    <text x="60" y="402" font-size="17" font-weight="700" fill="#14253D">좋은 실험</text>
+    <text x="60" y="423" font-size="16" fill="#252A30">작고 반복 가능하며 감당 가능한 위험 안에서 다음</text>
+    <text x="60" y="444" font-size="16" fill="#252A30">결정을 더 정확하게 만든다</text>
+  </g>
+  <g id="point-5">
+    <rect x="12" y="468" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="489.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="495" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">5</text>
+    <text x="60" y="495" font-size="17" font-weight="700" fill="#14253D">피보팅</text>
+    <text x="60" y="516" font-size="16" fill="#252A30">새 아이디어가 아니라 데이터가 기존 가설을</text>
+    <text x="60" y="537" font-size="16" fill="#252A30">흔들었는가로 판단한다</text>
+  </g>
+  <g id="point-6">
+    <rect x="12" y="561" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="582.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="588" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">6</text>
+    <text x="60" y="588" font-size="17" font-weight="700" fill="#14253D">전략과 숫자</text>
+    <text x="60" y="609" font-size="16" fill="#252A30">비즈니스전략은 모델을 시간·활동·자원·비용으로</text>
+    <text x="60" y="630" font-size="16" fill="#252A30">번역한 실행계획이다</text>
+  </g>
+  <g id="point-7">
+    <rect x="12" y="654" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="675.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="681" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">7</text>
+    <text x="60" y="681" font-size="17" font-weight="700" fill="#14253D">AI와 사람</text>
+    <text x="60" y="702" font-size="16" fill="#252A30">AI는 보조 레이어이고 위험 감수와 최종 결정은</text>
+    <text x="60" y="723" font-size="16" fill="#252A30">사람의 몫이다</text>
+  </g>
+  <g id="point-8">
+    <rect x="12" y="747" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="768.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="774" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">8</text>
+    <text x="60" y="774" font-size="17" font-weight="700" fill="#14253D">학습 사이클</text>
+    <text x="60" y="795" font-size="16" fill="#252A30">실행데이터가 앞 장 중 무엇을 다시 열지 알려주는</text>
+    <text x="60" y="816" font-size="16" fill="#252A30">지속적 학습 사이클이다</text>
+  </g>
+</svg>
