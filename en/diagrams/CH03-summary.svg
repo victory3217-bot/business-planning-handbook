@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 863" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">CH03 One-Page Summary: Customer, Buyer, and Problem</title>
+  <desc id="d">CH03 Defining the Customer, the Buyer, and the Problem: a one-page summary condensing the chapter's Key Takeaways into 7 points. 1. Defining customers: Not a noun but a decision on the market's name, size, competitive structure, and channels 2. Three roles: User, Buyer, and Payer may be the same or different, so distinguish them 3. Buying logic: B2C: individual inconvenience or desire; B2B: organizational performance; B2G: budget, statutes, procurement 4. Segments: Narrow repeatedly by measurability, accessibility, scale, and capability; redefine by shared problem 5. Problem severity: Existence is not enough; the larger the gap and the resulting loss, the more severe 6. Attributes, KBF, touchpoints: Translate field language into attributes; sharpen the target with buying factors and touchpoints 7. Confirm firsthand: Work backward from the decision to change; meet users, buyers, and influencers</desc>
+  <g id="background">
+    <rect width="480" height="863" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="header">
+    <rect x="12" y="12" width="456" height="100" rx="12" fill="#14253D"/>
+    <text x="28" y="42" font-size="16" font-weight="700" fill="#C49A5A">CH03 · One-Page Summary</text>
+    <text x="28" y="72" font-size="21" font-weight="700" fill="#FFFFFF">Defining the Customer, the Buyer,</text>
+    <text x="28" y="100" font-size="21" font-weight="700" fill="#FFFFFF">and the Problem</text>
+  </g>
+  <g id="point-1">
+    <rect x="12" y="124" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="145.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="151" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">1</text>
+    <text x="60" y="151" font-size="17" font-weight="700" fill="#14253D">Defining customers</text>
+    <text x="60" y="172" font-size="16" fill="#252A30">Not a noun but a decision on the market's</text>
+    <text x="60" y="193" font-size="16" fill="#252A30">name, size, competitive structure, and</text>
+    <text x="60" y="214" font-size="16" fill="#252A30">channels</text>
+  </g>
+  <g id="point-2">
+    <rect x="12" y="238" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="259.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="265" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">2</text>
+    <text x="60" y="265" font-size="17" font-weight="700" fill="#14253D">Three roles</text>
+    <text x="60" y="286" font-size="16" fill="#252A30">User, Buyer, and Payer may be the same or</text>
+    <text x="60" y="307" font-size="16" fill="#252A30">different, so distinguish them</text>
+  </g>
+  <g id="point-3">
+    <rect x="12" y="331" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="352.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="358" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">3</text>
+    <text x="60" y="358" font-size="17" font-weight="700" fill="#14253D">Buying logic</text>
+    <text x="60" y="379" font-size="16" fill="#252A30">B2C: individual inconvenience or desire; B2B:</text>
+    <text x="60" y="400" font-size="16" fill="#252A30">organizational performance; B2G: budget,</text>
+    <text x="60" y="421" font-size="16" fill="#252A30">statutes, procurement</text>
+  </g>
+  <g id="point-4">
+    <rect x="12" y="445" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="466.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="472" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">4</text>
+    <text x="60" y="472" font-size="17" font-weight="700" fill="#14253D">Segments</text>
+    <text x="60" y="493" font-size="16" fill="#252A30">Narrow repeatedly by measurability,</text>
+    <text x="60" y="514" font-size="16" fill="#252A30">accessibility, scale, and capability;</text>
+    <text x="60" y="535" font-size="16" fill="#252A30">redefine by shared problem</text>
+  </g>
+  <g id="point-5">
+    <rect x="12" y="559" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="580.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="586" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">5</text>
+    <text x="60" y="586" font-size="17" font-weight="700" fill="#14253D">Problem severity</text>
+    <text x="60" y="607" font-size="16" fill="#252A30">Existence is not enough; the larger the gap</text>
+    <text x="60" y="628" font-size="16" fill="#252A30">and the resulting loss, the more severe</text>
+  </g>
+  <g id="point-6">
+    <rect x="12" y="652" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="673.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="679" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">6</text>
+    <text x="60" y="679" font-size="17" font-weight="700" fill="#14253D">Attributes, KBF, touchpoints</text>
+    <text x="60" y="700" font-size="16" fill="#252A30">Translate field language into attributes;</text>
+    <text x="60" y="721" font-size="16" fill="#252A30">sharpen the target with buying factors and</text>
+    <text x="60" y="742" font-size="16" fill="#252A30">touchpoints</text>
+  </g>
+  <g id="point-7">
+    <rect x="12" y="766" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="787.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="793" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">7</text>
+    <text x="60" y="793" font-size="17" font-weight="700" fill="#14253D">Confirm firsthand</text>
+    <text x="60" y="814" font-size="16" fill="#252A30">Work backward from the decision to change;</text>
+    <text x="60" y="835" font-size="16" fill="#252A30">meet users, buyers, and influencers</text>
+  </g>
+</svg>

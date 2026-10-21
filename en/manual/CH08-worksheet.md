@@ -1,6 +1,6 @@
 # CH08 Hypothesis Validation and Pivoting Design Worksheet
 
-> Source: Chapter 8 (KM064–KM073). This worksheet takes the questions and items from KM066 (The Four Elements of Validation Design), KM067 (Small, Repeatable Experiments), KM068 (Data-Driven Pivoting), and KM073 (The Execute → Data → Revise → Re-execute Loop) and carries them over as-is for filling out. No new methodology has been added.
+> Source: Chapter 8 (KM064–KM073). This worksheet takes the questions and items from KM066 (The Four Elements of Validation Design), KM067 (Small, Repeatable Experiments), KM068 (Data-Driven Pivoting), and KM073 (The Execute → Data → Revise → Re-execute Loop) and carries them over as-is for filling out. No new methodology has been added. Section 5 is a supplementary item that applies the items above to writing the execution plan.
 
 ---
 
@@ -143,6 +143,68 @@ Take the questions that arose while reviewing the earlier chapters (customer, va
 ```
 
 **Knowledge Accumulation.** Where will you store the back data and execution results used in this judgment so they can be reused in the next decision?
+
+```
+
+
+
+```
+
+---
+
+## 5. Execution Plan with Check Metrics (KM066, KM067, KM069)
+
+**A. Roadmap.** Pair what you will do in each period with the metric you will check at that point.
+
+| Period | What to do | Check metric |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+
+- If this plan is wrong, when and by what would you be able to notice?
+
+```
+
+
+
+```
+
+**B. Three risks and responses.** Do not write "no risks." Write each response as a trigger condition and an action.
+
+| Risk | Condition that counts as triggered | Pre-decided response action |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+
+**C. Write the decision criteria before seeing the results.**
+
+- What results would count as supporting the hypothesis, revising it, or discarding it?
+
+```
+
+
+
+```
+
+**D. Marking evidence status.** Mark the evidence status of each major number and statement in the plan.
+
+| Number / statement | Fact / Assumption / To be verified | How and when to verify |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+
+**E. Progress status.** If there is little already done that you can write in the business plan or application, fill in the following.
+
+| Status | Details |
+|---|---|
+| Done | |
+| In progress | |
+| Planned | |
+
+- Who are the target customers whose reactions you can collect, or what prototype can you build, before submission?
 
 ```
 

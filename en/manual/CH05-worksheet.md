@@ -1,7 +1,7 @@
 # CH05 BMC Coherence Check
 
 > Source: Chapter 5 "Designing the Business Model" / KM034–KM042
-> This worksheet transfers the questions and frameworks from KM034–KM042 directly into fill-in-the-blank form. No new methodology has been added.
+> This worksheet transfers the questions and frameworks from KM034–KM042 directly into fill-in-the-blank form. No new methodology has been added. Item 5-1 is a supplementary item that applies the connecting sentence of item 5 to cases and benchmarking.
 
 ---
 
@@ -70,6 +70,38 @@ This structure produces this cost ( ______________ )
 and this revenue ( ______________ )."
 
 - Is there a segment above where the sentence breaks? Where?
+  - Write: ______________________________________________________
+
+---
+
+## 5-1. Benchmarking and Changing One Box at a Time (KM035, KM039)
+
+**A. Benchmarking.** Pick one target you want to imitate and write one line per box. Separate what you confirmed from sources from what you guessed, and mark any box you could not confirm as "hypothesis."
+
+| BMC box | Target's content (one line) | Confirmed / Hypothesis | What to take | What to change |
+|---|---|---|---|---|
+| Customer Segments | | | | |
+| Value Proposition | | | | |
+| Channels | | | | |
+| Customer Relationships | | | | |
+| Key Resources | | | | |
+| Key Activities | | | | |
+| Key Partnerships | | | | |
+| Cost Structure | | | | |
+| Revenue Streams | | | | |
+
+- When you put only the boxes you will take into our business and rewrite the connecting sentence, where does it break, and which box needs to change?
+  - Write: ______________________________________________________
+
+**B. Change one box at a time.** Write our model's customer and Value Proposition in one line, change only one box per version, and write which boxes changed along with it and why.
+
+| Version | Customer / Value Proposition (one line) | Box changed | Boxes that changed along with it, and why |
+|---|---|---|---|
+| ① Current | | | |
+| ② | | | |
+| ③ | | | |
+
+- If no other box changed along with it, did we change the box too lightly?
   - Write: ______________________________________________________
 
 ---

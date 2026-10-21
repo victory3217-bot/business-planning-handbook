@@ -112,8 +112,88 @@ const CH = [
   ] },
 ];
 
+// 영문판 데이터: ko와 같은 순서·개수. 각 장 영문 Key Takeaways를 압축한 것이다.
+const EN = {
+  CH01: { title: "Setting the Criteria for Your Business", short: "Setting the Criteria", items: [
+    ["Starting point", "Starts not from an item or a market, but from the entrepreneur's own judgment criteria"],
+    ["Success defined", "Tied to lifestyle; needs priorities among autonomy, organization size, family, and social purpose"],
+    ["Target revenue", "A constraint set before market size. Distinguish revenue from operating profit"],
+    ["Growth scale", "Not an automatic goal but a strategic condition chosen by weighing the costs you accept"],
+    ["Not-to-do", "Set before to-do, to focus limited resources on the core business"],
+    ["Review again", "Bring the criteria into one priority system, and review it when circumstances change"],
+  ] },
+  CH02: { title: "Finding and Selecting a Business Opportunity", short: "Business Opportunity", items: [
+    ["Opportunity", "Created at the intersection of internal capability and external opportunity"],
+    ["TPM", "A repeated judgment: what can you do, what will you sell, where will you look for the opportunity"],
+    ["Industry vs. market", "Industry (broad environment) and market (actual transacting group) differ; industry growth is not growth in my market"],
+    ["Top-down tools", "Used to adjust item priority, not to complete a table"],
+    ["Three risk filters", "Market, product, and channel risk filter which items deserve deeper investment"],
+    ["Alignment", "Whether T→P→M or M→P→T, T, P, and M must lock into a single logic"],
+  ] },
+  CH03: { title: "Defining the Customer, the Buyer, and the Problem", short: "Customer, Buyer, and Problem", items: [
+    ["Defining customers", "Not a noun but a decision on the market's name, size, competitive structure, and channels"],
+    ["Three roles", "User, Buyer, and Payer may be the same or different, so distinguish them"],
+    ["Buying logic", "B2C: individual inconvenience or desire; B2B: organizational performance; B2G: budget, statutes, procurement"],
+    ["Segments", "Narrow repeatedly by measurability, accessibility, scale, and capability; redefine by shared problem"],
+    ["Problem severity", "Existence is not enough; the larger the gap and the resulting loss, the more severe"],
+    ["Attributes, KBF, touchpoints", "Translate field language into attributes; sharpen the target with buying factors and touchpoints"],
+    ["Confirm firsthand", "Work backward from the decision to change; meet users, buyers, and influencers"],
+  ] },
+  CH04: { title: "Building Value Proposition, Advantage, and Positioning", short: "Value Proposition and Positioning", items: [
+    ["What customers buy", "Not the technology but the outcome it solves"],
+    ["Competitive scope", "Set by the customer problem, not product category; consider competitors and substitutes together"],
+    ["Comparison metrics", "A competitiveness claim must be verifiable against the customer's purchase-decision criteria"],
+    ["Evidence over claims", "Replace claims of superiority or no competitors with figures and firsthand evidence"],
+    ["Competitive advantage", "A difference that moves the customer's choice and that the company can deliver repeatedly"],
+    ["Value proposition", "Customer problem, solution, and reason for choice in one connected logic"],
+    ["Positioning", "Check that product, price, channel, and communication point the same way"],
+  ] },
+  CH05: { title: "Designing the Business Model", short: "Business Model", items: [
+    ["Operating logic", "Creating, delivering, and making money from customer value, connected on three axes"],
+    ["Coherence", "Over the completeness of each box, explain how one decision changes the other components"],
+    ["BMC structure", "Value Proposition at center; delivery, creation, and capture connect around it"],
+    ["Connecting sentences", "The BMC maps causal relationships; connecting sentences expose logical conflicts"],
+    ["T-Canvas and Story", "The T-Canvas links market and product risk; the Story re-checks through buying logic"],
+    ["Cases and benchmarking", "Read others' models with the same boxes; copying one box conflicts with the rest"],
+    ["Meaning of complete", "Not success, but ready to move on to cost, price, and feasibility validation"],
+  ] },
+  CH06: { title: "Designing Cost, Price, and Revenue Model", short: "Cost, Price, and Revenue Model", items: [
+    ["Price", "Not a number attached last but the standard of business model coherence"],
+    ["Cost", "Estimated by listing activities; the realistic floor for price"],
+    ["Value and competition", "Customers pay for value; work back from willingness to pay; compare prices within the same segment"],
+    ["Channel and relationship costs", "Consider channel fees, distribution margin, and customer relationship costs in the price structure"],
+    ["Price structure check", "Check whether cost ratios exceed 100%; compare channels by contribution margin"],
+    ["Revenue model", "Who pays, for what, how much, when, and whether repeatedly; plus the pricing mechanism"],
+    ["Three financial lenses", "P&L, asset value, and cash flow show different structures of the same business"],
+    ["Handing over", "Organize price (P), cost and margin structure, and revenue model before feasibility validation"],
+  ] },
+  CH07: { title: "Validating Feasibility and the Effective Market", short: "Feasibility and Effective Market", items: [
+    ["Business feasibility", "Not a percentage of the total market but testing business logic against resource and cost constraints"],
+    ["Two markets", "Total market and Effective Market differ; use Top-down and Bottom-up together"],
+    ["Buyer focus", "Focus on the Buyer, not the User; the basis for Qty differs across B2C, B2B, and B2G"],
+    ["Nine steps", "Hypothesis (1-3), QCD (4-5), model confirmation (6-8), Effective Market (9); loop back to earlier steps"],
+    ["QCD", "Not a sequential checklist but conditions that must be satisfied simultaneously"],
+    ["SOM and SAM", "Projected P&L (close to SOM) and Effective Market (close to SAM) answer different questions"],
+    ["Basis of P", "State whether P is buyer spending or our revenue, and keep it consistent within a document"],
+    ["Iterative validation", "A logical proof, not a prophecy; recalculate whenever assumptions change"],
+  ] },
+  CH08: { title: "Execute, Validate, and Revise Through Pivoting", short: "Execute, Validate, Pivot", items: [
+    ["Execution", "Not sticking to the plan but hypothesis testing that finds where the plan diverges from reality"],
+    ["Plan vs. document", "The plan is a structure of connected hypotheses; the document is a byproduct of back data"],
+    ["Four validation elements", "Connect what to investigate, metrics, method and plan, and feedback data"],
+    ["Good experiment", "Small, repeatable, within affordable risk, and makes the next decision more accurate"],
+    ["Pivoting", "Judged not by a new idea but by whether the data shook the existing hypothesis"],
+    ["Strategy and numbers", "Strategy translates the model into time, activities, resources, and cost; revise if numbers conflict"],
+    ["Back data and Master Plan", "Accumulate the evidence for your judgments as you go"],
+    ["AI and people", "AI is a supporting layer; taking on risk and final decisions remain human"],
+    ["Learning cycle", "Execution data shows which earlier chapter to reopen, making this an ongoing learning cycle"],
+  ] },
+};
+
 const warnings = [];
-function build(ch) {
+function build(ch0, lang = "ko") {
+  const isEn = lang === "en";
+  const ch = isEn ? { id: ch0.id, ...EN[ch0.id] } : ch0;
   const PAD = 12, TX = 60, TR = W - PAD - 14;
   const maxW = TR - TX;
   const titleLines = wrap(ch.title, 21, W - 2 * PAD - 16, true);
@@ -132,18 +212,18 @@ function build(ch) {
       t += `    <text x="${TX}" y="${y + 10 + 23 + k * 21 + 15}" font-size="16" fill="${C.ink}">${esc(l)}</text>\n`;
     });
     rows.push(`  <g id="point-${i + 1}">\n${t.replace(/\n$/, "")}\n  </g>`);
-    if (lines.some((l) => width(l, 16, false) > maxW + 1)) warnings.push(`${ch.id} row ${i + 1} overflow`);
+    if (lines.some((l) => width(l, 16, false) > maxW + 1)) warnings.push(`${lang} ${ch.id} row ${i + 1} overflow`);
     y += h + 8;
   });
   const H = y + 4;
-  const desc = `${ch.id} ${ch.title}의 핵심 정리를 ${ch.items.length}개 항목으로 압축한 한 장 요약. ` + ch.items.map(([h, b], i) => `${i + 1}. ${h}: ${b}`).join(" ");
+  const desc = (isEn ? `${ch.id} ${ch.title}: a one-page summary condensing the chapter's Key Takeaways into ${ch.items.length} points. ` : `${ch.id} ${ch.title}의 핵심 정리를 ${ch.items.length}개 항목으로 압축한 한 장 요약. `) + ch.items.map(([h, b], i) => `${i + 1}. ${h}: ${b}`).join(" ");
   const head =
     `  <g id="header">\n    <rect x="${PAD}" y="${PAD}" width="${W - 2 * PAD}" height="${headH - PAD}" rx="12" fill="${C.navy}"/>\n` +
-    `    <text x="${PAD + 16}" y="${PAD + 30}" font-size="16" font-weight="700" fill="${C.gold}">${ch.id} · 한 장 요약</text>\n` +
+    `    <text x="${PAD + 16}" y="${PAD + 30}" font-size="16" font-weight="700" fill="${C.gold}">${ch.id} · ${isEn ? "One-Page Summary" : "한 장 요약"}</text>\n` +
     titleLines.map((l, k) => `    <text x="${PAD + 16}" y="${PAD + 30 + 8 + (k + 1) * 28 - 6}" font-size="21" font-weight="700" fill="${C.white}">${esc(l)}</text>`).join("\n") +
     `\n  </g>`;
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" role="img" aria-labelledby="t d" font-family="${FONT}">
-  <title id="t">${esc(ch.id + " 한 장 요약: " + ch.short)}</title>
+  <title id="t">${esc(isEn ? `${ch.id} One-Page Summary: ${ch.short}` : ch.id + " 한 장 요약: " + ch.short)}</title>
   <desc id="d">${esc(desc)}</desc>
   <g id="background">
     <rect width="${W}" height="${H}" rx="14" fill="${C.ivory}"/>
@@ -187,9 +267,11 @@ Navy = 제목 띠와 항목 이름. Gold = 번호. White = 항목 카드.
 }
 
 mkdirSync(join(ROOT, "ko", "diagrams"), { recursive: true });
+mkdirSync(join(ROOT, "en", "diagrams"), { recursive: true });
 mkdirSync(join(ROOT, "site", "diagrams", "specs"), { recursive: true });
 for (const ch of CH) {
   const { svg, spec } = build(ch);
+  writeFileSync(join(ROOT, "en", "diagrams", `${ch.id}-summary.svg`), build(ch, "en").svg, "utf8");
   writeFileSync(join(ROOT, "ko", "diagrams", `${ch.id}-summary.svg`), svg, "utf8");
   writeFileSync(join(ROOT, "site", "diagrams", "specs", `${ch.id}-summary.md`), spec, "utf8");
 }

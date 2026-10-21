@@ -1,7 +1,7 @@
 # CH06 Cost, Price, and Revenue Model Checklist
 
 > Source: Chapter 6 / KM043–KM054 (business-planning-handbook)
-> This worksheet carries over the questions and frameworks contained in KM043–KM054 directly into a fill-in form. No new methodology has been added.
+> This worksheet carries over the questions and frameworks contained in KM043–KM054 directly into a fill-in form. No new methodology has been added. Item 4-1 and the input check at the end of item 1 are a supplement that carries the price-structure and cost exercises of the standard lecture materials into a fill-in form within the same scope.
 
 ## 1. Estimating Cost from Activities (KM044, KM045)
 
@@ -23,6 +23,13 @@ Organize the cost structure under the items below.
 - SG&A (costs of sales and operations):
 - Total cost (manufacturing cost/purchase cost + SG&A):
 
+After completing the entries, check the following.
+
+- [ ] The unit of sale (one piece, one set, a total amount) has been set, and all amounts use the same unit.
+- [ ] I have stated whether the selling price includes value-added tax, and I have not counted the value-added tax as revenue.
+- [ ] I have not omitted the founder's labor and rent, and I have not entered the same cost twice.
+- [ ] I have marked costs I do not yet know as "unknown" rather than 0 won. Unknown items: ______________
+
 ## 2. Value-Based Pricing (KM046)
 
 - What problem does the customer solve, or what value do they feel they gain, from our product/service?
@@ -43,6 +50,30 @@ Organize the cost structure under the items below.
 - If we use an indirect channel, what are the fees and distribution margin, and are they reflected in the price structure?
 - If we use a direct channel, do we have the resources to handle customer acquisition, shipping, and service ourselves?
 - Do we need a price band between the consumer price and the actual sale price for discounts, commissions, or consignment sales fees? If so, how large should that band be?
+
+## 4-1. Price Structure Equations and the "Losing Money the More You Sell" Check (KM048, KM049)
+
+Write one column per channel. Calculate ratios with the actual sale price set to 100.
+
+| Item | Channel A | Channel B | Channel C |
+|---|---|---|---|
+| Consumer price (list price) | | | |
+| Price band (discounts, free gifts, commissions, consignment sales fees) | | | |
+| Actual sale price (= consumer price - price band) | | | |
+| Manufacturing cost (or purchase cost) | | | |
+| SG&A | | | |
+| Channel fee | | | |
+| Total cost | | | |
+| Profit (= actual sale price - total cost) | | | |
+| Cost ratio + fee rate + SG&A ratio (does it exceed 100%?) | | | |
+| Contribution margin per order (actual sale price - variable costs that increase with that order) | | | |
+
+- Is the fee rate based on the selling price or on the amount actually paid out? Is the base the same across channels?
+  - Write: ______________________________________________________
+- Is the channel with the largest revenue the same as the channel with the largest contribution margin per order? If not, does the larger-revenue channel play another role, such as acquiring new customers?
+  - Write: ______________________________________________________
+- Is actual cost higher than the allowable cost calculated backward from the positioning price and target profit? If so, what will you change (channel, price, product composition, target profit)?
+  - Write: ______________________________________________________
 
 ## 5. Customer Relationship Cost (KM049)
 

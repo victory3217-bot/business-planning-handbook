@@ -53,7 +53,7 @@
 | 고정비 / 변동비 / 직접비 / 간접비 | Fixed costs / Variable costs / Direct costs / Indirect costs | CH06 |
 | 판매관리비 | SG&A (selling, general & administrative expenses) | CH06 — standard accounting equivalent |
 | 제조경비 | Manufacturing overhead | CH06 — standard accounting equivalent |
-| 소비자가 / 실판매가 / 가격구간 | List price / Net selling price / Price band | CH06 — 소비자가 = 실판매가 + 가격구간 (표준강의안 보강, ko 먼저 반영) |
+| 소비자가 / 실판매가 / 가격구간 | Consumer price / Actual sale price / Price band | CH06 — 소비자가 = 실판매가 + 가격구간 (표준강의안 보강, ko 먼저 반영) |
 | 공헌이익 | Contribution margin | CH06 — 실판매가에서 그 판매와 함께 늘어나는 변동비를 뺀 금액 (표준강의안 보강) |
 | 허용원가 | Allowable cost | CH06 — 가격·채널 마진·목표이익에서 거꾸로 계산한 총원가 상한 (표준강의안 보강) |
 | 영향자 | Influencer (decision influencer) | CH03 — 구매 결정에 영향을 주는 사람 (표준강의안 보강) |

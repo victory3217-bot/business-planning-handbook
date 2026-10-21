@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 821" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">CH04 One-Page Summary: Value Proposition and Positioning</title>
+  <desc id="d">CH04 Building Value Proposition, Advantage, and Positioning: a one-page summary condensing the chapter's Key Takeaways into 7 points. 1. What customers buy: Not the technology but the outcome it solves 2. Competitive scope: Set by the customer problem, not product category; consider competitors and substitutes together 3. Comparison metrics: A competitiveness claim must be verifiable against the customer's purchase-decision criteria 4. Evidence over claims: Replace claims of superiority or no competitors with figures and firsthand evidence 5. Competitive advantage: A difference that moves the customer's choice and that the company can deliver repeatedly 6. Value proposition: Customer problem, solution, and reason for choice in one connected logic 7. Positioning: Check that product, price, channel, and communication point the same way</desc>
+  <g id="background">
+    <rect width="480" height="821" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="header">
+    <rect x="12" y="12" width="456" height="100" rx="12" fill="#14253D"/>
+    <text x="28" y="42" font-size="16" font-weight="700" fill="#C49A5A">CH04 · One-Page Summary</text>
+    <text x="28" y="72" font-size="21" font-weight="700" fill="#FFFFFF">Building Value Proposition,</text>
+    <text x="28" y="100" font-size="21" font-weight="700" fill="#FFFFFF">Advantage, and Positioning</text>
+  </g>
+  <g id="point-1">
+    <rect x="12" y="124" width="456" height="64" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="145.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="151" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">1</text>
+    <text x="60" y="151" font-size="17" font-weight="700" fill="#14253D">What customers buy</text>
+    <text x="60" y="172" font-size="16" fill="#252A30">Not the technology but the outcome it solves</text>
+  </g>
+  <g id="point-2">
+    <rect x="12" y="196" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="217.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="223" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">2</text>
+    <text x="60" y="223" font-size="17" font-weight="700" fill="#14253D">Competitive scope</text>
+    <text x="60" y="244" font-size="16" fill="#252A30">Set by the customer problem, not product</text>
+    <text x="60" y="265" font-size="16" fill="#252A30">category; consider competitors and</text>
+    <text x="60" y="286" font-size="16" fill="#252A30">substitutes together</text>
+  </g>
+  <g id="point-3">
+    <rect x="12" y="310" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="331.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="337" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">3</text>
+    <text x="60" y="337" font-size="17" font-weight="700" fill="#14253D">Comparison metrics</text>
+    <text x="60" y="358" font-size="16" fill="#252A30">A competitiveness claim must be verifiable</text>
+    <text x="60" y="379" font-size="16" fill="#252A30">against the customer's purchase-decision</text>
+    <text x="60" y="400" font-size="16" fill="#252A30">criteria</text>
+  </g>
+  <g id="point-4">
+    <rect x="12" y="424" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="445.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="451" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">4</text>
+    <text x="60" y="451" font-size="17" font-weight="700" fill="#14253D">Evidence over claims</text>
+    <text x="60" y="472" font-size="16" fill="#252A30">Replace claims of superiority or no</text>
+    <text x="60" y="493" font-size="16" fill="#252A30">competitors with figures and firsthand</text>
+    <text x="60" y="514" font-size="16" fill="#252A30">evidence</text>
+  </g>
+  <g id="point-5">
+    <rect x="12" y="538" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="559.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="565" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">5</text>
+    <text x="60" y="565" font-size="17" font-weight="700" fill="#14253D">Competitive advantage</text>
+    <text x="60" y="586" font-size="16" fill="#252A30">A difference that moves the customer's choice</text>
+    <text x="60" y="607" font-size="16" fill="#252A30">and that the company can deliver repeatedly</text>
+  </g>
+  <g id="point-6">
+    <rect x="12" y="631" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="652.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="658" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">6</text>
+    <text x="60" y="658" font-size="17" font-weight="700" fill="#14253D">Value proposition</text>
+    <text x="60" y="679" font-size="16" fill="#252A30">Customer problem, solution, and reason for</text>
+    <text x="60" y="700" font-size="16" fill="#252A30">choice in one connected logic</text>
+  </g>
+  <g id="point-7">
+    <rect x="12" y="724" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="745.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="751" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">7</text>
+    <text x="60" y="751" font-size="17" font-weight="700" fill="#14253D">Positioning</text>
+    <text x="60" y="772" font-size="16" fill="#252A30">Check that product, price, channel, and</text>
+    <text x="60" y="793" font-size="16" fill="#252A30">communication point the same way</text>
+  </g>
+</svg>

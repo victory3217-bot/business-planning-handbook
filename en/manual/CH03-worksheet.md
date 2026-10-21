@@ -1,7 +1,7 @@
 # CH03 User / Buyer / Payer / Problem Analysis
 
 > Source: Chapter 3 (Defining the Customer, the Buyer, and the Problem) / KM018-KM026
-> This worksheet turns only the questions and judgment criteria that actually appear in KM018–KM026 into fill-in-the-blank form. It does not add any new methodology.
+> This worksheet turns only the questions and judgment criteria that actually appear in KM018–KM026 into fill-in-the-blank form. It does not add any new methodology. Item 10 is a supplementary item that recasts the questions in items 1–9 for interviews.
 
 ---
 
@@ -219,6 +219,50 @@ Check the current candidate segment against the criteria below.
 ```
 
 - Are there parts of the customer touchpoint that remain unclear? If so, what do you still need to confirm?
+
+```
+
+
+
+```
+
+---
+
+## 10. Meeting Customers to Verify: Interview Design (KM019, KM020, KM023, KM025, KM026 / CH08 KM066)
+
+- What hypothesis do you want to test in this round of interviews, and which decision will the result change?
+
+```
+
+
+
+```
+
+- What core questions must you answer to judge that decision, and will you find the answers through interviews or observation?
+
+```
+
+
+
+```
+
+- Compose the people you will meet. In B2B or B2G, include at least one purchasing manager and one budget approver besides the User.
+
+| Role | Whom will you meet | What to confirm |
+|---|---|---|
+| User (the person who experiences the problem) | | |
+| Buyer (the person who decides the purchase) | | |
+| Influencer / budget approver | | |
+
+- From the question sets, pick only what this round's core questions need and write them in conversational form. (Severity of the problem / Roles / Selection criteria and touchpoints / Hypothesis testing)
+
+| Set | Chosen question | Worksheet item this answer will fill |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+
+- Does every question serve to answer a core question? Have you deleted the ones that do not?
 
 ```
 

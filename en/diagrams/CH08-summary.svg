@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 1028" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">CH08 One-Page Summary: Execute, Validate, Pivot</title>
+  <desc id="d">CH08 Execute, Validate, and Revise Through Pivoting: a one-page summary condensing the chapter's Key Takeaways into 9 points. 1. Execution: Not sticking to the plan but hypothesis testing that finds where the plan diverges from reality 2. Plan vs. document: The plan is a structure of connected hypotheses; the document is a byproduct of back data 3. Four validation elements: Connect what to investigate, metrics, method and plan, and feedback data 4. Good experiment: Small, repeatable, within affordable risk, and makes the next decision more accurate 5. Pivoting: Judged not by a new idea but by whether the data shook the existing hypothesis 6. Strategy and numbers: Strategy translates the model into time, activities, resources, and cost; revise if numbers conflict 7. Back data and Master Plan: Accumulate the evidence for your judgments as you go 8. AI and people: AI is a supporting layer; taking on risk and final decisions remain human 9. Learning cycle: Execution data shows which earlier chapter to reopen, making this an ongoing learning cycle</desc>
+  <g id="background">
+    <rect width="480" height="1028" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="header">
+    <rect x="12" y="12" width="456" height="100" rx="12" fill="#14253D"/>
+    <text x="28" y="42" font-size="16" font-weight="700" fill="#C49A5A">CH08 · One-Page Summary</text>
+    <text x="28" y="72" font-size="21" font-weight="700" fill="#FFFFFF">Execute, Validate, and Revise</text>
+    <text x="28" y="100" font-size="21" font-weight="700" fill="#FFFFFF">Through Pivoting</text>
+  </g>
+  <g id="point-1">
+    <rect x="12" y="124" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="145.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="151" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">1</text>
+    <text x="60" y="151" font-size="17" font-weight="700" fill="#14253D">Execution</text>
+    <text x="60" y="172" font-size="16" fill="#252A30">Not sticking to the plan but hypothesis</text>
+    <text x="60" y="193" font-size="16" fill="#252A30">testing that finds where the plan diverges</text>
+    <text x="60" y="214" font-size="16" fill="#252A30">from reality</text>
+  </g>
+  <g id="point-2">
+    <rect x="12" y="238" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="259.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="265" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">2</text>
+    <text x="60" y="265" font-size="17" font-weight="700" fill="#14253D">Plan vs. document</text>
+    <text x="60" y="286" font-size="16" fill="#252A30">The plan is a structure of connected</text>
+    <text x="60" y="307" font-size="16" fill="#252A30">hypotheses; the document is a byproduct of</text>
+    <text x="60" y="328" font-size="16" fill="#252A30">back data</text>
+  </g>
+  <g id="point-3">
+    <rect x="12" y="352" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="373.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="379" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">3</text>
+    <text x="60" y="379" font-size="17" font-weight="700" fill="#14253D">Four validation elements</text>
+    <text x="60" y="400" font-size="16" fill="#252A30">Connect what to investigate, metrics, method</text>
+    <text x="60" y="421" font-size="16" fill="#252A30">and plan, and feedback data</text>
+  </g>
+  <g id="point-4">
+    <rect x="12" y="445" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="466.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="472" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">4</text>
+    <text x="60" y="472" font-size="17" font-weight="700" fill="#14253D">Good experiment</text>
+    <text x="60" y="493" font-size="16" fill="#252A30">Small, repeatable, within affordable risk,</text>
+    <text x="60" y="514" font-size="16" fill="#252A30">and makes the next decision more accurate</text>
+  </g>
+  <g id="point-5">
+    <rect x="12" y="538" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="559.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="565" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">5</text>
+    <text x="60" y="565" font-size="17" font-weight="700" fill="#14253D">Pivoting</text>
+    <text x="60" y="586" font-size="16" fill="#252A30">Judged not by a new idea but by whether the</text>
+    <text x="60" y="607" font-size="16" fill="#252A30">data shook the existing hypothesis</text>
+  </g>
+  <g id="point-6">
+    <rect x="12" y="631" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="652.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="658" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">6</text>
+    <text x="60" y="658" font-size="17" font-weight="700" fill="#14253D">Strategy and numbers</text>
+    <text x="60" y="679" font-size="16" fill="#252A30">Strategy translates the model into time,</text>
+    <text x="60" y="700" font-size="16" fill="#252A30">activities, resources, and cost; revise if</text>
+    <text x="60" y="721" font-size="16" fill="#252A30">numbers conflict</text>
+  </g>
+  <g id="point-7">
+    <rect x="12" y="745" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="766.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="772" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">7</text>
+    <text x="60" y="772" font-size="17" font-weight="700" fill="#14253D">Back data and Master Plan</text>
+    <text x="60" y="793" font-size="16" fill="#252A30">Accumulate the evidence for your judgments as</text>
+    <text x="60" y="814" font-size="16" fill="#252A30">you go</text>
+  </g>
+  <g id="point-8">
+    <rect x="12" y="838" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="859.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="865" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">8</text>
+    <text x="60" y="865" font-size="17" font-weight="700" fill="#14253D">AI and people</text>
+    <text x="60" y="886" font-size="16" fill="#252A30">AI is a supporting layer; taking on risk and</text>
+    <text x="60" y="907" font-size="16" fill="#252A30">final decisions remain human</text>
+  </g>
+  <g id="point-9">
+    <rect x="12" y="931" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="952.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="958" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">9</text>
+    <text x="60" y="958" font-size="17" font-weight="700" fill="#14253D">Learning cycle</text>
+    <text x="60" y="979" font-size="16" fill="#252A30">Execution data shows which earlier chapter to</text>
+    <text x="60" y="1000" font-size="16" fill="#252A30">reopen, making this an ongoing learning cycle</text>
+  </g>
+</svg>

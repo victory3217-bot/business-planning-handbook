@@ -1,6 +1,6 @@
 # CH04 Value Proposition and Competitive Alternative Comparison
 
-> Source: Chapter 4 / KM027-KM033. The questions and tables below carry the concepts and questions from KM027-KM033 into a form you can fill in, without adding any new methodology.
+> Source: Chapter 4 / KM027-KM033. The questions and tables below carry the concepts and questions from KM027-KM033 into a form you can fill in, without adding any new methodology. Item 3-1 is a supplementary item that applies the comparison metric design of item 3 to the sentences in a business plan.
 
 ## 1. Problem → Attribute → Solution → Product/Service (KM027)
 
@@ -43,6 +43,21 @@ Itemize the criteria the customer actually uses when comparing us against the co
 - Check question: Is this metric a technical spec we want to boast about, or a criterion that influences the customer's purchase decision?
 - Check question: Are we missing any non-technical factors such as delivery time, maintenance, ease of installation, or cost savings?
 - Check question: Can we turn a claim like "our technology is superior" into a number or condition, in the form "shortens/improves X from X to X"?
+
+## 3-1. Turning Assertions into Evidence (KM029)
+
+Find the sentences in your business introduction or plan that are written only as assertions, and rewrite them.
+
+| Assertion-style statement (e.g., excellent / no competitors / high marketability) | Number or condition the customer can judge, or directly confirmed evidence | Evidence status (confirmed / not yet confirmed) |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+
+- Have you recorded the alternatives that solve the same problem by visiting, buying, or using them directly? The alternatives recorded and what you confirmed (price, configuration, customer reaction):
+  - Entry: ______________________________________________________
+- What gaps does the record reveal, and could they be candidates for the place we can enter?
+  - Entry: ______________________________________________________
 
 ## 4. Competitive Advantage Check (KM030)
 

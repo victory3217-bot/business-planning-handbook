@@ -108,6 +108,8 @@
   - Your answer: ______________________________________________________
 - (If B2C) At what price, how many customers, and how often do they buy?
   - Your answer: ______________________________________________________
+- Is the P in the calculation above the price the buyer pays (consumer price or official supply price), or the net selling price that remains with us? What would the size be if you multiplied on the other basis?
+  - Your answer: ______________________________________________________
 - (If B2B) How do price and quantity move together according to order scale and production method? Can you use Top-down data, such as the production performance of the upstream industry?
   - Your answer: ______________________________________________________
 - (If B2G) Is there a legal obligation for installation or management? From which budget line item, and at what scale, is it executed? Do you approach the public institution through direct sales or a partner channel?
@@ -122,6 +124,17 @@
 - Which of these assumptions is most likely to change first?
   - Your answer: ______________________________________________________
 - Has any condition among the market, competitive environment, customer behavior, cost, or resources changed recently? If so, which step (1–9) should you go back to and recalculate?
+  - Your answer: ______________________________________________________
+- Recalculate while changing only one assumption at a time. (This is a linear calculation and does not include the change in demand caused by a price change.)
+
+| Scenario | Price | Target | Purchase frequency (or order quantity) | Effective Market | vs. original |
+|---|---|---|---|---|---|
+| Original | | | | | 100% |
+| Price changed 10% | | | | | |
+| Target changed 20% | | | | | |
+| Purchase frequency halved | | | | | |
+
+  - Which assumption moves the most, and how will you verify it?
   - Your answer: ______________________________________________________
 
 > Note: The Effective Market size derived in this worksheet is not a number fixed as the final answer. The 9 steps are not a sequence you pass through once — they form an iterative validation process in which constraints discovered at a later step loop back to an earlier step and readjust the assumptions.

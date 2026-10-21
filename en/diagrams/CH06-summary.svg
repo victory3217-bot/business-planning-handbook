@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 956" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">CH06 One-Page Summary: Cost, Price, and Revenue Model</title>
+  <desc id="d">CH06 Designing Cost, Price, and Revenue Model: a one-page summary condensing the chapter's Key Takeaways into 8 points. 1. Price: Not a number attached last but the standard of business model coherence 2. Cost: Estimated by listing activities; the realistic floor for price 3. Value and competition: Customers pay for value; work back from willingness to pay; compare prices within the same segment 4. Channel and relationship costs: Consider channel fees, distribution margin, and customer relationship costs in the price structure 5. Price structure check: Check whether cost ratios exceed 100%; compare channels by contribution margin 6. Revenue model: Who pays, for what, how much, when, and whether repeatedly; plus the pricing mechanism 7. Three financial lenses: P&amp;L, asset value, and cash flow show different structures of the same business 8. Handing over: Organize price (P), cost and margin structure, and revenue model before feasibility validation</desc>
+  <g id="background">
+    <rect width="480" height="956" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="header">
+    <rect x="12" y="12" width="456" height="100" rx="12" fill="#14253D"/>
+    <text x="28" y="42" font-size="16" font-weight="700" fill="#C49A5A">CH06 · One-Page Summary</text>
+    <text x="28" y="72" font-size="21" font-weight="700" fill="#FFFFFF">Designing Cost, Price, and Revenue</text>
+    <text x="28" y="100" font-size="21" font-weight="700" fill="#FFFFFF">Model</text>
+  </g>
+  <g id="point-1">
+    <rect x="12" y="124" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="145.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="151" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">1</text>
+    <text x="60" y="151" font-size="17" font-weight="700" fill="#14253D">Price</text>
+    <text x="60" y="172" font-size="16" fill="#252A30">Not a number attached last but the standard</text>
+    <text x="60" y="193" font-size="16" fill="#252A30">of business model coherence</text>
+  </g>
+  <g id="point-2">
+    <rect x="12" y="217" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="238.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="244" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">2</text>
+    <text x="60" y="244" font-size="17" font-weight="700" fill="#14253D">Cost</text>
+    <text x="60" y="265" font-size="16" fill="#252A30">Estimated by listing activities; the</text>
+    <text x="60" y="286" font-size="16" fill="#252A30">realistic floor for price</text>
+  </g>
+  <g id="point-3">
+    <rect x="12" y="310" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="331.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="337" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">3</text>
+    <text x="60" y="337" font-size="17" font-weight="700" fill="#14253D">Value and competition</text>
+    <text x="60" y="358" font-size="16" fill="#252A30">Customers pay for value; work back from</text>
+    <text x="60" y="379" font-size="16" fill="#252A30">willingness to pay; compare prices within the</text>
+    <text x="60" y="400" font-size="16" fill="#252A30">same segment</text>
+  </g>
+  <g id="point-4">
+    <rect x="12" y="424" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="445.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="451" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">4</text>
+    <text x="60" y="451" font-size="17" font-weight="700" fill="#14253D">Channel and relationship costs</text>
+    <text x="60" y="472" font-size="16" fill="#252A30">Consider channel fees, distribution margin,</text>
+    <text x="60" y="493" font-size="16" fill="#252A30">and customer relationship costs in the price</text>
+    <text x="60" y="514" font-size="16" fill="#252A30">structure</text>
+  </g>
+  <g id="point-5">
+    <rect x="12" y="538" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="559.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="565" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">5</text>
+    <text x="60" y="565" font-size="17" font-weight="700" fill="#14253D">Price structure check</text>
+    <text x="60" y="586" font-size="16" fill="#252A30">Check whether cost ratios exceed 100%;</text>
+    <text x="60" y="607" font-size="16" fill="#252A30">compare channels by contribution margin</text>
+  </g>
+  <g id="point-6">
+    <rect x="12" y="631" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="652.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="658" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">6</text>
+    <text x="60" y="658" font-size="17" font-weight="700" fill="#14253D">Revenue model</text>
+    <text x="60" y="679" font-size="16" fill="#252A30">Who pays, for what, how much, when, and</text>
+    <text x="60" y="700" font-size="16" fill="#252A30">whether repeatedly; plus the pricing</text>
+    <text x="60" y="721" font-size="16" fill="#252A30">mechanism</text>
+  </g>
+  <g id="point-7">
+    <rect x="12" y="745" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="766.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="772" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">7</text>
+    <text x="60" y="772" font-size="17" font-weight="700" fill="#14253D">Three financial lenses</text>
+    <text x="60" y="793" font-size="16" fill="#252A30">P&amp;L, asset value, and cash flow show</text>
+    <text x="60" y="814" font-size="16" fill="#252A30">different structures of the same business</text>
+  </g>
+  <g id="point-8">
+    <rect x="12" y="838" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="859.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="865" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">8</text>
+    <text x="60" y="865" font-size="17" font-weight="700" fill="#14253D">Handing over</text>
+    <text x="60" y="886" font-size="16" fill="#252A30">Organize price (P), cost and margin</text>
+    <text x="60" y="907" font-size="16" fill="#252A30">structure, and revenue model before</text>
+    <text x="60" y="928" font-size="16" fill="#252A30">feasibility validation</text>
+  </g>
+</svg>

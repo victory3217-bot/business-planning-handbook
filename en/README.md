@@ -25,9 +25,18 @@ Aspiring and early-stage founders learning a systematic approach to business dev
 
 Every chapter follows the same document structure (Questions This Chapter Answers / Learning Objectives / Core Concepts / Frameworks / Application Process / Common Judgment Errors / Practical Application Questions / Connection to the Next Chapter / Key Takeaways), and each chapter includes one practical [worksheet](manual/) and representative [examples](examples/).
 
+## Appendices (Supplementary Material)
+
+Outside the eight chapters, practical methods drawn from the standard lecture materials, which organize the author's teaching and consulting results, are collected as appendices. They are kept separate from the body (which is Knowledge-Module based).
+
+- Appendix A. Business Plan Writing in Practice
+- Appendix B. Customer Interviews, Observation, and Empathy Research
+- Appendix C. A Framework for Channel Decisions
+- Appendix D. B2B and B2G Sales: The Basic Framework
+
 ## Source Policy
 
-This handbook reorganizes content from the author's internal Knowledge Base into textbook form for learners, without external research, web search, or general-knowledge supplementation. See [`../source-map.md`](../source-map.md) for the chapter-to-source mapping.
+This handbook reorganizes content from the author's internal Knowledge Base into textbook form for learners, without external research, web search, or general-knowledge supplementation. Afterwards, the standard lecture materials that organize the author's teaching and consulting results were added as a second source, and some chapters were supplemented from them. Supplemented parts are marked "Supplementary source" in each chapter's Source Map. Information that could not be confirmed in the lecture materials (fees, regulations, and statistics that depend on a reference date), practice-only sample data, and personally or corporately identifying information are not included. See [`../source-map.md`](../source-map.md) for the chapter-to-source mapping.
 
 ## Version
 

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 751" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">CH05 One-Page Summary: Business Model</title>
+  <desc id="d">CH05 Designing the Business Model: a one-page summary condensing the chapter's Key Takeaways into 7 points. 1. Operating logic: Creating, delivering, and making money from customer value, connected on three axes 2. Coherence: Over the completeness of each box, explain how one decision changes the other components 3. BMC structure: Value Proposition at center; delivery, creation, and capture connect around it 4. Connecting sentences: The BMC maps causal relationships; connecting sentences expose logical conflicts 5. T-Canvas and Story: The T-Canvas links market and product risk; the Story re-checks through buying logic 6. Cases and benchmarking: Read others' models with the same boxes; copying one box conflicts with the rest 7. Meaning of complete: Not success, but ready to move on to cost, price, and feasibility validation</desc>
+  <g id="background">
+    <rect width="480" height="751" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="header">
+    <rect x="12" y="12" width="456" height="72" rx="12" fill="#14253D"/>
+    <text x="28" y="42" font-size="16" font-weight="700" fill="#C49A5A">CH05 · One-Page Summary</text>
+    <text x="28" y="72" font-size="21" font-weight="700" fill="#FFFFFF">Designing the Business Model</text>
+  </g>
+  <g id="point-1">
+    <rect x="12" y="96" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="117.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="123" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">1</text>
+    <text x="60" y="123" font-size="17" font-weight="700" fill="#14253D">Operating logic</text>
+    <text x="60" y="144" font-size="16" fill="#252A30">Creating, delivering, and making money from</text>
+    <text x="60" y="165" font-size="16" fill="#252A30">customer value, connected on three axes</text>
+  </g>
+  <g id="point-2">
+    <rect x="12" y="189" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="210.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="216" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">2</text>
+    <text x="60" y="216" font-size="17" font-weight="700" fill="#14253D">Coherence</text>
+    <text x="60" y="237" font-size="16" fill="#252A30">Over the completeness of each box, explain</text>
+    <text x="60" y="258" font-size="16" fill="#252A30">how one decision changes the other components</text>
+  </g>
+  <g id="point-3">
+    <rect x="12" y="282" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="303.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="309" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">3</text>
+    <text x="60" y="309" font-size="17" font-weight="700" fill="#14253D">BMC structure</text>
+    <text x="60" y="330" font-size="16" fill="#252A30">Value Proposition at center; delivery,</text>
+    <text x="60" y="351" font-size="16" fill="#252A30">creation, and capture connect around it</text>
+  </g>
+  <g id="point-4">
+    <rect x="12" y="375" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="396.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="402" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">4</text>
+    <text x="60" y="402" font-size="17" font-weight="700" fill="#14253D">Connecting sentences</text>
+    <text x="60" y="423" font-size="16" fill="#252A30">The BMC maps causal relationships; connecting</text>
+    <text x="60" y="444" font-size="16" fill="#252A30">sentences expose logical conflicts</text>
+  </g>
+  <g id="point-5">
+    <rect x="12" y="468" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="489.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="495" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">5</text>
+    <text x="60" y="495" font-size="17" font-weight="700" fill="#14253D">T-Canvas and Story</text>
+    <text x="60" y="516" font-size="16" fill="#252A30">The T-Canvas links market and product risk;</text>
+    <text x="60" y="537" font-size="16" fill="#252A30">the Story re-checks through buying logic</text>
+  </g>
+  <g id="point-6">
+    <rect x="12" y="561" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="582.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="588" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">6</text>
+    <text x="60" y="588" font-size="17" font-weight="700" fill="#14253D">Cases and benchmarking</text>
+    <text x="60" y="609" font-size="16" fill="#252A30">Read others' models with the same boxes;</text>
+    <text x="60" y="630" font-size="16" fill="#252A30">copying one box conflicts with the rest</text>
+  </g>
+  <g id="point-7">
+    <rect x="12" y="654" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="675.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="681" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">7</text>
+    <text x="60" y="681" font-size="17" font-weight="700" fill="#14253D">Meaning of complete</text>
+    <text x="60" y="702" font-size="16" fill="#252A30">Not success, but ready to move on to cost,</text>
+    <text x="60" y="723" font-size="16" fill="#252A30">price, and feasibility validation</text>
+  </g>
+</svg>

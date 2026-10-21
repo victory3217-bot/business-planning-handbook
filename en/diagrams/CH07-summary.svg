@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 956" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">CH07 One-Page Summary: Feasibility and Effective Market</title>
+  <desc id="d">CH07 Validating Feasibility and the Effective Market: a one-page summary condensing the chapter's Key Takeaways into 8 points. 1. Business feasibility: Not a percentage of the total market but testing business logic against resource and cost constraints 2. Two markets: Total market and Effective Market differ; use Top-down and Bottom-up together 3. Buyer focus: Focus on the Buyer, not the User; the basis for Qty differs across B2C, B2B, and B2G 4. Nine steps: Hypothesis (1-3), QCD (4-5), model confirmation (6-8), Effective Market (9); loop back to earlier steps 5. QCD: Not a sequential checklist but conditions that must be satisfied simultaneously 6. SOM and SAM: Projected P&amp;L (close to SOM) and Effective Market (close to SAM) answer different questions 7. Basis of P: State whether P is buyer spending or our revenue, and keep it consistent within a document 8. Iterative validation: A logical proof, not a prophecy; recalculate whenever assumptions change</desc>
+  <g id="background">
+    <rect width="480" height="956" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="header">
+    <rect x="12" y="12" width="456" height="100" rx="12" fill="#14253D"/>
+    <text x="28" y="42" font-size="16" font-weight="700" fill="#C49A5A">CH07 · One-Page Summary</text>
+    <text x="28" y="72" font-size="21" font-weight="700" fill="#FFFFFF">Validating Feasibility and the</text>
+    <text x="28" y="100" font-size="21" font-weight="700" fill="#FFFFFF">Effective Market</text>
+  </g>
+  <g id="point-1">
+    <rect x="12" y="124" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="145.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="151" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">1</text>
+    <text x="60" y="151" font-size="17" font-weight="700" fill="#14253D">Business feasibility</text>
+    <text x="60" y="172" font-size="16" fill="#252A30">Not a percentage of the total market but</text>
+    <text x="60" y="193" font-size="16" fill="#252A30">testing business logic against resource and</text>
+    <text x="60" y="214" font-size="16" fill="#252A30">cost constraints</text>
+  </g>
+  <g id="point-2">
+    <rect x="12" y="238" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="259.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="265" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">2</text>
+    <text x="60" y="265" font-size="17" font-weight="700" fill="#14253D">Two markets</text>
+    <text x="60" y="286" font-size="16" fill="#252A30">Total market and Effective Market differ; use</text>
+    <text x="60" y="307" font-size="16" fill="#252A30">Top-down and Bottom-up together</text>
+  </g>
+  <g id="point-3">
+    <rect x="12" y="331" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="352.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="358" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">3</text>
+    <text x="60" y="358" font-size="17" font-weight="700" fill="#14253D">Buyer focus</text>
+    <text x="60" y="379" font-size="16" fill="#252A30">Focus on the Buyer, not the User; the basis</text>
+    <text x="60" y="400" font-size="16" fill="#252A30">for Qty differs across B2C, B2B, and B2G</text>
+  </g>
+  <g id="point-4">
+    <rect x="12" y="424" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="445.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="451" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">4</text>
+    <text x="60" y="451" font-size="17" font-weight="700" fill="#14253D">Nine steps</text>
+    <text x="60" y="472" font-size="16" fill="#252A30">Hypothesis (1-3), QCD (4-5), model</text>
+    <text x="60" y="493" font-size="16" fill="#252A30">confirmation (6-8), Effective Market (9);</text>
+    <text x="60" y="514" font-size="16" fill="#252A30">loop back to earlier steps</text>
+  </g>
+  <g id="point-5">
+    <rect x="12" y="538" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="559.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="565" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">5</text>
+    <text x="60" y="565" font-size="17" font-weight="700" fill="#14253D">QCD</text>
+    <text x="60" y="586" font-size="16" fill="#252A30">Not a sequential checklist but conditions</text>
+    <text x="60" y="607" font-size="16" fill="#252A30">that must be satisfied simultaneously</text>
+  </g>
+  <g id="point-6">
+    <rect x="12" y="631" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="652.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="658" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">6</text>
+    <text x="60" y="658" font-size="17" font-weight="700" fill="#14253D">SOM and SAM</text>
+    <text x="60" y="679" font-size="16" fill="#252A30">Projected P&amp;L (close to SOM) and Effective</text>
+    <text x="60" y="700" font-size="16" fill="#252A30">Market (close to SAM) answer different</text>
+    <text x="60" y="721" font-size="16" fill="#252A30">questions</text>
+  </g>
+  <g id="point-7">
+    <rect x="12" y="745" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="766.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="772" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">7</text>
+    <text x="60" y="772" font-size="17" font-weight="700" fill="#14253D">Basis of P</text>
+    <text x="60" y="793" font-size="16" fill="#252A30">State whether P is buyer spending or our</text>
+    <text x="60" y="814" font-size="16" fill="#252A30">revenue, and keep it consistent within a</text>
+    <text x="60" y="835" font-size="16" fill="#252A30">document</text>
+  </g>
+  <g id="point-8">
+    <rect x="12" y="859" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="880.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="886" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">8</text>
+    <text x="60" y="886" font-size="17" font-weight="700" fill="#14253D">Iterative validation</text>
+    <text x="60" y="907" font-size="16" fill="#252A30">A logical proof, not a prophecy; recalculate</text>
+    <text x="60" y="928" font-size="16" fill="#252A30">whenever assumptions change</text>
+  </g>
+</svg>

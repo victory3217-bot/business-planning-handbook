@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 728" role="img" aria-labelledby="t d" font-family="system-ui, 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+  <title id="t">CH02 One-Page Summary: Business Opportunity</title>
+  <desc id="d">CH02 Finding and Selecting a Business Opportunity: a one-page summary condensing the chapter's Key Takeaways into 6 points. 1. Opportunity: Created at the intersection of internal capability and external opportunity 2. TPM: A repeated judgment: what can you do, what will you sell, where will you look for the opportunity 3. Industry vs. market: Industry (broad environment) and market (actual transacting group) differ; industry growth is not growth in my market 4. Top-down tools: Used to adjust item priority, not to complete a table 5. Three risk filters: Market, product, and channel risk filter which items deserve deeper investment 6. Alignment: Whether T→P→M or M→P→T, T, P, and M must lock into a single logic</desc>
+  <g id="background">
+    <rect width="480" height="728" rx="14" fill="#F6F2EA"/>
+  </g>
+  <g id="header">
+    <rect x="12" y="12" width="456" height="100" rx="12" fill="#14253D"/>
+    <text x="28" y="42" font-size="16" font-weight="700" fill="#C49A5A">CH02 · One-Page Summary</text>
+    <text x="28" y="72" font-size="21" font-weight="700" fill="#FFFFFF">Finding and Selecting a Business</text>
+    <text x="28" y="100" font-size="21" font-weight="700" fill="#FFFFFF">Opportunity</text>
+  </g>
+  <g id="point-1">
+    <rect x="12" y="124" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="145.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="151" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">1</text>
+    <text x="60" y="151" font-size="17" font-weight="700" fill="#14253D">Opportunity</text>
+    <text x="60" y="172" font-size="16" fill="#252A30">Created at the intersection of internal</text>
+    <text x="60" y="193" font-size="16" fill="#252A30">capability and external opportunity</text>
+  </g>
+  <g id="point-2">
+    <rect x="12" y="217" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="238.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="244" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">2</text>
+    <text x="60" y="244" font-size="17" font-weight="700" fill="#14253D">TPM</text>
+    <text x="60" y="265" font-size="16" fill="#252A30">A repeated judgment: what can you do, what</text>
+    <text x="60" y="286" font-size="16" fill="#252A30">will you sell, where will you look for the</text>
+    <text x="60" y="307" font-size="16" fill="#252A30">opportunity</text>
+  </g>
+  <g id="point-3">
+    <rect x="12" y="331" width="456" height="106" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="352.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="358" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">3</text>
+    <text x="60" y="358" font-size="17" font-weight="700" fill="#14253D">Industry vs. market</text>
+    <text x="60" y="379" font-size="16" fill="#252A30">Industry (broad environment) and market</text>
+    <text x="60" y="400" font-size="16" fill="#252A30">(actual transacting group) differ; industry</text>
+    <text x="60" y="421" font-size="16" fill="#252A30">growth is not growth in my market</text>
+  </g>
+  <g id="point-4">
+    <rect x="12" y="445" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="466.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="472" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">4</text>
+    <text x="60" y="472" font-size="17" font-weight="700" fill="#14253D">Top-down tools</text>
+    <text x="60" y="493" font-size="16" fill="#252A30">Used to adjust item priority, not to complete</text>
+    <text x="60" y="514" font-size="16" fill="#252A30">a table</text>
+  </g>
+  <g id="point-5">
+    <rect x="12" y="538" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="559.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="565" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">5</text>
+    <text x="60" y="565" font-size="17" font-weight="700" fill="#14253D">Three risk filters</text>
+    <text x="60" y="586" font-size="16" fill="#252A30">Market, product, and channel risk filter</text>
+    <text x="60" y="607" font-size="16" fill="#252A30">which items deserve deeper investment</text>
+  </g>
+  <g id="point-6">
+    <rect x="12" y="631" width="456" height="85" rx="10" fill="#FFFFFF"/>
+    <circle cx="36" cy="652.5" r="13" fill="#C49A5A"/>
+    <text x="36" y="658" text-anchor="middle" font-size="16" font-weight="700" fill="#14253D">6</text>
+    <text x="60" y="658" font-size="17" font-weight="700" fill="#14253D">Alignment</text>
+    <text x="60" y="679" font-size="16" fill="#252A30">Whether T→P→M or M→P→T, T, P, and M must</text>
+    <text x="60" y="700" font-size="16" fill="#252A30">lock into a single logic</text>
+  </g>
+</svg>
