@@ -246,7 +246,7 @@ Check the current candidate segment against the criteria below.
 
 ```
 
-- Compose the people you will meet. In B2B or B2G, include at least one purchasing manager and one budget approver besides the User.
+- Decide who you will meet. In B2B or B2G, include at least one purchasing manager and one budget approver besides the User.
 
 | Role | Whom will you meet | What to confirm |
 |---|---|---|

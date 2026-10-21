@@ -21,23 +21,23 @@ The case values are a base-unit (60g) price of 19,000 won, a vegan and potential
 | Calculation | Formula | Result |
 |---|---|---|
 | Annual spending per person | 19,000 won × 10 units | 190,000 won |
-| Effective Market at consumer price | 19,000 won × 1,500,000 persons × 10 units | 2,850 hundred million won |
-| Size at net selling price | 15,900 won × 1,500,000 persons × 10 units | 2,385 hundred million won |
+| Effective Market at consumer price | 19,000 won × 1,500,000 persons × 10 units | 285.0 billion won |
+| Size at actual sale price | 15,900 won × 1,500,000 persons × 10 units | 238.5 billion won |
 
-The difference of 465 hundred million won between the two results is the share corresponding to the price band (3,100 won) between the consumer price and the net selling price. In this case, that band was used for customer relationship management such as discounts and freebies (see CH06-EX01).
+The difference of 46.5 billion won between the two results is the share corresponding to the price band (3,100 won) between the consumer price and the actual sale price. In this case, that band was used for customer relationship management such as discounts and free gifts (see CH06-EX01).
 
-The 2,850 hundred million won in this case is the value multiplied at the consumer price. This fits CH07's buyer-defined market definition, in which the Effective Market is defined as the amount buyers spend. When speaking of the size the business can actually book as revenue, use the 2,385 hundred million won multiplied at the net selling price. Either way, state the basis within the document and do not mix them.
+The 285.0 billion won in this case is the value multiplied at the consumer price. This fits the buyer-defined market definition in CH07, in which the Effective Market is the amount buyers spend. When speaking of the size the business can actually book as revenue, use the 238.5 billion won multiplied at the actual sale price. Either way, state the basis within the document and do not mix them.
 
 ### Changing One Assumption at a Time
 
-This is a linear calculation that changes only one assumption from the original value (2,850 hundred million won) and leaves the rest as they are. It does not include the effect of demand changing when the price is lowered.
+This is a linear calculation that changes only one assumption from the original value (285.0 billion won) and leaves the rest as they are. It does not include the effect of demand changing when the price is lowered.
 
 | Scenario | Price | Target population | Annual purchases | Effective Market | vs. original |
 |---|---:|---:|---:|---:|---:|
-| Original | 19,000 won | 1.5 million | 10 units | 2,850 hundred million won | 100% |
-| Price cut 10% | 17,100 won | 1.5 million | 10 units | 2,565 hundred million won | 90% |
-| Target down 20% | 19,000 won | 1.2 million | 10 units | 2,280 hundred million won | 80% |
-| Annual purchases halved | 19,000 won | 1.5 million | 5 units | 1,425 hundred million won | 50% |
+| Original | 19,000 won | 1.5 million | 10 units | 285.0 billion won | 100% |
+| Price cut 10% | 17,100 won | 1.5 million | 10 units | 256.5 billion won | 90% |
+| Target down 20% | 19,000 won | 1.2 million | 10 units | 228.0 billion won | 80% |
+| Annual purchases halved | 19,000 won | 1.5 million | 5 units | 142.5 billion won | 50% |
 
 Because the three assumptions are linked by multiplication, the result is directly proportional to each rate of change. In this case, the assumption that swings the most is purchase frequency. This means the assumption that the entire vegan and potential-vegetarian population buys 10 units a year is the first one to verify.
 

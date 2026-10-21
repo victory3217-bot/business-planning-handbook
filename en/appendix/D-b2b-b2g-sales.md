@@ -20,7 +20,7 @@ A consumer sees and decides directly, but in a company or institution the person
 
 ### The buyer map
 
-The buyer map is a table with four boxes (the user, the purchasing officer, the approver, and the problem to solve), in which you write one line each for who they are, what they want, what we can give, and what stands in the way. How to read it is simple. The user looks at convenience, the purchasing officer at terms and risk, and the approver at effect and budget. Take care not to treat only the purchasing officer as the buyer. A line-department head, a representative, or a decision-making committee can play the buyer role, and only when you find the people who influence the decision and the others involved do each one's value factors become visible. Do not leave an unknown box empty; write "unknown" and note how you will find out.
+The buyer map is a table with four boxes (the user, the purchasing officer, the approver, and the problem to solve), in which you write one line each for who they are, what they want, what we can give, and what stands in the way. How to read it is simple. The user looks at convenience, the purchasing officer at terms and risk, and the approver at effect and budget. Take care not to treat only the purchasing officer as the buyer. A line-department head, the head of the organization, or a decision-making committee can play the buyer role, and only when you find the people who influence the decision and the others involved do each one's value factors become visible. Do not leave an unknown box empty; write "unknown" and note how you will find out.
 
 Even for the same product, the "reason it is good" differs depending on who buys. In B2B, willingness to pay arises when the buyer resonates with one of the values: performance gain, cost reduction, or strategic advantage. B2G first checks "how it can be bought" rather than a good product. Without a budget it cannot be bought, and without eligibility one cannot bid or contract. Specific limits and procedures change from time to time, so verify them in official sources.
 
@@ -64,7 +64,7 @@ A proposal is a document that shows a "safe decision," not a "good product." The
 
 ## 4. Common Judgment Errors
 
-- **Seeing only the purchasing officer as the buyer**: There may be a separate line-department head, representative, committee, or approver. If you meet only the user, you miss why praise from the field does not turn into a purchase.
+- **Seeing only the purchasing officer as the buyer**: There may be a separate line-department head, head of the organization, committee, or approver. If you meet only the user, you miss why praise from the field does not turn into a purchase.
 - **Assuming direct sales is always more profitable**: The profit margin may rise, but you must take on sales yourself and your access narrows.
 - **Treating the list price and the price actually received as the same**: Discounts, commissions, and fees all come out of your share.
 - **Promising a bulk unit price before the volume is confirmed**: A lowered unit price presumes the volume.

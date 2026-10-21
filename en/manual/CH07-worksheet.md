@@ -108,7 +108,7 @@
   - Your answer: ______________________________________________________
 - (If B2C) At what price, how many customers, and how often do they buy?
   - Your answer: ______________________________________________________
-- Is the P in the calculation above the price the buyer pays (consumer price or official supply price), or the net selling price that remains with us? What would the size be if you multiplied on the other basis?
+- Is the P in the calculation above the price the buyer pays (consumer price or official supply price), or the actual sale price that remains with us? What would the size be if you multiplied on the other basis?
   - Your answer: ______________________________________________________
 - (If B2B) How do price and quantity move together according to order scale and production method? Can you use Top-down data, such as the production performance of the upstream industry?
   - Your answer: ______________________________________________________

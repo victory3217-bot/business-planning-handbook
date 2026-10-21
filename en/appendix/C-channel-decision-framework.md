@@ -111,7 +111,7 @@ Observe gathers confirmed facts into a fact sheet; Orient interprets the bottlen
 1. **Answer the seven journey questions.** For a box where you cannot cite evidence, do not fill it with a guess; write how you will check.
 2. **Gather the funnel numbers by channel.** For a stage without data, request the data first.
 3. **Pick the single weakest stage for each channel.**
-4. **Set candidate causes from the symptoms** and check them against the numbers to confirm first.
+4. **Set candidate causes from the symptoms** and check them against the numbers to be confirmed first.
 5. **Decide which 7C box to look at first** and answer that box's question with evidence. Widen to the second box if needed.
 6. **Set the channel type** and reread the numbers with that type's KPIs.
 7. **Fill in the contribution-margin-per-order table by channel.** Leave boxes whose values are unconfirmed blank and mark them as assumptions.
@@ -142,7 +142,7 @@ Observe gathers confirmed facts into a fact sheet; Orient interprets the bottlen
 - Judgment proceeds in the order of where it is blocked (funnel), why it is blocked (7C), what money remains (contribution margin per order), and the decision (OODA).
 - Find the bottleneck in one place first, confirm candidate causes with numbers, and then interpret them with 7C.
 - 7C is a common language for comparing different channels with the same seven questions.
-- Divide channels into types by customer behavior, not by name, and allocate roles rather than rankings.
+- Divide channels into types by customer behavior, not by name, and allocate roles rather than ranking channels against each other.
 - The criterion for comparing channels is contribution margin per order, not revenue, and the calculation procedure is continued in the *Price Is Strategy* handbook.
 - Leave the decision as one sentence containing the main channel, supporting channels, channels to give up, the basis, and the execution tasks and KPIs.
 

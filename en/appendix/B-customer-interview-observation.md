@@ -46,7 +46,7 @@ Questions basically begin with when, why, and how, and take a form that has the 
 | Tool | What it does | Input | Result |
 |---|---|---|---|
 | Affinity diagram method | Splits the records into single lines and groups similar ones together to find patterns | Records from multiple people | Named groups |
-| Empathy map | Gathers one user's seeing, hearing, saying and doing, thinking and feeling, along with pains and gains, onto one sheet | One person's records | Patterns, pains, expectations, potential deep needs |
+| Empathy map | Gathers one user's seeing, hearing, saying and doing, thinking and feeling, along with pains and expectations, onto one sheet | One person's records | Patterns, pains, expectations, potential deep needs |
 | User journey map | Lays the experience out by stage (before, during, after) and writes expectations, actions, emotions, discomforts, and satisfactions to find the moments felt most strongly | The flow of the experience | Points to focus on |
 | Persona | Portrays a fictional person representing a user type through demographics, behavior, personality, mindset, values, interests, needs, and goals | Results of the tools above | A single sheet that lets the team picture the same person |
 
