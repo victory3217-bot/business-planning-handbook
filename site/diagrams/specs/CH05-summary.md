@@ -3,7 +3,7 @@
 - diagram_id: `summary`
 - chapter: CH05. 비즈니스모델을 설계한다
 - files: `ko/diagrams/CH05-summary.svg` (en은 후속)
-- layout type: header band + 6 numbered point cards, 480 x 658 units
+- layout type: header band + 7 numbered point cards, 480 x 751 units
 
 ## Learning purpose
 
@@ -20,7 +20,8 @@
 3. BMC 구조 — 가치제안 중심에 전달(고객·채널·관계), 창출(자원·활동·파트너), 회수(비용·수익원)
 4. 연결문장 — BMC는 인과관계를 보여주는 관계도. 연결문장으로 논리적 충돌을 찾는다
 5. T-캔버스·Story — T-캔버스는 시장·제품 위험을 잇고, Business Model Story는 구매논리로 다시 확인한다
-6. 완성의 뜻 — 성공이 아니라 원가·가격·타당성 검증으로 넘어갈 수 있는 상태다
+6. 사례·벤치마킹 — 남의 모델도 같은 칸과 연결문장으로 읽는다. 한 칸만 따라 하면 다른 칸과 충돌한다
+7. 완성의 뜻 — 성공이 아니라 원가·가격·타당성 검증으로 넘어갈 수 있는 상태다
 
 ## Concepts intentionally excluded
 

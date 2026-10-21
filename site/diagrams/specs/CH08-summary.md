@@ -3,7 +3,7 @@
 - diagram_id: `summary`
 - chapter: CH08. 실행·검증·피보팅하며 수정한다
 - files: `ko/diagrams/CH08-summary.svg` (en은 후속)
-- layout type: header band + 8 numbered point cards, 480 x 844 units
+- layout type: header band + 9 numbered point cards, 480 x 958 units
 
 ## Learning purpose
 
@@ -21,8 +21,9 @@
 4. 좋은 실험 — 작고 반복 가능하며 감당 가능한 위험 안에서 다음 결정을 더 정확하게 만든다
 5. 피보팅 — 새 아이디어가 아니라 데이터가 기존 가설을 흔들었는가로 판단한다
 6. 전략과 숫자 — 비즈니스전략은 모델을 시간·활동·자원·비용으로 번역한 실행계획이다
-7. AI와 사람 — AI는 보조 레이어이고 위험 감수와 최종 결정은 사람의 몫이다
-8. 학습 사이클 — 실행데이터가 앞 장 중 무엇을 다시 열지 알려주는 지속적 학습 사이클이다
+7. 확인 지표·근거 상태 — 로드맵에는 기간마다 확인 지표를, 위험에는 발동 조건과 대응을 붙인다. 오픈은 검증이 아니며 숫자에는 사실·가정·확인 필요를 표시한다
+8. AI와 사람 — AI는 보조 레이어이고 위험 감수와 최종 결정은 사람의 몫이다
+9. 학습 사이클 — 실행데이터가 앞 장 중 무엇을 다시 열지 알려주는 지속적 학습 사이클이다
 
 ## Concepts intentionally excluded
 

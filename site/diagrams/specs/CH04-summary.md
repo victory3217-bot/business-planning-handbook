@@ -3,7 +3,7 @@
 - diagram_id: `summary`
 - chapter: CH04. 가치제안·경쟁우위·포지셔닝을 만든다
 - files: `ko/diagrams/CH04-summary.svg` (en은 후속)
-- layout type: header band + 6 numbered point cards, 480 x 616 units
+- layout type: header band + 7 numbered point cards, 480 x 709 units
 
 ## Learning purpose
 
@@ -18,9 +18,10 @@
 1. 고객이 사는 것 — 기술이 아니라 해결 결과다
 2. 경쟁범위 — 제품 카테고리가 아니라 고객문제로 정하고 경쟁재와 대체재를 함께 본다
 3. 비교지표 — 경쟁력 주장은 고객의 구매결정 기준으로 검증 가능해야 한다
-4. 경쟁우위 — 고객의 선택을 움직이고 기업이 반복 제공할 수 있는 차이다
-5. 가치제안 — 고객문제·해법·선택이유가 하나로 연결된 논리다
-6. 포지셔닝 — 상품·가격·채널·커뮤니케이션이 같은 방향을 가리키는지 점검한다
+4. 선언 대신 증거 — 우수하다·경쟁사 없음·시장성이 높다는 선언은 수치와 직접 확인한 증거로 바꾼다
+5. 경쟁우위 — 고객의 선택을 움직이고 기업이 반복 제공할 수 있는 차이다
+6. 가치제안 — 고객문제·해법·선택이유가 하나로 연결된 논리다
+7. 포지셔닝 — 상품·가격·채널·커뮤니케이션이 같은 방향을 가리키는지 점검한다
 
 ## Concepts intentionally excluded
 

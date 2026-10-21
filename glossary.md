@@ -57,6 +57,10 @@
 | 공헌이익 | Contribution margin | CH06 — 실판매가에서 그 판매와 함께 늘어나는 변동비를 뺀 금액 (표준강의안 보강) |
 | 허용원가 | Allowable cost | CH06 — 가격·채널 마진·목표이익에서 거꾸로 계산한 총원가 상한 (표준강의안 보강) |
 | 영향자 | Influencer (decision influencer) | CH03 — 구매 결정에 영향을 주는 사람 (표준강의안 보강) |
+| 선언형 문장 | Assertion-style statement | CH04 — "우수하다", "경쟁사 없음" 등 근거 없는 주장 문장 (표준강의안 보강) |
+| 벤치마킹 | Benchmarking | CH05 — 대상을 BMC 칸으로 분해해 가져올 것과 바꿀 것을 가르는 방법 (표준강의안 보강) |
+| 확인 지표 | Check metric | CH08 — 로드맵의 기간마다 계획이 맞는지 확인하는 지표 (표준강의안 보강) |
+| 근거 상태 (사실/가정/확인 필요) | Evidence status (fact / assumption / to be verified) | CH08 — 편집자 정리 표기 규칙 (표준강의안 보강) |
 | 부가가치 가격결정 | Value-added pricing | CH06 — sub-concept distinct from the main "value-based pricing" term |
 | 고객가치 기반 가격결정 | Value-based pricing | CH06 |
 | 경쟁 기반 가격결정 | Competition-based pricing | CH06 |
