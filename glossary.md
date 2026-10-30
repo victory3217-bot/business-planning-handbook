@@ -62,6 +62,7 @@
 | 벤치마킹 | Benchmarking | CH05 — 대상을 BMC 칸으로 분해해 가져올 것과 바꿀 것을 가르는 방법 (표준강의안 보강) |
 | 확인 지표 | Check metric | CH08 — 로드맵의 기간마다 계획이 맞는지 확인하는 지표 (표준강의안 보강) |
 | 근거 상태 (사실/가정/확인 필요) | Evidence status (fact / assumption / to be verified) | CH08 — 편집자 정리 표기 규칙 (표준강의안 보강) |
+| 유지·수정·폐기 | Keep / Modify / Discard | 사업 전체나 가격안에 대한 판단 어휘. 가설 하나의 판정은 지지·수정·폐기이며, 가설이 지지되면 그 가설은 유지된다 (CH08, 가격전략 핸드북 CH15) |
 | 부가가치 가격결정 | Value-added pricing | CH06 — sub-concept distinct from the main "value-based pricing" term |
 | 고객가치 기반 가격결정 | Value-based pricing | CH06 |
 | 경쟁 기반 가격결정 | Competition-based pricing | CH06 |
