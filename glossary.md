@@ -18,7 +18,7 @@
 | 경쟁우위 | Competitive Advantage | — | Distinct from 비교우위 (see below) |
 | 포지셔닝 | Positioning | — | |
 | 비즈니스모델 | Business Model | — | |
-| 수익모델 | Revenue Model | — | |
+| 수익모델 | Revenue Model | — | CH05에서는 원본 교안이 세 번째 축을 이르는 이름으로도 쓰이나, 이 책에서는 CH06의 수익원 유형·과금방식이라는 좁은 뜻으로 쓴다 |
 | 유효시장 | Effective Market | — | Capitalized as a defined term (CH07) |
 | 추정손익 | Projected P&L | — | |
 | 판매수량 | Qty | — | Used within "P×Qty" |
