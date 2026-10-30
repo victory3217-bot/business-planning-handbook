@@ -55,7 +55,8 @@
 | 제조경비 | Manufacturing overhead | CH06 — standard accounting equivalent |
 | 소비자가 / 실판매가 / 가격구간 | Consumer price / Actual sale price / Price band | CH06 — 소비자가 = 실판매가 + 가격구간 (표준강의안 보강, ko 먼저 반영) |
 | 공헌이익 | Contribution margin | CH06 — 실판매가에서 그 판매와 함께 늘어나는 변동비를 뺀 금액 (표준강의안 보강) |
-| 허용원가 | Allowable cost | CH06 — 가격·채널 마진·목표이익에서 거꾸로 계산한 총원가 상한 (표준강의안 보강) |
+| 허용원가 | Allowable direct cost | CH06 — 가격·채널 마진·목표이익에서 거꾸로 계산한, 제품·서비스 직접원가의 상한. 가격전략 핸드북 MODE C의 Allowable Direct Cost와 같은 뜻 (표준강의안 보강) |
+| Cost plus / Sales minus / Keystone | Cost plus / Sales minus / Keystone | CH06 — 가격을 정하는 방향 세 가지. 영어 그대로 쓴다 (표준강의안 보강) |
 | 영향자 | Influencer (decision influencer) | CH03 — 구매 결정에 영향을 주는 사람 (표준강의안 보강) |
 | 선언형 문장 | Assertion-style statement | CH04 — "우수하다", "경쟁사 없음" 등 근거 없는 주장 문장 (표준강의안 보강) |
 | 벤치마킹 | Benchmarking | CH05 — 대상을 BMC 칸으로 분해해 가져올 것과 바꿀 것을 가르는 방법 (표준강의안 보강) |
