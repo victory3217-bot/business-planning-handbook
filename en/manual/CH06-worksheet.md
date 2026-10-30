@@ -72,7 +72,7 @@ Write one column per channel. Calculate ratios with the actual sale price set to
   - Write: ______________________________________________________
 - Is the channel with the largest revenue the same as the channel with the largest contribution margin per order? If not, does the larger-revenue channel play another role, such as acquiring new customers?
   - Write: ______________________________________________________
-- Is actual cost higher than the allowable cost calculated backward from the positioning price and target profit? If so, what will you change (channel, price, product composition, target profit)?
+- Is the actual product/service direct cost higher than the allowable cost calculated backward from the positioning price and target profit? If so, what will you change (channel, price, product composition, target profit)?
   - Write: ______________________________________________________
 
 ## 5. Customer Relationship Cost (KM049)
