@@ -217,7 +217,7 @@ for (const locale of LOCALES) {
 writeGenerated(
   join(OUT_ROOT, "index.md"),
   { title: "Business Planning Handbook", template: "splash" },
-  `Business Planning Handbook — v0.1.0\n\n8 Chapters · 8 Worksheets · 9 Examples\n\n- [한국어](/business-planning-handbook/ko/)\n- [English](/business-planning-handbook/en/)\n`
+  `Business Planning Handbook — v0.2.0\n\n8 Chapters · 8 Worksheets · 9 Examples\n\n- [한국어](/business-planning-handbook/ko/)\n- [English](/business-planning-handbook/en/)\n`
 );
 
 console.log("[sync-content] Synced ko/en chapters, manual, examples into src/content/docs/");

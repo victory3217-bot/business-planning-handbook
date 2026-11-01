@@ -1,4 +1,4 @@
-# Business Planning Handbook — v0.1 (English)
+# Business Planning Handbook — v0.2 (English)
 
 > [🇰🇷 한국어로 읽기](../ko/README.md) · [⬅ Back to main](../README.md)
 
@@ -44,4 +44,4 @@ This handbook reorganizes content from the author's internal Knowledge Base into
 
 ## Version
 
-**v0.1** — First public release, human-reviewed. A continuously improved educational resource.
+**v0.2** — Adds the Master Note v1.1 enrichment of CH01–CH08, Appendices E (investor perspective) and F (operating model), and additions to Appendices C and D. The additions have not yet been fully human-reviewed; the v0.1 text was. A continuously improved educational resource.

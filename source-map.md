@@ -1,4 +1,4 @@
-# Source Map (Public / Bilingual) — business-planning-handbook v0.1
+# Source Map (Public / Bilingual) — business-planning-handbook v0.2
 
 > Shows which Master Note (MN) and which range of Knowledge Modules (KM) each chapter is based on. Only public-eligible sources are listed. Applies to both `ko/` and `en/` — the English chapters are direct translations of the Korean chapters listed below and cite the same sources.
 > Chapter가 어떤 Master Note(MN)와 어떤 범위의 Knowledge Module(KM)에 근거하는지 보여주는 공개용 표다. public-eligible 소스만 표기하며, `ko/`와 `en/` 모두에 동일하게 적용된다.

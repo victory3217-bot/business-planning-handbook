@@ -1,4 +1,4 @@
-# Glossary — business-planning-handbook v0.1
+# Glossary — business-planning-handbook v0.2
 
 > Korean ↔ English terminology actually used in this handbook. No new concepts are introduced here; this only records the mapping used during translation.
 
