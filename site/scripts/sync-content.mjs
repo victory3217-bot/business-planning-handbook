@@ -84,6 +84,7 @@ mkdirSync(OUT_ROOT, { recursive: true });
 
 // Collect chapter titles per locale (reused for the generated landing pages).
 const chapterTitlesByLocale = {};
+const appendixLinksByLocale = {};
 
 // Extract the first paragraph (or two) of prose following the H1 in a README,
 // stopping at the next heading. Used to seed the locale landing page intro
@@ -159,10 +160,12 @@ for (const locale of LOCALES) {
 
   // Appendices (supplementary material; ko first, en follows)
   let aOrder = 1;
+  appendixLinksByLocale[locale] = [];
   for (const file of listDir(locale, "appendix")) {
     const raw = readSource(locale, "appendix", file);
     const fallback = file.replace(/\.md$/, "");
     const { title, body } = extractTitle(raw, fallback);
+    appendixLinksByLocale[locale].push({ title, slug: file.replace(/\.md$/, "").toLowerCase() });
     writeGenerated(
       join(OUT_ROOT, locale, "appendix", file),
       { title, sidebar: { order: aOrder++ } },
@@ -181,6 +184,8 @@ const LANDING_STRINGS = {
     title: "Business Planning Handbook",
     pathLabel: "ko",
     heading: "8개 챕터 학습 경로",
+    appendixHeading: "부록",
+    appendixNote: "부록은 챕터를 보완하는 심화 자료입니다. 부록 E·F와 C·D 보강은 v0.2에서 추가되었고 아직 사람이 내용 검토를 마치지 않은 초안입니다.",
     startLabel: "CH01부터 시작하기",
     worksheetsNote:
       "각 챕터별 실습 워크시트와 대표 사례는 왼쪽 사이드바의 **워크시트 & 사례** 그룹에서 확인할 수 있습니다. 질문에 직접 답하고 Markdown 파일로 저장하려면 [워크시트 작성기](" + BASE + "ko/worksheet/)를 이용하세요.",
@@ -189,6 +194,8 @@ const LANDING_STRINGS = {
     title: "Business Planning Handbook",
     pathLabel: "en",
     heading: "8-Chapter Learning Path",
+    appendixHeading: "Appendices",
+    appendixNote: "The appendices are supplementary material that deepens the chapters. Appendices E and F and the additions to C and D were added in v0.2 and have not yet been fully human-reviewed.",
     startLabel: "Start with CH01",
     worksheetsNote:
       "Practical worksheets and representative examples for each chapter are available under the **Worksheets & Examples** group in the sidebar on the left. To answer the questions and save them as a Markdown file, use the [Worksheet Writer](" + BASE + "en/worksheet/).",
@@ -206,9 +213,16 @@ for (const locale of LOCALES) {
     return `- [${title}](${href})`;
   }).join("\n");
 
+  const appendixLinks = (appendixLinksByLocale[locale] || [])
+    .map((a) => `- [${a.title}](${BASE}${strings.pathLabel}/appendix/${a.slug}/)`)
+    .join("\n");
+  const appendixSection = appendixLinks
+    ? `\n\n## ${strings.appendixHeading}\n\n${appendixLinks}\n\n${strings.appendixNote}`
+    : "";
+
   const startHref = `${BASE}${strings.pathLabel}/chapters/${CHAPTERS[0].toLowerCase()}/`;
 
-  const body = `${intro}\n\n## ${strings.heading}\n\n${chapterLinks}\n\n${strings.worksheetsNote}\n\n[${strings.startLabel} →](${startHref})\n`;
+  const body = `${intro}\n\n## ${strings.heading}\n\n${chapterLinks}\n\n${strings.worksheetsNote}${appendixSection}\n\n[${strings.startLabel} →](${startHref})\n`;
 
   writeGenerated(join(OUT_ROOT, locale, "index.md"), { title: strings.title }, body);
 }
