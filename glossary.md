@@ -18,7 +18,7 @@
 | 경쟁우위 | Competitive Advantage | — | Distinct from 비교우위 (see below) |
 | 포지셔닝 | Positioning | — | |
 | 비즈니스모델 | Business Model | — | |
-| 수익모델 | Revenue Model | — | |
+| 수익모델 | Revenue Model | — | CH05에서는 원본 교안이 세 번째 축을 이르는 이름으로도 쓰이나, 이 책에서는 CH06의 수익원 유형·과금방식이라는 좁은 뜻으로 쓴다 |
 | 유효시장 | Effective Market | — | Capitalized as a defined term (CH07) |
 | 추정손익 | Projected P&L | — | |
 | 판매수량 | Qty | — | Used within "P×Qty" |
@@ -55,12 +55,14 @@
 | 제조경비 | Manufacturing overhead | CH06 — standard accounting equivalent |
 | 소비자가 / 실판매가 / 가격구간 | Consumer price / Actual sale price / Price band | CH06 — 소비자가 = 실판매가 + 가격구간 (표준강의안 보강, ko 먼저 반영) |
 | 공헌이익 | Contribution margin | CH06 — 실판매가에서 그 판매와 함께 늘어나는 변동비를 뺀 금액 (표준강의안 보강) |
-| 허용원가 | Allowable cost | CH06 — 가격·채널 마진·목표이익에서 거꾸로 계산한 총원가 상한 (표준강의안 보강) |
+| 허용원가 | Allowable direct cost | CH06 — 가격·채널 마진·목표이익에서 거꾸로 계산한, 제품·서비스 직접원가의 상한. 가격전략 핸드북 MODE C의 Allowable Direct Cost와 같은 뜻 (표준강의안 보강) |
+| Cost plus / Sales minus / Keystone | Cost plus / Sales minus / Keystone | CH06 — 가격을 정하는 방향 세 가지. 영어 그대로 쓴다 (표준강의안 보강) |
 | 영향자 | Influencer (decision influencer) | CH03 — 구매 결정에 영향을 주는 사람 (표준강의안 보강) |
 | 선언형 문장 | Assertion-style statement | CH04 — "우수하다", "경쟁사 없음" 등 근거 없는 주장 문장 (표준강의안 보강) |
 | 벤치마킹 | Benchmarking | CH05 — 대상을 BMC 칸으로 분해해 가져올 것과 바꿀 것을 가르는 방법 (표준강의안 보강) |
 | 확인 지표 | Check metric | CH08 — 로드맵의 기간마다 계획이 맞는지 확인하는 지표 (표준강의안 보강) |
 | 근거 상태 (사실/가정/확인 필요) | Evidence status (fact / assumption / to be verified) | CH08 — 편집자 정리 표기 규칙 (표준강의안 보강) |
+| 유지·수정·폐기 | Keep / Revise / Discard | 사업 전체나 가격안에 대한 판단 어휘. 가설 하나의 판정은 지지·수정·폐기이며, 가설이 지지되면 그 가설은 유지된다 (CH08, 가격전략 핸드북 CH15) |
 | 부가가치 가격결정 | Value-added pricing | CH06 — sub-concept distinct from the main "value-based pricing" term |
 | 고객가치 기반 가격결정 | Value-based pricing | CH06 |
 | 경쟁 기반 가격결정 | Competition-based pricing | CH06 |

@@ -49,7 +49,7 @@ Make large investments or large commitments after confirming the intent to buy. 
 
 ### The 7 sales steps and the proposal (rules of thumb)
 
-Sales does not end in one go. It can be divided into seven steps: finding targets, qualification review, problem diagnosis, proposal, negotiation, contract, and after-sales management. This division is a general structure and differs by industry. It is a rule of thumb, not evidence-based data. If you set a criterion for "done" at each step, the stage where you have stalled shows up as the first problem to solve.
+Sales does not end in one go. It can be divided into seven steps: finding targets, qualification review, problem diagnosis, proposal, negotiation, contract, and after-sales management. This division is a general structure and differs by industry. It is a rule of thumb, not evidence-based data. These seven steps are the order of sales activities, and are a different framework from the seven steps of the purchase logic in CH03 (Problem, User, Buyer, Value, Proposal, Validation, Decision). If you set a criterion for "done" at each step, the stage where you have stalled shows up as the first problem to solve.
 
 A proposal is a document that shows a "safe decision," not a "good product." The purchasing officer is responsible for the decision, so they look not only for effect but also for grounds that reduce risk. State in numbers the value we can give among performance, cost, and strategy, and propose a way to start small, such as a pilot adoption, alongside it. This checklist is also a rule of thumb.
 
