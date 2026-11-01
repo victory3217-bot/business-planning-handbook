@@ -83,6 +83,23 @@
 | 백데이터 | Back data | CH08 — rendered literally as "back data" per project instruction; closer English business usage would be "supporting evidence / documentation," noted here for future review |
 | Master Plan | Master Plan | CH08, kept as-is |
 
+## Appendix Terms (Appendices E–F, draft)
+
+| Korean | English | Notes |
+|---|---|---|
+| 표준강의안 | Standard lecture materials | Appendices — the author's teaching and consulting results, organized as lecture decks |
+| 투자유치 | Fundraising | Appendix E |
+| 회수 (EXIT) | Exit (EXIT) | Appendix E — return of the invested money; "EXIT" is kept in capitals where the source uses it as a checklist area |
+| 진입장벽 | Entry barrier | Appendix E |
+| 희생지분율 | Equity-given-up ratio | Appendix E |
+| 운영모델 | Operating model | Appendix F — how the business model actually runs: who, in what order, by what rules |
+| 운영매뉴얼 | Operating manual | Appendix F |
+| 처리능력 | Throughput | Appendix F |
+| 반복가능성 | Repeatability | Appendix F |
+| 현금 공백 | Cash gap | Appendix F — money goes out before it comes in |
+| Swimlane / SOP / RACI / Process Variants / Decision Flow | Swimlane / SOP / RACI / Process Variants / Decision Flow | Appendix F, kept as-is |
+| NABC / FOMO / PER / IR | NABC / FOMO / PER / IR | Appendix E, kept as-is |
+
 ## Notes for Future Review
 
 - 결정력 (one of the seven competitive-advantage criteria, CH04) was translated as "Decisiveness" — the Korean term sits between "decision-influencing power" and "decisiveness"; the closer single-word noun form was chosen for parallelism with the other six criteria.

@@ -33,6 +33,10 @@ Outside the eight chapters, practical methods drawn from the standard lecture ma
 - Appendix B. Customer Interviews, Observation, and Empathy Research
 - Appendix C. A Framework for Channel Decisions
 - Appendix D. B2B and B2G Sales: The Basic Framework
+- Appendix E. The Investor Perspective: What Investors Read and Ask in a Plan (draft)
+- Appendix F. The Operating Model: Who Runs It, in What Order, by What Rules (draft)
+
+Appendices E and F are drafts that rest on a single set of standard lecture materials (a small number of decks). The check that would tie their basis to the original sources page by page is not yet complete, and Appendix E is not legal, tax, or investment advice. Appendix F is limited to tools and questions for checking the operating structure and has no operating cases.
 
 ## Source Policy
 
