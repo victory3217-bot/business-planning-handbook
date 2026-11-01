@@ -1,7 +1,7 @@
 {
   "name": "business-planning-handbook-site",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "sync-content": "node ./scripts/sync-content.mjs",

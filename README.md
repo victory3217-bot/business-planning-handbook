@@ -1,8 +1,8 @@
 # Business Planning Handbook
-## 사업기획 핵심 영역 교재 — v0.1
+## 사업기획 핵심 영역 교재 — v0.2
 
-> **Status: v0.1 — first public release, human-reviewed.** This is a continuously improved educational resource; content may be revised in future versions.
-> **상태: v0.1 — 사람이 검토한 첫 공개 릴리스.** 지속적으로 개선되는 교육 자료이며, 이후 버전에서 내용이 수정될 수 있다.
+> **Status: v0.2 — The v0.1 text (CH01–CH08 as first released) was human-reviewed; the v0.2 additions (the Master Note v1.1 enrichment of CH01–CH08, Appendices E and F, and the additions to Appendices C and D) have not yet been fully human-reviewed.** This is a continuously improved educational resource; content may be revised in future versions.
+> **상태: v0.2 — v0.1 본문(최초 공개된 CH01~CH08)은 사람이 검토했고, v0.2 추가분(CH01~CH08의 마스터노트 v1.1 반영 보강, 부록 E·F, 부록 C·D 보강)은 아직 사람이 내용 검토를 마치지 않았다.** 지속적으로 개선되는 교육 자료이며, 이후 버전에서 내용이 수정될 수 있다.
 
 A bilingual practical handbook covering the eight core areas of business planning: business criteria, opportunity selection, customer problems, value proposition, business model, pricing and revenue model, feasibility, and execution/validation.
 사업기획의 8개 핵심 영역 — 사업의 기준, 사업기회 선택, 고객 문제, 가치제안, 비즈니스모델, 가격·수익모델, 사업타당성, 실행·검증 — 을 다루는 이중언어 실무 교재다.
@@ -83,5 +83,5 @@ Each chapter includes one practical worksheet under `ko/manual/` and `en/manual/
 
 ## Version / 버전
 
-**v0.1** — First public release, human-reviewed. A continuously improved educational resource.
-**v0.1** — 사람이 검토한 첫 공개 릴리스. 지속적으로 개선되는 교육 자료다.
+**v0.2** — Adds the Master Note v1.1 enrichment of CH01–CH08, Appendices E (investor perspective) and F (operating model), and additions to Appendices C and D. The additions have not yet been fully human-reviewed; the v0.1 text was.
+**v0.2** — CH01~CH08의 마스터노트 v1.1 반영 보강, 부록 E(투자 관점)·F(운영모델), 부록 C·D 보강을 추가했다. 추가분은 아직 사람이 내용 검토를 마치지 않았고, v0.1 본문은 검토를 마쳤다.
