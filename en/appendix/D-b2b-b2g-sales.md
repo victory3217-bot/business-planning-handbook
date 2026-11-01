@@ -24,9 +24,24 @@ The buyer map is a table with four boxes (the user, the purchasing officer, the 
 
 Even for the same product, the "reason it is good" differs depending on who buys. In B2B, willingness to pay arises when the buyer resonates with one of the values: performance gain, cost reduction, or strategic advantage. B2G first checks "how it can be bought" rather than a good product. Without a budget it cannot be bought, and without eligibility one cannot bid or contract. Specific limits and procedures change from time to time, so verify them in official sources.
 
+### Putting B2C and B2B side by side
+
+The sales routes to consumers and to companies and institutions differ in purchase motive, purchase decision structure, how the price is set, and the focus of sales.
+
+| Category | Purchase motive (value type) | Purchase decision structure | How the price is set | Focus of sales |
+|---|---|---|---|---|
+| B2C | Functional, symbolic, and experiential value | The consumer themselves | Centered on the list price | Discovery, conversion, repurchase |
+| B2B | Performance gain, cost reduction, strategic advantage | User department, purchasing officer, approver | Negotiation, quantity, terms | Approach the purchasing officer, lower the risk of adoption |
+
 ### Direct proposal sales and indirect channels
 
 Channel choice is a balance between market access and profit margin per unit. Direct proposal sales cuts intermediate stages and lowers the fee burden, but you must handle everything from prospecting to contract yourself. An indirect channel widens your reach, but supply-price negotiation and fees enter the price structure. Neither is always better; judge by the target customer, product characteristics, available resources, and pace of growth.
+
+Direct proposal sales suits products with few customers and a large unit price and decision impact, and indirect channels (wholesale, dealers, consignment, distribution partners) suit products with many customers and a wide region or field. For public customers, direct proposal sales can be the default channel. The B2G groundwater-level measuring device case in CH06 made direct proposal sales to local governments its default channel, while also considering the possibility of supply-price negotiation with a distribution partner later. In that case the price was set not as a single price but as a price band from the consumer price to the actual sale price, with discounts, commissions, and consignment sales fees reflected in the band.
+
+### Understand sales routes by type, not by site name
+
+Wholesale and B2B-type sales routes are viewed by the principle "site names change, so understand them by type." The types are purchase-type wholesale malls, delivery-agency-type wholesale malls, clearance and returned-goods malls, overseas open marketplaces, welfare-mall operation agencies, and specialty retail malls by field. In the purchase type you buy the goods and resell them; in the delivery-agency type you hold no inventory and, when an order comes in, the supplier delivers directly. Conditions and figures by type are changeable information, so this appendix does not include them.
 
 ### From list price to actual sale price
 
@@ -51,7 +66,26 @@ Make large investments or large commitments after confirming the intent to buy. 
 
 Sales does not end in one go. It can be divided into seven steps: finding targets, qualification review, problem diagnosis, proposal, negotiation, contract, and after-sales management. This division is a general structure and differs by industry. It is a rule of thumb, not evidence-based data. These seven steps are the order of sales activities, and are a different framework from the seven steps of the purchase logic in CH03 (Problem, User, Buyer, Value, Proposal, Validation, Decision). If you set a criterion for "done" at each step, the stage where you have stalled shows up as the first problem to solve.
 
-A proposal is a document that shows a "safe decision," not a "good product." The purchasing officer is responsible for the decision, so they look not only for effect but also for grounds that reduce risk. State in numbers the value we can give among performance, cost, and strategy, and propose a way to start small, such as a pilot adoption, alongside it. This checklist is also a rule of thumb.
+What is done at each of the seven steps is as follows.
+
+| Step | What is done |
+|---|---|
+| Finding targets | Find places that might use it |
+| Qualification review | See whether the place has a budget and decision-making authority |
+| Problem diagnosis | Confirm the customer's problem in words |
+| Proposal | Show the problem and the effect in numbers |
+| Negotiation | Adjust quantity, price, and terms |
+| Contract | Fix the scope and schedule |
+| After-sales management | Connect to repurchase and referral |
+
+A proposal is a document that shows a "safe decision," not a "good product." The purchasing officer is responsible for the decision, so they look not only for effect but also for grounds that reduce risk. State in numbers the value we can give among performance, cost, and strategy, and propose a way to start small, such as a pilot adoption, alongside it. This checklist is also a rule of thumb. A proposal contains the following six items.
+
+- **The customer's problem**: Write it in the customer's own words.
+- **The number for the effect**: Write what and how much you deliver among performance gain, cost reduction, and strategic advantage.
+- **Lowering the risk of adoption**: Propose a pilot adoption or a small-quantity order.
+- **Price and terms**: Write the unit price by quantity, delivery date, and payment terms on one page.
+- **Evidence and references**: Attach usage cases of similar customers and validation material.
+- **Next action**: Write who does what by when after the meeting.
 
 ## 3. Application Process
 
@@ -70,6 +104,7 @@ A proposal is a document that shows a "safe decision," not a "good product." The
 - **Promising a bulk unit price before the volume is confirmed**: A lowered unit price presumes the volume.
 - **Making a large investment before confirming the intent to buy**: If you do not calculate the payback period, it is hard to undo.
 - **Seeing B2G as only a matter of persuading with the product**: Without a budget or eligibility, there is no way to buy even a good product.
+- **Using rules of thumb as if they were evidence**: The sales steps and proposal items are rules of thumb, not evidence-based data.
 
 ## 5. Practical Application Questions
 
@@ -80,6 +115,7 @@ A proposal is a document that shows a "safe decision," not a "good product." The
 - For B2G, where might we be blocked: budget or eligibility?
 - In the first proposal, how can the buyer start small, and how do we stop if the criteria are not met?
 - At which of the seven steps is our sales stalled?
+- Does the proposal include a way to lower the risk of adoption and the next action after the meeting (who does what by when)?
 
 ## Key Takeaways
 
@@ -94,3 +130,4 @@ A proposal is a document that shows a "safe decision," not a "good product." The
 
 - Connected chapters: CH03, CH06, CH07, CH08
 - Supplementary source (standard lecture materials): Reconstructed to fit this appendix's structure from the B2B/B2G sales elective module of the Distribution Channel Strategy standard lecture materials, the buyer passages of the sales-route types and wholesale/B2B channel deck, the small-quantity pilot passage of the B2B delivery case deck (structure only), and the buyer-role distinctions of the common-module B2B buyer decision-making deck. The 7 sales steps and the proposal structure are items the original itself marks as rules of thumb, and that label has been kept as is. The price segments carry over the structure only, with the numbers left as ○. Hypothetical numbers within cases, facts about systems, budgets, fees, and certifications, and the detailed framework of validation design are not included. The composition of the tables and the sentences connecting the steps are the editor's synthesis.
+- Added supplementary source (standard lecture materials, Deck 3-2): Reconstructed to fit this appendix's structure from the B2C/B2B comparison, the conditions under which direct and indirect channels fit, what is done at each sales step, and the six proposal items in the B2B/B2G sales elective module, and from the sales-route type principle in the sales-route types and wholesale/B2B channels deck. The sales steps and proposal items are items the original marks as rules of thumb, and that status has been kept as is. The B2G case is a restatement of the same case in CH06, and specific amounts and quantities are not included. The step-by-step worksheet, the conditions for being able to buy in B2G (budget, contract method, eligibility, and so on), and the conditions and figures by type are not included.
