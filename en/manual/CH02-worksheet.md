@@ -1,5 +1,7 @@
 # CH02 TPM Alignment Check
 
+> **How to use:** This worksheet can be completed on a client's own new-business project. Read "I / my" as your team, business unit, or in-house venture team rather than an individual founder.
+
 > Source: Chapter 2 "Finding and Selecting a Business Opportunity" / KM009–KM017 (MN02 Capability·Item·Industry·Market)
 > This worksheet transfers the TPM framework and risk-filter questions contained in KM009–KM017 into a fill-in form. No new methodology has been added.
 
@@ -30,7 +32,7 @@ Have you also checked whether this item makes sense from the opposite direction?
 
 T is not limited to advanced engineering technology. Cooking skill, sales experience, a network, or content development ability — any capability that can actually move a business forward — can be T.
 
-1. What can I actually perform? (based on "what is executable," not what I possess)
+1. What can I (our team or business unit) actually perform? (based on "what is executable," not what I possess)
 ```
 (write here)
 ```
@@ -120,7 +122,7 @@ If there is a critical risk, what can you adjust to lower it?
 Write T, P, and M as one sentence each.
 
 ```
-T (Capability): I can do ____________________________ .
+T (Capability): I (our team) can do ____________________________ .
 P (Product Hypothesis): With this capability, I will build ____________________________ .
 M (Industry/Market): This has an opportunity in the ____________________________ market of the ____________________________ industry.
 ```

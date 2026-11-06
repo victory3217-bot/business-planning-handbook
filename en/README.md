@@ -8,7 +8,23 @@ This handbook reorganizes the 8 core areas of business planning — setting your
 
 ## Target Audience
 
-Aspiring and early-stage founders learning a systematic approach to business development for the first time, or non-specialist staff responsible for early-stage business planning. No specific industry experience or technical expertise is assumed.
+Corporate new-business and strategy-planning teams, in-house venture teams, and business-unit planners. Startups and corporate new-business teams alike can plan a business through the same eight-step judgment sequence, and non-specialist staff responsible for early-stage business planning can read it too. No specific industry experience or technical expertise is assumed.
+
+The companion book, 《스타트업을 하는 깐깐한 방법》 (*The Meticulous Way to Do a Startup*), covers the same eight steps of business planning, which apply just as well to corporate new businesses.
+
+## Using This Handbook as a Corporate Training Course: Corporate New Business & In-house Venture Planning Course
+
+The handbook serves as the textbook for the corporate HRD course **"Corporate New Business & In-house Venture Planning."** Each chapter is one 90-minute module, and the module number equals the chapter number (CH03 = M3). Every chapter opens with a "Training module M# · 90 minutes" label.
+
+| Package | Duration | Modules |
+|---|---|---|
+| Core course | Half day | M3 · M7 |
+| Practice course | 1 day | M3 · M4 · M5 · M7 |
+| Full course | 2 days | M1 – M8 |
+
+- Worksheets can be completed on a client's own new-business project.
+- Training proposal (PDF, Korean): [마지스글로벌_신사업기획과정_제안서.pdf](https://www.magisglobal.co.kr/files/proposals/%EB%A7%88%EC%A7%80%EC%8A%A4%EA%B8%80%EB%A1%9C%EB%B2%8C_%EC%8B%A0%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EA%B3%BC%EC%A0%95_%EC%A0%9C%EC%95%88%EC%84%9C.pdf) (linked once the file is uploaded)
+- Course information: [Magis Global handbooks](https://www.magisglobal.co.kr/en/handbooks/#course-business-planning)
 
 ## 8-Chapter Learning Path
 

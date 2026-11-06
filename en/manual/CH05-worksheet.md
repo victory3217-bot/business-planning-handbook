@@ -1,5 +1,7 @@
 # CH05 BMC Coherence Check
 
+> **How to use:** This worksheet can be completed on a client's own new-business project. Read "I / my" as your team, business unit, or in-house venture team rather than an individual founder.
+
 > Source: Chapter 5 "Designing the Business Model" / KM034–KM042
 > This worksheet transfers the questions and frameworks from KM034–KM042 directly into fill-in-the-blank form. No new methodology has been added. Item 5-1 is a supplementary item that applies the connecting sentence of item 5 to cases and benchmarking.
 

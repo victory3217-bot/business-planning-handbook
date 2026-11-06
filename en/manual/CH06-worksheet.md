@@ -1,5 +1,7 @@
 # CH06 Cost, Price, and Revenue Model Checklist
 
+> **How to use:** This worksheet can be completed on a client's own new-business project. Read "I / my" as your team, business unit, or in-house venture team rather than an individual founder.
+
 > Source: Chapter 6 / KM043–KM054 (business-planning-handbook)
 > This worksheet carries over the questions and frameworks contained in KM043–KM054 directly into a fill-in form. No new methodology has been added. Item 4-1 and the input check at the end of item 1 are a supplement that carries the price-structure and cost exercises of the standard lecture materials into a fill-in form within the same scope.
 
@@ -27,7 +29,7 @@ After completing the entries, check the following.
 
 - [ ] The unit of sale (one piece, one set, a total amount) has been set, and all amounts use the same unit.
 - [ ] I have stated whether the selling price includes value-added tax, and I have not counted the value-added tax as revenue.
-- [ ] I have not omitted the founder's labor and rent, and I have not entered the same cost twice.
+- [ ] I have not omitted the founder's (or the project team's) labor and rent, and I have not entered the same cost twice.
 - [ ] I have marked costs I do not yet know as "unknown" rather than 0 won. Unknown items: ______________
 
 ## 2. Value-Based Pricing (KM046)

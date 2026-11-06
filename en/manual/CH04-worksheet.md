@@ -1,5 +1,7 @@
 # CH04 Value Proposition and Competitive Alternative Comparison
 
+> **How to use:** This worksheet can be completed on a client's own new-business project. Read "I / my" as your team, business unit, or in-house venture team rather than an individual founder.
+
 > Source: Chapter 4 / KM027-KM033. The questions and tables below carry the concepts and questions from KM027-KM033 into a form you can fill in, without adding any new methodology. Item 3-1 is a supplementary item that applies the comparison metric design of item 3 to the sentences in a business plan.
 
 ## 1. Problem → Attribute → Solution → Product/Service (KM027)
@@ -83,7 +85,7 @@ Find the sentences in your business introduction or plan that are written only a
 - If you list the peer companies in the market (or similar products or services), who are they?
 - Which companies or products/services could be my competitors, with the same positioning as mine?
 - What value factors can you point to as the basis for saying they share the same positioning as mine?
-- Compared with my competitors, what am I superior at?
+- Compared with my competitors, what am I (our team or business) superior at?
 
 ## 7. Positioning-4P Alignment (KM033)
 

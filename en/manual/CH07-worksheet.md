@@ -1,5 +1,7 @@
 # CH07 Worksheet: Business Feasibility, P×Qty, and QCD Review
 
+> **How to use:** This worksheet can be completed on a client's own new-business project. Read "I / my" as your team, business unit, or in-house venture team rather than an individual founder.
+
 > Source: Chapter 7 "Validating Business Feasibility and the Effective Market" / KM055–KM063
 > This worksheet transfers the questions and frameworks from KM055–KM063 directly into a fill-in-the-blank format. No new methodology has been added.
 

@@ -1,5 +1,7 @@
 # CH03 User / Buyer / Payer / Problem Analysis
 
+> **How to use:** This worksheet can be completed on a client's own new-business project. Read "I / my" as your team, business unit, or in-house venture team rather than an individual founder.
+
 > Source: Chapter 3 (Defining the Customer, the Buyer, and the Problem) / KM018-KM026
 > This worksheet turns only the questions and judgment criteria that actually appear in KM018–KM026 into fill-in-the-blank form. It does not add any new methodology. Item 10 is a supplementary item that recasts the questions in items 1–9 for interviews.
 

@@ -1,5 +1,7 @@
 # CH08 Hypothesis Validation and Pivoting Design Worksheet
 
+> **How to use:** This worksheet can be completed on a client's own new-business project. Read "I / my" as your team, business unit, or in-house venture team rather than an individual founder.
+
 > Source: Chapter 8 (KM064–KM073). This worksheet takes the questions and items from KM066 (The Four Elements of Validation Design), KM067 (Small, Repeatable Experiments), KM068 (Data-Driven Pivoting), and KM073 (The Execute → Data → Revise → Re-execute Loop) and carries them over as-is for filling out. No new methodology has been added. Section 5 is a supplementary item that applies the items above to writing the execution plan.
 
 ---
