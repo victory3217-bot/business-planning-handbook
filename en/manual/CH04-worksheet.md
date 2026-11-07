@@ -2,19 +2,10 @@
 
 > **How to use:** This worksheet can be completed on a client's own new-business project. Read "I / my" as your team, business unit, or in-house venture team rather than an individual founder.
 
-> Source: Chapter 4 / KM027-KM033. The questions and tables below carry the concepts and questions from KM027-KM033 into a form you can fill in, without adding any new methodology. Item 3-1 is a supplementary item that applies the comparison metric design of item 3 to the sentences in a business plan.
+> Source: Chapter 4 / KM027-KM033. The questions and tables below carry the concepts and questions from KM027-KM033 into a form you can fill in, without adding any new methodology.
 
 ## 1. Problem → Attribute → Solution → Product/Service (KM027)
 
-| Item | Your Entry |
-|---|---|
-| The customer's core problem | |
-| Attribute of the problem (in market language) | |
-| The solution that addresses this attribute | |
-| The product/service that implements the solution | |
-| The concrete change created for the customer (the solved outcome) | |
-
-- Check question: Are we describing "what we developed," or "what problem we solved, in what way, and what change it creates for the customer"?
 - Check question: In our current product configuration, is there any spec that adds cost without solving the customer's core problem?
 
 ## 2. Competing Products and Substitutes (KM028)
@@ -29,7 +20,6 @@ List every alternative the customer currently uses to solve this problem. (Inclu
 | Substitute | | |
 
 - Check question: Is what we call a "competitor" another company in the same industry, or any solution that delivers similar value to the same customer segment?
-- Check question: Looking at this from the customer problem, is there an alternative we are missing that is completely different in form?
 
 ## 3. Comparison Metric Design (KM029)
 
@@ -42,24 +32,11 @@ Itemize the criteria the customer actually uses when comparing us against the co
 | | | | | |
 | | | | | |
 
-- Check question: Is this metric a technical spec we want to boast about, or a criterion that influences the customer's purchase decision?
-- Check question: Are we missing any non-technical factors such as delivery time, maintenance, ease of installation, or cost savings?
-- Check question: Can we turn a claim like "our technology is superior" into a number or condition, in the form "shortens/improves X from X to X"?
+> Check point: Check whether this metric is a criterion that influences the customer's purchase decision, not a technical spec we want to boast about.
 
-## 3-1. Turning Assertions into Evidence (KM029)
+> Check point: Check whether any non-technical factors are missing, such as delivery time, maintenance, ease of installation, or cost savings.
 
-Find the sentences in your business introduction or plan that are written only as assertions, and rewrite them.
-
-| Assertion-style statement (e.g., excellent / no competitors / high marketability) | Number or condition the customer can judge, or directly confirmed evidence | Evidence status (confirmed / not yet confirmed) |
-|---|---|---|
-| | | |
-| | | |
-| | | |
-
-- Have you recorded the alternatives that solve the same problem by visiting, buying, or using them directly? The alternatives recorded and what you confirmed (price, configuration, customer reaction):
-  - Entry: ______________________________________________________
-- What gaps does the record reveal, and could they be candidates for the place we can enter?
-  - Entry: ______________________________________________________
+> Check point: Check whether you can turn a claim like "our technology/capability is superior" into a number or condition, in the form "shortens/improves X from X to X".
 
 ## 4. Competitive Advantage Check (KM030)
 
@@ -77,8 +54,7 @@ Find the sentences in your business introduction or plan that are written only a
 | Type of transaction relationship (B2C / B2B / B2G) | |
 | Emphasis based on the transaction relationship (e.g., B2C — experiential value / B2B — organizational outcomes / B2G — institutional fit) | |
 
-- Check question: Is our value proposition a single connected logic of customer problem, solution, and reason for choice — or does it stop at a sentence listing strengths?
-- Check question: If the customer or the buying structure changes, should this value proposition also change? How?
+> Check point: Check whether this value proposition should also change if the customer or the buying structure changes, and how it would change.
 
 ## 6. Positioning Check (KM032)
 
@@ -96,5 +72,4 @@ Find the sentences in your business introduction or plan that are written only a
 | Place | | |
 | Promotion | | |
 
-- Check question: When the initial "positioning, distribution, pricing" hypothesis is reviewed against resources and cost, does the final positioning and 4P hold as is?
 - Note: This worksheet does not expand the 4P into a detailed operating plan. What needs to be confirmed here is whether the chosen positioning is consistent with the direction of the product, price, channel, and communication. Concrete cost, margin, price level, and revenue model calculations, and the alignment of the full business model, are covered in the next chapter (Designing the Business Model).

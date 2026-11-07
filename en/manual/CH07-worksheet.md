@@ -3,7 +3,7 @@
 > **How to use:** This worksheet can be completed on a client's own new-business project. Read "I / my" as your team, business unit, or in-house venture team rather than an individual founder.
 
 > Source: Chapter 7 "Validating Business Feasibility and the Effective Market" / KM055–KM063
-> This worksheet transfers the questions and frameworks from KM055–KM063 directly into a fill-in-the-blank format. No new methodology has been added.
+> This worksheet carries the questions and frameworks from KM055–KM063 as fill-in fields and, where an earlier chapter already covered them, as check points. No new methodology has been added.
 
 ---
 
@@ -15,34 +15,32 @@
   - Your answer: ______________________________________________________
 - Through what price and channel does revenue arise, and how much cost and resources are needed to generate that revenue?
   - Your answer: ______________________________________________________
-- Are the business model and revenue model sufficiently concrete before listing TAM, SAM, and SOM?
-  - Your answer: ______________________________________________________
+
+> Check point: Before you state a market size such as TAM, SAM, or SOM, check that the business model and revenue model are sufficiently concrete.
 
 ---
 
 ## 2. Distinguishing the Total Market from My Market (KM056)
 
-- Top-down perspective: Starting from the industry as a whole, what is the total size of this industry, and what growth and competitive trends exist?
-  - Your answer: ______________________________________________________
-- Bottom-up perspective: Starting from the customer's actual purchasing potential, what portion is reachable with the technology, resources, channels, and cost structure you have?
-  - Your answer: ______________________________________________________
-- When these two perspectives converge into a single business opportunity, what is the range of the market that remains?
-  - Your answer: ______________________________________________________
-- Can this market size be reviewed again as a variable that changes together whenever the business model changes?
-  - Your answer: ______________________________________________________
+> Check point: Reuse the answer you already wrote in the earlier chapter worksheet (CH02) for the Top-down perspective (the total size of the industry and its growth and competitive trends). Do not answer it again here.
+
+> Check point: Reuse the answer you already wrote in the earlier chapter worksheet (CH02) for the Bottom-up perspective (the portion reachable with your technology, resources, channels, and cost structure). Do not answer it again here.
+
+> Check point: Reuse the answers you already wrote for the range of the market that remains when the two perspectives converge into a single business opportunity. Do not write it again.
+
+> Check point: This market size is a variable that changes whenever the business model changes. When the business model changes, review the earlier answers again.
 
 ---
 
 ## 3. Buyer-Defined Market Definition (KM057)
 
-- Who is the User in this business?
-  - Your answer: ______________________________________________________
-- Who is the Buyer (Customer) who actually pays the cost in this business?
-  - Your answer: ______________________________________________________
-- Who is the entity that approves the budget? (Individual / corporate purchasing manager or approver / public-sector budget executor)
-  - Your answer: ______________________________________________________
-- Does this transaction relationship fall under B2C, B2B, or B2G? How do the number of customers, purchase volume, pricing structure, channels, and decision-making conditions differ accordingly?
-  - Your answer: ______________________________________________________
+> Check point: Reuse the answer you already wrote in the earlier chapter worksheet (CH03) for the User in this business. Do not answer it again here.
+
+> Check point: Reuse the answer you already wrote in the earlier chapter worksheet (CH03) for the Buyer (Customer) who actually pays the cost. Do not answer it again here.
+
+> Check point: Reuse the answer you already wrote for the entity that approves the budget (individual / corporate purchasing manager or approver / public-sector budget executor). Do not write it again.
+
+> Check point: Reuse the answer you already wrote in the earlier chapter worksheet (CH03) for whether this transaction relationship is B2C, B2B, or B2G, and for how the number of customers, purchase volume, pricing structure, channels, and decision-making conditions differ accordingly.
 
 ---
 
@@ -121,22 +119,12 @@
 
 ## 9. Checking Iterative Validation (KM063)
 
-- What assumptions underlie the Effective Market size you've just calculated?
-  - Your answer: ______________________________________________________
-- Which of these assumptions is most likely to change first?
-  - Your answer: ______________________________________________________
-- Has any condition among the market, competitive environment, customer behavior, cost, or resources changed recently? If so, which step (1–9) should you go back to and recalculate?
-  - Your answer: ______________________________________________________
-- Recalculate while changing only one assumption at a time. (This is a linear calculation and does not include the change in demand caused by a price change.)
+> Check point: Check which assumptions underlie the Effective Market size you have just calculated.
 
-| Scenario | Price | Target | Purchase frequency (or order quantity) | Effective Market | vs. original |
-|---|---|---|---|---|---|
-| Original | | | | | 100% |
-| Price changed 10% | | | | | |
-| Target changed 20% | | | | | |
-| Purchase frequency halved | | | | | |
+> Check point: Check which of these assumptions is most likely to change first.
 
-  - Which assumption moves the most, and how will you verify it?
-  - Your answer: ______________________________________________________
+> Check point: Check whether any condition among the market, competitive environment, customer behavior, cost, or resources has changed recently. If so, confirm which step (1–9) you should go back to and recalculate.
+
+> Check point: Recalculate while changing only one assumption at a time. Starting from the original value, change the price by 10%, the target by 20%, and the purchase frequency (or order quantity) by half, and compare each result with the original. This is a linear calculation and does not include the change in demand caused by a price change.
 
 > Note: The Effective Market size derived in this worksheet is not a number fixed as the final answer. The 9 steps are not a sequence you pass through once — they form an iterative validation process in which constraints discovered at a later step loop back to an earlier step and readjust the assumptions.

@@ -20,12 +20,6 @@ Write down the basis for that judgment.
 (write here)
 ```
 
-Have you also checked whether this item makes sense from the opposite direction? (If you started Top-down, check it from a Bottom-up perspective; if you started Bottom-up, check it from a Top-down perspective)
-
-```
-(write here)
-```
-
 ---
 
 ## 2. T — Executable Capability (KM011)
@@ -40,6 +34,10 @@ T is not limited to advanced engineering technology. Cooking skill, sales experi
 ```
 (write here)
 ```
+3. If you use a partner, in which field do you need one?
+```
+(write here)
+```
 
 ---
 
@@ -51,7 +49,15 @@ P at this stage is not a finished product — it is a pre-validation hypothesis.
 ```
 (write here)
 ```
-2. What is your basis for believing this product solves a serious problem for customers (the market) or satisfies a major need? And what is your basis for believing the customer problem (need) truly exists?
+2. Brainstorm at least three candidates, then select one.
+```
+(write here)
+```
+3. What is your basis for believing this product solves a serious problem for customers (the market) or satisfies a major need? And what is your basis for believing the customer problem (need) truly exists?
+```
+(write here)
+```
+4. If you have no basis yet, build a hypothesis and set an activity plan to test it. The activity plan must set out the period and the budget together.
 ```
 (write here)
 ```
@@ -62,27 +68,22 @@ P at this stage is not a finished product — it is a pre-validation hypothesis.
 
 Write industry (broad environment) and market (the customer group where actual transactions occur) separately.
 
-1. What industry does this item belong to? (from the perspective of technology, value chain, competitive structure, regulation)
+1. If you can define the industry or overall market this item belongs to, write it down. (from the perspective of technology, value chain, competitive structure, regulation)
 ```
 (write here)
 ```
-2. What market (customer group) within that industry can actual transactions occur in?
+2. Within the industry or market you defined above, brainstorm and write down the market (customer group) where actual transactions can occur.
 ```
 (write here)
 ```
 3. Check Top-down analysis tools (the goal is not to fill out the table but to see how it changes the priority of the item)
 
-| Tool | What it checks | Impact on this item's priority |
+| Tool | What it checks | Opportunities and risks from the tool's perspective |
 |---|---|---|
 | PEST | Political/Economic/Social/Technological change | |
 | 5-Forces | Competitive intensity, supplier/buyer power | |
 | Value Chain | Where profit flows | |
 | Industry Map | Structure of key players in the industry | |
-
-4. Hypotheses confirmed through supplementary means such as search trends/keyword data tools/AI (shifting interest, seasonality, keyword expansion, etc.)
-```
-(write here)
-```
 
 ---
 
@@ -124,18 +125,7 @@ Write T, P, and M as one sentence each.
 ```
 T (Capability): I (our team) can do ____________________________ .
 P (Product Hypothesis): With this capability, I will build ____________________________ .
-M (Industry/Market): This has an opportunity in the ____________________________ market of the ____________________________ industry.
-```
-
-Alignment check questions
-
-- Even if there is a distinctive capability (T), is it realized as a product (P) valued in the market?
-- Even if the product (P) is good, is the opportunity in the industry and market (M) sufficient?
-- Even if the market (M) is attractive, can the necessary technology and capability (T) be secured?
-
-Do the three sentences lock together, or do they each go their own way?
-```
-(write here)
+M (Industry/Market): This has an opportunity in the ____________________________ market.
 ```
 
 > Note: Confirming alignment does not mean the business item has been validated. The purpose of this worksheet is to make the hypothesis clear enough for the next stage (Chapter 3, defining the customer, buyer, and problem) to review.
