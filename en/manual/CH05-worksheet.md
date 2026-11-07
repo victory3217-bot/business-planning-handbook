@@ -3,7 +3,7 @@
 > **How to use:** This worksheet can be completed on a client's own new-business project. Read "I / my" as your team, business unit, or in-house venture team rather than an individual founder.
 
 > Source: Chapter 5 "Designing the Business Model" / KM034–KM042
-> This worksheet transfers the questions and frameworks from KM034–KM042 directly into fill-in-the-blank form. No new methodology has been added. Item 5-1 is a supplementary item that applies the connecting sentence of item 5 to cases and benchmarking.
+> This worksheet transfers the questions and frameworks from KM034–KM042 directly into fill-in-the-blank form. No new methodology has been added.
 
 ---
 
@@ -71,59 +71,12 @@ and we secure what is missing through this partner ( ______________ ).
 This structure produces this cost ( ______________ )
 and this revenue ( ______________ )."
 
-- Is there a segment above where the sentence breaks? Where?
+- The ( ______________ ) customer wants ( ______________ ) as the solution/product to solve the ( ______________ ) problem/need. We
   - Write: ______________________________________________________
 
 ---
 
-## 5-1. Benchmarking and Changing One Box at a Time (KM035, KM039)
-
-**A. Benchmarking.** Pick one target you want to imitate and write one line per box. Separate what you confirmed from sources from what you guessed, and mark any box you could not confirm as "hypothesis."
-
-| BMC box | Target's content (one line) | Confirmed / Hypothesis | What to take | What to change |
-|---|---|---|---|---|
-| Customer Segments | | | | |
-| Value Proposition | | | | |
-| Channels | | | | |
-| Customer Relationships | | | | |
-| Key Resources | | | | |
-| Key Activities | | | | |
-| Key Partnerships | | | | |
-| Cost Structure | | | | |
-| Revenue Streams | | | | |
-
-- When you put only the boxes you will take into our business and rewrite the connecting sentence, where does it break, and which box needs to change?
-  - Write: ______________________________________________________
-
-**B. Change one box at a time.** Write our model's customer and Value Proposition in one line, change only one box per version, and write which boxes changed along with it and why.
-
-| Version | Customer / Value Proposition (one line) | Box changed | Boxes that changed along with it, and why |
-|---|---|---|---|
-| ① Current | | | |
-| ② | | | |
-| ③ | | | |
-
-- If no other box changed along with it, did we change the box too lightly?
-  - Write: ______________________________________________________
-
----
-
-## 6. T-Canvas Extension Check (KM040)
-
-(Apply to businesses where market risk and product risk coexist, especially technology startups)
-
-- Exploring risk and opportunity (row 1, based on PEST): What opportunities and risks have you found in the external environment and industry structure?
-  - Write: ______________________________________________________
-- Overcoming product risk and Business Development (row 2): What are the customer, the problem, the solution, and the product development partners?
-  - Write: ______________________________________________________
-- Overcoming pathway risk and the Value Proposition (row 3): What is the comparative advantage against competing and substitute products, and what are the customer touchpoints and channels?
-  - Write: ______________________________________________________
-- Do the judgment "the market looks good" and the judgment "our technology is good" meet within a single business structure?
-  - Write: ______________________________________________________
-
----
-
-## 7. Business Model Story (KM041)
+## 6. Business Model Story (KM041)
 
 Rewrite the canvas content as a single-direction story following the customer's purchase logic.
 
@@ -132,28 +85,22 @@ Rewrite the canvas content as a single-direction story following the customer's 
 - Our differentiated solution and Competitive Advantage: __________________________________
 - Final customer value: ________________________________________________
 
-Check questions:
-- Do the customer problem and the solution make logical sense together?
-  - Write: ______________________________________________________
-- Does the Competitive Advantage correspond to a buying point the customer considers important?
-  - Write: ______________________________________________________
-- Is the path to the actual point of purchase clear?
-  - Write: ______________________________________________________
+> Check point: Check that the customer problem and the solution make logical sense together.
+
+> Check point: Check that the Competitive Advantage corresponds to a buying point the customer considers important.
+
+> Check point: Check that the path to the actual point of purchase is clear.
 
 ---
 
-## 8. Completeness Judgment Checklist (KM042)
+## 7. Completeness Judgment Checklist (KM042)
 
-Mark each item below "Yes/No" and briefly note the basis.
+Mark each item below "Yes/No" and keep the basis as a separate memo.
 
 - [ ] Is the customer value clear?
-  - Basis: ______________________________________________________
 - [ ] Does a channel and relationship structure exist to deliver that value?
-  - Basis: ______________________________________________________
 - [ ] Can the resources, activities, and partners needed to create the promised value be secured?
-  - Basis: ______________________________________________________
 - [ ] Do these choices connect without contradiction? (Coherence)
-  - Basis: ______________________________________________________
 
 > Note: "Complete" here does not mean the business will succeed. It means that the customer value, delivery structure, creation structure, and cost/revenue direction have connected into a single logic, reaching a state that can be calculated and validated in the next stage (cost, price, business feasibility validation, CH06).
 

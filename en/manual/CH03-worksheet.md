@@ -9,23 +9,7 @@
 
 ## 1. Customer Definition = Market Boundary (KM018)
 
-- If you define what we currently call the "customer" in one sentence, what is it?
-
-```
-
-
-
-```
-
-- Does this customer definition still sit at a broad noun like "women in their 20s and 30s" or "the mass market," or has it been narrowed down — having passed through the external environment and internal Capability — to the actual target you will pursue?
-
-```
-
-
-
-```
-
-- If we sell our product directly to individuals versus supplying it to companies, how does the market boundary (the definition of the buyer) differ in each case?
+- Do you have a customer touchpoint in place through which customers can buy my product as soon as it launches? If yes, write it down. If not, decide on a target customer and write that down.
 
 ```
 
@@ -220,14 +204,6 @@ Check the current candidate segment against the criteria below.
 
 ```
 
-- Are there parts of the customer touchpoint that remain unclear? If so, what do you still need to confirm?
-
-```
-
-
-
-```
-
 ---
 
 ## 10. Meeting Customers to Verify: Interview Design (KM019, KM020, KM023, KM025, KM026 / CH08 KM066)
@@ -254,23 +230,7 @@ Check the current candidate segment against the criteria below.
 |---|---|---|
 | User (the person who experiences the problem) | | |
 | Buyer (the person who decides the purchase) | | |
-| Influencer / budget approver | | |
-
-- From the question sets, pick only what this round's core questions need and write them in conversational form. (Severity of the problem / Roles / Selection criteria and touchpoints / Hypothesis testing)
-
-| Set | Chosen question | Worksheet item this answer will fill |
-|---|---|---|
-| | | |
-| | | |
-| | | |
-
-- Does every question serve to answer a core question? Have you deleted the ones that do not?
-
-```
-
-
-
-```
+| Person of influence / budget approver | | |
 
 ---
 
@@ -284,7 +244,7 @@ Check the current candidate segment against the criteria below.
 
 ```
 
-- Shared problem:
+- Shared problem or need:
 
 ```
 
@@ -292,7 +252,7 @@ Check the current candidate segment against the criteria below.
 
 ```
 
-- Basis for the problem's severity:
+- Basis for the problem's severity, or evidence that a large market need exists:
 
 ```
 

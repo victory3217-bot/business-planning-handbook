@@ -26,19 +26,8 @@
 
 > Key question: What does business success mean to me (or to our organization)?
 
-- To me, does business success mean revenue / profit / company valuation / autonomy over time / organization size / place of residence / time with family / social purpose? Check all that apply and rank them.
-
-| Criterion | Applies (O/X) | Priority (1st onward) |
-|---|---|---|
-| Revenue scale | | |
-| Operating profit | | |
-| Company valuation | | |
-| Autonomy over time | | |
-| Organization size | | |
-| Place of residence (company: business base) | | |
-| Time with family (company: workload on staff) | | |
-| Social purpose | | |
-| Other: ______ | | |
+- To me, does business success mean revenue / profit / company valuation / autonomy over time / organization size / place of residence / time with family / social purpose? Write down every item that applies and rank them by priority.
+  ____________________________________________
 
 - Am I closer to "I just want to do what I love and earn a certain amount," or to "I'm going all the way to IPO"? Why? (A company answers: "a supplement to our existing business" or "a new core business"?)
   ____________________________________________
@@ -52,8 +41,5 @@
 - Which metric do I want as my target revenue (revenue / operating profit / both, pick one or list both):
   ____________________________________________
 
-- How much do I want by that metric (write a specific number and time period together, e.g., annual revenue of X, annual operating profit of X):
-  ____________________________________________
-
-- Why do I (or we) want this number:
+- How much do I want by that metric, and why do I (or we) want this number (write a specific number and time period together, e.g., annual revenue of X, annual operating profit of X):
   ____________________________________________
