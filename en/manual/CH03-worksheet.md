@@ -230,7 +230,7 @@ Check the current candidate segment against the criteria below.
 |---|---|---|
 | User (the person who experiences the problem) | | |
 | Buyer (the person who decides the purchase) | | |
-| Person of influence / budget approver | | |
+| Influencer / budget approver | | |
 
 ---
 
