@@ -1,5 +1,5 @@
 (function () {
-  var CHAPTERS = ["CH01", "CH02", "CH03", "CH04", "CH05", "CH06", "CH07", "CH08", "DATA"];
+  var CHAPTERS = ["CH01", "CH02", "CH03", "CH04", "CH05", "CH06", "CH07", "CH08", "DATA", "DATA-PRE"];
   var BLANK = /_{3,}/;
 
   // ---------------------------------------------------------------- parsing
@@ -405,7 +405,7 @@
       answer: "답변을 입력하세요",
       answerLabel: "답변",
       noAnswers: "아직 작성한 답변이 없습니다.",
-      tabs: { DATA: "데이터 현황표" },
+      tabs: { DATA: "데이터 현황표", "DATA-PRE": "가설·조사 현황표" },
     },
     en: {
       download: "Download Markdown (.md)",
@@ -417,7 +417,7 @@
       answer: "Type your answer",
       answerLabel: "Answer",
       noAnswers: "No answers yet.",
-      tabs: { DATA: "Data Status Table" },
+      tabs: { DATA: "Data Status Table", "DATA-PRE": "Hypothesis & Research Table" },
     },
   }[locale];
 

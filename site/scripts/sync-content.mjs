@@ -118,7 +118,8 @@ for (const locale of LOCALES) {
   let wOrder = 1;
   for (const file of listDir(locale, "manual")) {
     const raw = readSource(locale, "manual", file);
-    const ch = (file.match(/^(CH\d\d|DATA)/) || [file])[0];
+    // Longest match first: DATA-PRE must not be read as DATA.
+    const ch = (file.match(/^(CH\d\d|DATA-PRE|DATA)(?=-worksheet\.md$)/) || [file])[0];
     const fallback = `${ch} Worksheet`;
     const { title, body } = extractTitle(raw, fallback);
     const writerLink =
