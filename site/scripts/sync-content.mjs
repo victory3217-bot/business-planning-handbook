@@ -145,20 +145,6 @@ for (const locale of LOCALES) {
     copyFileSync(join(REPO_ROOT, locale, "diagrams", file), join(OUT_ROOT, locale, "diagrams", file));
   }
 
-  // Examples
-  let eOrder = 1;
-  for (const file of listDir(locale, "examples")) {
-    const raw = readSource(locale, "examples", file);
-    const ch = (file.match(/CH\d\d/) || [file])[0];
-    const fallback = file.replace(/\.md$/, "");
-    const { title, body } = extractTitle(raw, fallback);
-    writeGenerated(
-      join(OUT_ROOT, locale, "examples", file),
-      { title, sidebar: { order: eOrder++ } },
-      body
-    );
-  }
-
   // Appendices (supplementary material; ko first, en follows)
   let aOrder = 1;
   appendixLinksByLocale[locale] = [];
@@ -189,7 +175,7 @@ const LANDING_STRINGS = {
     appendixNote: "부록은 챕터를 보완하는 심화 자료입니다. 부록 E·F와 C·D 보강은 v0.2에서 추가되었고 아직 사람이 내용 검토를 마치지 않은 초안입니다.",
     startLabel: "CH01부터 시작하기",
     worksheetsNote:
-      "각 챕터별 실습 워크시트와 대표 사례는 왼쪽 사이드바의 **워크시트 & 사례** 그룹에서 확인할 수 있습니다. 질문에 직접 답하고 Markdown 파일로 저장하려면 [워크시트 작성기](" + BASE + "ko/worksheet/)를 이용하세요.",
+      "각 챕터별 실습 워크시트는 왼쪽 사이드바의 **워크시트** 그룹에서 확인할 수 있습니다. 질문에 직접 답하고 Markdown 파일로 저장하려면 [워크시트 작성기](" + BASE + "ko/worksheet/)를 이용하세요.",
   },
   en: {
     title: "Business Planning Handbook",
@@ -199,7 +185,7 @@ const LANDING_STRINGS = {
     appendixNote: "The appendices are supplementary material that deepens the chapters. Appendices E and F and the additions to C and D were added in v0.2 and have not yet been fully human-reviewed.",
     startLabel: "Start with CH01",
     worksheetsNote:
-      "Practical worksheets and representative examples for each chapter are available under the **Worksheets & Examples** group in the sidebar on the left. To answer the questions and save them as a Markdown file, use the [Worksheet Writer](" + BASE + "en/worksheet/).",
+      "Practical worksheets for each chapter are available under the **Worksheets** group in the sidebar on the left. To answer the questions and save them as a Markdown file, use the [Worksheet Writer](" + BASE + "en/worksheet/).",
   },
 };
 
@@ -232,7 +218,7 @@ for (const locale of LOCALES) {
 writeGenerated(
   join(OUT_ROOT, "index.md"),
   { title: "Business Planning Handbook", template: "splash" },
-  `Business Planning Handbook — v0.2.0\n\n8 Chapters · 8 Worksheets · 9 Examples\n\n- [한국어](/business-planning-handbook/ko/)\n- [English](/business-planning-handbook/en/)\n`
+  `Business Planning Handbook — v0.2.0\n\n8 Chapters · 8 Worksheets\n\n- [한국어](/business-planning-handbook/ko/)\n- [English](/business-planning-handbook/en/)\n`
 );
 
-console.log("[sync-content] Synced ko/en chapters, manual, examples into src/content/docs/");
+console.log("[sync-content] Synced ko/en chapters, manual into src/content/docs/");
