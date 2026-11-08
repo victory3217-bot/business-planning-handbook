@@ -63,8 +63,8 @@ Fill in the blanks below and read it as one continuous sentence. If there is a s
 
 "This customer ( ______________ ) wants
 this value ( ______________ ) because of this problem ( ______________ ).
-We choose this channel ( ______________ )
-and this relationship approach ( ______________ ) to deliver this value.
+We use this channel ( ______________ ) to deliver this value,
+and we build this kind of relationship ( ______________ ) with the customer.
 We need this resource ( ______________ )
 and this activity ( ______________ ) to fulfill this promise,
 and we secure what is missing through this partner ( ______________ ).
