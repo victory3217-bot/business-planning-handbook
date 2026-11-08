@@ -53,10 +53,7 @@ export default defineConfig({
         {
           label: "Worksheet Writer",
           translations: { ko: "워크시트 작성기" },
-          items: [
-            { label: "한국어", link: "/ko/worksheet/" },
-            { label: "English", link: "/en/worksheet/" },
-          ],
+          link: "/worksheet/",
         },
       ],
     }),
