@@ -1,5 +1,5 @@
 (function () {
-  var CHAPTERS = ["CH01", "CH02", "CH03", "CH04", "CH05", "CH06", "CH07", "CH08"];
+  var CHAPTERS = ["CH01", "CH02", "CH03", "CH04", "CH05", "CH06", "CH07", "CH08", "DATA"];
   var BLANK = /_{3,}/;
 
   // ---------------------------------------------------------------- parsing
@@ -405,6 +405,7 @@
       answer: "답변을 입력하세요",
       answerLabel: "답변",
       noAnswers: "아직 작성한 답변이 없습니다.",
+      tabs: { DATA: "데이터 현황표" },
     },
     en: {
       download: "Download Markdown (.md)",
@@ -416,6 +417,7 @@
       answer: "Type your answer",
       answerLabel: "Answer",
       noAnswers: "No answers yet.",
+      tabs: { DATA: "Data Status Table" },
     },
   }[locale];
 
@@ -650,7 +652,7 @@
     var b = document.createElement("button");
     b.type = "button";
     b.dataset.ch = c;
-    b.textContent = c;
+    b.textContent = T.tabs[c] || c;
     b.addEventListener("click", function () { open(c); });
     nav.appendChild(b);
   });
