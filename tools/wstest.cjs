@@ -7,8 +7,7 @@ const { parse, serialize } = m.exports;
 const norm = (s) => s.replace(/\n{3,}/g, "\n\n").replace(/[ \t]+$/gm, "").trim();
 let bad = 0;
 for (const loc of ["ko", "en"])
-  for (let n = 1; n <= 8; n++) {
-    const ch = "CH0" + n;
+  for (const ch of ["CH01", "CH02", "CH03", "CH04", "CH05", "CH06", "CH07", "CH08", "DATA"]) {
     const md = fs.readFileSync(`${ROOT}/${loc}/manual/${ch}-worksheet.md`, "utf8").replace(/\r\n/g, "\n");
     const tk = parse(md);
     const rt = serialize(tk, {});
