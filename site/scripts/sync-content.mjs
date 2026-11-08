@@ -114,27 +114,11 @@ for (const locale of LOCALES) {
   }
   chapterTitlesByLocale[locale] = titles;
 
-  // Worksheets
-  let wOrder = 1;
+  // Worksheets: only the raw .md the Worksheet Writer reads (no doc pages, no sidebar list)
   for (const file of listDir(locale, "manual")) {
     const raw = readSource(locale, "manual", file);
     // Longest match first: DATA-PRE must not be read as DATA.
     const ch = (file.match(/^(CH\d\d|DATA-PRE|DATA)(?=-worksheet\.md$)/) || [file])[0];
-    const fallback = `${ch} Worksheet`;
-    const { title, body } = extractTitle(raw, fallback);
-    const writerLink =
-      locale === "ko"
-        ? `> [워크시트 작성기에서 답변하고 Markdown으로 저장하기](${BASE}ko/worksheet/#${ch})
-
-`
-        : `> [Answer in the Worksheet Writer and save as Markdown](${BASE}en/worksheet/#${ch})
-
-`;
-    writeGenerated(
-      join(OUT_ROOT, locale, "manual", file),
-      { title, sidebar: { order: wOrder++ } },
-      writerLink + body
-    );
     mkdirSync(join(SITE_ROOT, "public", "worksheets", locale), { recursive: true });
     writeFileSync(join(SITE_ROOT, "public", "worksheets", locale, file), raw, "utf8");
   }
@@ -175,7 +159,7 @@ const LANDING_STRINGS = {
     appendixNote: "부록은 챕터를 보완하는 심화 자료입니다. 부록 E·F와 C·D 보강은 v0.2에서 추가되었고 아직 사람이 내용 검토를 마치지 않은 초안입니다.",
     startLabel: "CH01부터 시작하기",
     worksheetsNote:
-      "각 챕터별 실습 워크시트는 왼쪽 사이드바의 **워크시트** 그룹에서 확인할 수 있습니다. 질문에 직접 답하고 Markdown 파일로 저장하려면 [워크시트 작성기](" + BASE + "ko/worksheet/)를 이용하세요.",
+      "실습 워크시트는 왼쪽 사이드바의 **워크시트 작성기**에서 질문에 직접 답하고 Markdown 파일로 저장할 수 있습니다. [워크시트 작성기 열기](" + BASE + "ko/worksheet/)",
   },
   en: {
     title: "Business Planning Handbook",
@@ -185,7 +169,7 @@ const LANDING_STRINGS = {
     appendixNote: "The appendices are supplementary material that deepens the chapters. Appendices E and F and the additions to C and D were added in v0.2 and have not yet been fully human-reviewed.",
     startLabel: "Start with CH01",
     worksheetsNote:
-      "Practical worksheets for each chapter are available under the **Worksheets** group in the sidebar on the left. To answer the questions and save them as a Markdown file, use the [Worksheet Writer](" + BASE + "en/worksheet/).",
+      "The practical worksheets are in the **Worksheet Writer** in the sidebar on the left: answer the questions there and save them as a Markdown file. [Open the Worksheet Writer](" + BASE + "en/worksheet/)",
   },
 };
 
