@@ -1,0 +1,2 @@
+# Keep the 11/12 download files byte-for-byte (CRLF/UTF-8 BOM stay as authored).
+site/public/downloads/** -text

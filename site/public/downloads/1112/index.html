@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<meta name="color-scheme" content="light dark">
+<title>11/12 실습 자료 내려받기</title>
+<style>
+  :root {
+    --bg: #ffffff;
+    --fg: #1d2330;
+    --muted: #5a6475;
+    --card: #f4f6fa;
+    --line: #d5dbe6;
+    --accent: #1f5fbf;
+    --accent-fg: #ffffff;
+    --note-bg: #fff6df;
+    --note-line: #e3c26b;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #12161d;
+      --fg: #e8ecf3;
+      --muted: #a4adbd;
+      --card: #1b2230;
+      --line: #313a4c;
+      --accent: #7fb0ff;
+      --accent-fg: #0d1a30;
+      --note-bg: #2b2412;
+      --note-line: #7a6522;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: system-ui, -apple-system, "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
+    line-height: 1.7;
+    font-size: 17px;
+    word-break: keep-all;
+    overflow-wrap: anywhere;
+  }
+  main { max-width: 640px; margin: 0 auto; padding: 24px 16px 56px; }
+  h1 { font-size: 1.5rem; line-height: 1.35; margin: 0 0 12px; }
+  h2 { font-size: 1.15rem; margin: 32px 0 8px; }
+  p { margin: 8px 0; }
+  .note {
+    background: var(--note-bg);
+    border: 1px solid var(--note-line);
+    border-radius: 8px;
+    padding: 10px 14px;
+    margin: 16px 0;
+  }
+  .muted { color: var(--muted); font-size: 0.92rem; }
+  .btn {
+    display: block;
+    text-align: center;
+    background: var(--accent);
+    color: var(--accent-fg);
+    font-weight: 700;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin: 12px 0;
+  }
+  ul.files { list-style: none; margin: 8px 0; padding: 0; }
+  ul.files li {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 10px 14px;
+    margin: 8px 0;
+  }
+  ul.files a { color: var(--accent); font-weight: 700; }
+  ul.plain { margin: 8px 0; padding-left: 1.2em; }
+  a { color: var(--accent); }
+  .btn { color: var(--accent-fg); }
+  a:focus-visible, .btn:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  code { font-family: ui-monospace, Consolas, monospace; font-size: 0.95em; }
+</style>
+</head>
+<body>
+<main>
+  <h1>11/12 실습 자료 내려받기</h1>
+  <p>콘텐츠 비즈니스 사업계획서 디벨롭 실습 교재의 자료 모음이다.</p>
+  <div class="note">
+    <p>모든 데이터는 〔실습용 가상자료〕이다. 실제 사업이나 브랜드의 숫자가 아니다.</p>
+    <p>개인정보는 넣지 않는다.</p>
+  </div>
+
+  <h2>1. 워크시트 작성기</h2>
+  <p>교재의 질문에 답하고 Markdown 파일로 저장하는 도구다. 답변은 이 기기의 브라우저에만 저장된다.</p>
+  <a class="btn" href="../../ko/worksheet/">워크시트 작성기 열기</a>
+  <p>탭은 이렇게 나뉜다.</p>
+  <ul class="plain">
+    <li>CH05 · CH06 · CH07 · CH08: 챕터별 워크시트</li>
+    <li>데이터 현황표: 이미 운영 중이고 자기 숫자가 있는 사람용 (<a href="../../ko/worksheet/#DATA">바로 열기</a>)</li>
+    <li>가설·조사 현황표: 예비창업자용 (<a href="../../ko/worksheet/#DATA-PRE">바로 열기</a>)</li>
+  </ul>
+
+  <h2>2. 데이터 파일</h2>
+  <p>두 갈래가 있다. 자기 상황에 맞는 쪽만 쓴다.</p>
+  <ul class="plain">
+    <li>A: 이미 운영 중인데 아직 자기 숫자가 없을 때 쓰는 자료</li>
+    <li>B: 예비창업자용 자료</li>
+  </ul>
+  <p>전체 파일 하나에 시트 5개가 들어 있다.</p>
+  <ul class="files">
+    <li>
+      <a href="practice-data.xlsx">practice-data.xlsx</a><br>
+      <span class="muted">전체. 시트 5개: A1 샘플 12개월, A2 상품별 매출, B1 경쟁·대체 콘텐츠 12개, B2 간이 반응 테스트 14일, B3 인터뷰 기록 5건</span>
+    </li>
+  </ul>
+  <p>시트별 CSV 파일도 따로 있다.</p>
+  <ul class="files">
+    <li>
+      <a href="A1-sample-12months.csv">A1-sample-12months.csv</a><br>
+      <span class="muted">A 이미 운영 중인 사람용. 샘플 12개월</span>
+    </li>
+    <li>
+      <a href="A2-product-revenue.csv">A2-product-revenue.csv</a><br>
+      <span class="muted">A 이미 운영 중인 사람용. 상품별 매출</span>
+    </li>
+    <li>
+      <a href="B1-competitors-12.csv">B1-competitors-12.csv</a><br>
+      <span class="muted">B 예비창업자용. 경쟁·대체 콘텐츠 12개</span>
+    </li>
+    <li>
+      <a href="B2-response-test-14days.csv">B2-response-test-14days.csv</a><br>
+      <span class="muted">B 예비창업자용. 간이 반응 테스트 14일</span>
+    </li>
+    <li>
+      <a href="B3-interviews-5.csv">B3-interviews-5.csv</a><br>
+      <span class="muted">B 예비창업자용. 인터뷰 기록 5건</span>
+    </li>
+  </ul>
+
+  <h2>3. 프롬프트 모음</h2>
+  <p>AI에 넣을 프롬프트 모음이다. 공통 조건 5줄이 들어 있다. 모든 프롬프트 맨 아래에 붙여서 쓴다.</p>
+  <ul class="files">
+    <li><a href="prompts.txt">prompts.txt</a></li>
+  </ul>
+
+  <h2>4. 실습 교재 PDF</h2>
+  <ul class="files">
+    <li><a href="workbook.pdf">workbook.pdf</a><br><span class="muted">실습 교재 PDF</span></li>
+  </ul>
+
+  <p class="muted">AI가 말한 숫자는 내가 다시 계산한다. 고객 이름·연락처·계정명은 어디에도 넣지 않는다.</p>
+</main>
+</body>
+</html>
