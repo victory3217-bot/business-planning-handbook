@@ -89,7 +89,7 @@
 
 ## 4. 엑셀 내려받기
 
-[practice-data.xlsx 내려받기](/business-planning-handbook/downloads/content-business/practice-data.xlsx) 한 파일에 세 탭이 들어 있다. 작성기의 CH01~CH08 실습과는 별개로, 이 부록의 계산과 가설검정을 직접 해 보는 연습 파일이다.
+[practice-data.xlsx 내려받기](/business-planning-handbook/downloads/content-business/practice-data.xlsx) 한 파일에 세 탭이 들어 있다. 작성기 CH01~CH08 실습을 마친 뒤 이 엑셀로 콘텐츠 비즈니스의 지표를 실습한다. 마지막에는 작성기에서 내려받은 답(.md)과 이 엑셀 파일을 함께 AI에게 주어 사업계획서 초안을 만들고 검토한다.
 
 | 탭 | 내용 |
 |---|---|

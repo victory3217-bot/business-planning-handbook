@@ -405,6 +405,8 @@
       answer: "답변을 입력하세요",
       answerLabel: "답변",
       noAnswers: "아직 작성한 답변이 없습니다.",
+      prevCh: "이전 챕터",
+      nextCh: "다음 챕터",
       tabs: {},
     },
     en: {
@@ -417,6 +419,8 @@
       answer: "Type your answer",
       answerLabel: "Answer",
       noAnswers: "No answers yet.",
+      prevCh: "Previous chapter",
+      nextCh: "Next chapter",
       tabs: {},
     },
   }[locale];
@@ -616,6 +620,34 @@
     if (box && txt && box.open && toolbar._summary) txt.value = toolbar._summary();
   }
 
+  // 챕터 맨 아래: 이전·다음 챕터로 이동하는 버튼
+  function addChapNav(ch) {
+    var idx = CHAPTERS.indexOf(ch);
+    var foot = el("div", "ws-chapnav");
+    function go(target) {
+      open(target);
+      var top = document.getElementById("ws-nav");
+      if (top && top.scrollIntoView) top.scrollIntoView({ block: "start" });
+    }
+    if (idx > 0) {
+      var prev = CHAPTERS[idx - 1];
+      var pb = el("button", "ws-prev");
+      pb.type = "button";
+      pb.textContent = "← " + T.prevCh + " (" + (T.tabs[prev] || prev) + ")";
+      pb.addEventListener("click", function () { go(prev); });
+      foot.appendChild(pb);
+    }
+    if (idx >= 0 && idx < CHAPTERS.length - 1) {
+      var next = CHAPTERS[idx + 1];
+      var nb = el("button", "ws-next");
+      nb.type = "button";
+      nb.textContent = T.nextCh + " (" + (T.tabs[next] || next) + ") →";
+      nb.addEventListener("click", function () { go(next); });
+      foot.appendChild(nb);
+    }
+    if (foot.childNodes.length) form.appendChild(foot);
+  }
+
   function open(ch) {
     CHAPTERS.forEach(function (c) {
       nav.querySelector('[data-ch="' + c + '"]').setAttribute("aria-current", c === ch ? "true" : "false");
@@ -632,6 +664,7 @@
         var values = load(ch);
         var onChange = function () { save(ch, values); refreshView(); };
         render(tokens, values, onChange, form);
+        addChapNav(ch);
         toolbar.hidden = false;
         toolbar.dataset.ch = ch;
         toolbar._get = function () { return serialize(tokens, values, T.answerLabel); };
@@ -642,6 +675,7 @@
           values = {};
           save(ch, values);
           render(tokens, values, function () { save(ch, values); refreshView(); }, form);
+          addChapNav(ch);
           refreshView();
         };
       })

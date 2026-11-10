@@ -97,6 +97,10 @@ const L = ko
   }
   #ws-toolbar #ws-download { background: var(--sl-color-accent); color: var(--sl-color-white); border-color: var(--sl-color-accent); }
   #ws-form { max-width: 100%; }
+  #ws-form .ws-chapnav { display: flex; flex-wrap: wrap; gap: 0.6rem; justify-content: space-between; margin: 2.5rem 0 1rem; padding-top: 1.2rem; border-top: 1px solid var(--sl-color-gray-5); }
+  #ws-form .ws-chapnav button { min-height: 2.75rem; border: 1px solid var(--sl-color-gray-5); background: var(--sl-color-bg-nav); color: var(--sl-color-text); border-radius: 0.4rem; padding: 0.35rem 1rem; font: inherit; cursor: pointer; }
+  #ws-form .ws-chapnav .ws-next { margin-left: auto; background: var(--sl-color-accent); color: var(--sl-color-white); border-color: var(--sl-color-accent); font-weight: 600; }
+  #ws-form .ws-chapnav button:focus-visible { outline: 3px solid var(--sl-color-accent-high); outline-offset: 2px; }
   #ws-form .ws-answer {
     display: block; width: 100%; box-sizing: border-box; min-height: 6rem;
     padding: 0.6rem; font: inherit; line-height: 1.5;
