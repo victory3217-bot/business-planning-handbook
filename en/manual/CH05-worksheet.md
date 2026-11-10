@@ -64,13 +64,13 @@ Fill in the blanks below and read it as one continuous sentence. If there is a s
 "This customer ( ______________ ) wants
 this value ( ______________ ) because of this problem ( ______________ ).
 We use this channel ( ______________ ) to deliver this value,
-and we build this kind of relationship ( ______________ ) with the customer.
+and we acquire, retain, and expand customers by this method ( ______________ ).
 With this resource ( ______________ ) and this activity ( ______________ ), we create the customer value,
 and we leave what is missing to this partner ( ______________ ).
 Because of this structure, this cost ( ______________ )
 and this revenue ( ______________ ) arise."
 
-> In the relationship blank, write how you use the channel to acquire, retain, and expand customers.
+> In the method blank, write how you use the channel to acquire (get), retain (keep), and expand (grow) customers.
 
 - The ( ______________ ) customer wants ( ______________ ) as the solution/product to solve the ( ______________ ) problem/need. We
   - Write: ______________________________________________________
