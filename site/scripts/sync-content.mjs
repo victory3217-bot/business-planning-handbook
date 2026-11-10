@@ -117,8 +117,7 @@ for (const locale of LOCALES) {
   // Worksheets: only the raw .md the Worksheet Writer reads (no doc pages, no sidebar list)
   for (const file of listDir(locale, "manual")) {
     const raw = readSource(locale, "manual", file);
-    // Longest match first: DATA-PRE must not be read as DATA.
-    const ch = (file.match(/^(CH\d\d|DATA-PRE|DATA)(?=-worksheet\.md$)/) || [file])[0];
+    const ch = (file.match(/^(CH\d\d)(?=-worksheet\.md$)/) || [file])[0];
     mkdirSync(join(SITE_ROOT, "public", "worksheets", locale), { recursive: true });
     writeFileSync(join(SITE_ROOT, "public", "worksheets", locale, file), raw, "utf8");
   }
