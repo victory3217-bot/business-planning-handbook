@@ -61,10 +61,8 @@ Both editions cover the same 8 chapters, worksheets, and examples 1:1 — neithe
 
 Each chapter includes one practical worksheet under `ko/manual/` and `en/manual/` (e.g. `CH01-worksheet.md`), converting the chapter's existing questions and frameworks into a fillable format. No new methodology was invented for these worksheets.
 각 Chapter는 `ko/manual/`과 `en/manual/`에 실습 워크시트 1개씩을 포함하며, 기존 질문과 프레임워크를 작성 가능한 형태로 변환한 것이다. 새로운 방법론을 추가하지 않았다.
-In addition, `DATA-worksheet.md` (Data Status Table) is a separate auxiliary worksheet for operators of content businesses. It is not converted from the Knowledge Modules; its metric names and formulas are proposals for use in that worksheet, not standard definitions. It is in addition to the one-per-chapter worksheets above.
-이와 별도로 `DATA-worksheet.md`(데이터 현황표)는 콘텐츠 비즈니스 사업자용 보조 워크시트다. Knowledge Module의 질문을 옮긴 것이 아니며, 지표 이름과 계산식은 이 워크시트에서 쓰기 위한 〔제안〕이지 표준 정의가 아니다. 위의 Chapter별 워크시트 1개씩과는 별개다.
-`DATA-PRE-worksheet.md` (Hypothesis & Research Table) is another auxiliary worksheet, for aspiring founders preparing a content business who do not yet have their own numbers. It is not converted from the Knowledge Modules either; its metric names and formulas are proposals for use in that worksheet, not standard definitions.
-`DATA-PRE-worksheet.md`(가설·조사 현황표)는 아직 자기 숫자가 없는 콘텐츠 비즈니스 예비창업자용 또 다른 보조 워크시트다. 이것도 Knowledge Module의 질문을 옮긴 것이 아니며, 지표 이름과 계산식은 이 워크시트에서 쓰기 위한 〔제안〕이지 표준 정의가 아니다.
+Appendix G (`ko/appendix/G-content-business-metrics.md`) adds a content-business supplement: metric formulas, hypothesis testing, and a linked Excel practice file. It is not a worksheet in the Worksheet Writer; its metric names and formulas are proposals, not standard definitions.
+부록 G(`ko/appendix/G-content-business-metrics.md`)는 콘텐츠 비즈니스용 보강 자료로, 지표 계산식·가설검정·연동 엑셀 실습 파일을 담는다. 워크시트 작성기의 탭이 아니며, 지표 이름과 계산식은 〔제안〕이지 표준 정의가 아니다.
 
 ## Examples / 사례
 
