@@ -2,6 +2,8 @@
 
 > This appendix is supplementary material for people running a content business (video, newsletter, courses, e-books, memberships); it is not drawn from the Knowledge Modules. The metric names and formulas are proposals for use in this appendix, not standard definitions. Every number here is practice sample data, not figures from a real business or brand.
 
+<p class="dl-wrap"><a class="dl-button" href="/business-planning-handbook/downloads/content-business/practice-data.xlsx" download><span class="dl-icon" aria-hidden="true">⬇</span><span>Download the Excel file<span class="dl-sub">practice-data.xlsx · 3 tabs: A1 sample 12 months, Hypothesis test, Calculation notes</span></span></a></p>
+
 ## Questions this appendix answers
 
 - Which numbers should a content business record?
@@ -69,4 +71,6 @@ Mark each of the seven columns with ○ if you measure it now or △ if not, and
 
 ## 4. Excel download
 
-[Download practice-data.xlsx](/business-planning-handbook/downloads/content-business/practice-data.xlsx) has three tabs: A1 sample 12 months (inputs plus formulas and the next-12-month estimate), Hypothesis test (the three hypotheses with formulas and blank rows for yours), and Calculation notes (meaning and formula for each metric). A [CSV of the A1 tab](/business-planning-handbook/downloads/content-business/A1-sample-12months.csv) is also available. Do not enter personal information. Use it after you finish the CH01-CH08 worksheets; at the end, give the AI both your Writer answers (.md) and this Excel file to draft and review the business plan.
+<p class="dl-wrap"><a class="dl-button" href="/business-planning-handbook/downloads/content-business/practice-data.xlsx" download><span class="dl-icon" aria-hidden="true">⬇</span><span>Download the Excel file<span class="dl-sub">practice-data.xlsx · 3 tabs: A1 sample 12 months, Hypothesis test, Calculation notes</span></span></a></p>
+
+has three tabs: A1 sample 12 months (inputs plus formulas and the next-12-month estimate), Hypothesis test (the three hypotheses with formulas and blank rows for yours), and Calculation notes (meaning and formula for each metric). A [CSV of the A1 tab](/business-planning-handbook/downloads/content-business/A1-sample-12months.csv) is also available. Do not enter personal information. Use it after you finish the CH01-CH08 worksheets; at the end, give the AI both your Writer answers (.md) and this Excel file to draft and review the business plan.

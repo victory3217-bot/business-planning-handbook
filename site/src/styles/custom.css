@@ -1,0 +1,24 @@
+/* 부록 G 등에서 쓰는 내려받기 버튼 (본문에 <a class="dl-button"> 로 넣는다) */
+.sl-markdown-content .dl-wrap { margin: 1.25rem 0; }
+.sl-markdown-content a.dl-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.9rem;
+  min-height: 3.25rem;
+  padding: 0.75rem 1.4rem;
+  border-radius: 0.6rem;
+  background: var(--sl-color-text-accent);
+  color: var(--sl-color-black);
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1.1rem;
+  line-height: 1.35;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.18);
+}
+.sl-markdown-content a.dl-button .dl-icon { font-size: 1.5rem; line-height: 1; }
+.sl-markdown-content a.dl-button .dl-sub { display: block; font-weight: 400; font-size: 0.85rem; opacity: 0.92; }
+.sl-markdown-content a.dl-button:hover { background: var(--sl-color-accent-high); color: var(--sl-color-black); }
+.sl-markdown-content a.dl-button:focus-visible { outline: 3px solid var(--sl-color-text-accent); outline-offset: 3px; }
+@media (max-width: 50rem) {
+  .sl-markdown-content a.dl-button { display: flex; width: 100%; box-sizing: border-box; }
+}
