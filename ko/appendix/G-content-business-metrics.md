@@ -2,6 +2,8 @@
 
 > 이 부록은 핸드북 본문(KM 기반)이 아니라 콘텐츠 비즈니스(영상·뉴스레터·강의·전자책·멤버십 등)를 하는 사업자를 위한 보강 자료다. 지표 이름과 계산식은 이 부록에서 쓰기 위한 〔제안〕이지 표준 정의가 아니다. 이 부록의 모든 숫자는 〔실습용 가상자료〕이며 실제 사업이나 브랜드의 숫자가 아니다.
 
+<p class="dl-wrap"><a class="dl-button" href="/business-planning-handbook/downloads/content-business/practice-data.xlsx" download><span class="dl-icon" aria-hidden="true">⬇</span><span>엑셀 내려받기<span class="dl-sub">practice-data.xlsx · 탭 3개: A1 샘플 12개월, 가설검정, 계산 설명</span></span></a></p>
+
 ## 이 장에서 답할 질문
 
 - 콘텐츠 사업은 어떤 숫자를 기록해야 하는가?
@@ -89,7 +91,9 @@
 
 ## 4. 엑셀 내려받기
 
-[practice-data.xlsx 내려받기](/business-planning-handbook/downloads/content-business/practice-data.xlsx) 한 파일에 세 탭이 들어 있다. 작성기 CH01~CH08 실습을 마친 뒤 이 엑셀로 콘텐츠 비즈니스의 지표를 실습한다. 마지막에는 작성기에서 내려받은 답(.md)과 이 엑셀 파일을 함께 AI에게 주어 사업계획서 초안을 만들고 검토한다.
+<p class="dl-wrap"><a class="dl-button" href="/business-planning-handbook/downloads/content-business/practice-data.xlsx" download><span class="dl-icon" aria-hidden="true">⬇</span><span>엑셀 내려받기<span class="dl-sub">practice-data.xlsx · 탭 3개: A1 샘플 12개월, 가설검정, 계산 설명</span></span></a></p>
+
+한 파일에 세 탭이 들어 있다. 작성기 CH01~CH08 실습을 마친 뒤 이 엑셀로 콘텐츠 비즈니스의 지표를 실습한다. 마지막에는 작성기에서 내려받은 답(.md)과 이 엑셀 파일을 함께 AI에게 주어 사업계획서 초안을 만들고 검토한다.
 
 | 탭 | 내용 |
 |---|---|
